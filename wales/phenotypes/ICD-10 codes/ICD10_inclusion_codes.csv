@@ -1,0 +1,57 @@
+﻿code,description,phenotype_description,phenotype_abbreviation,esc_complexity_classification,code_position,code_terminology
+Q252,Atresia of aorta,aortic valve atresia/aplasia,AAP,Severe,All,ICD-10
+Q205,Discordant atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,All,ICD-10
+Q212,Atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,All,ICD-10
+Q230,Congenital stenosis of aortic valve,aortic stenosis,AS,Mild,All,ICD-10
+Q231,Congenital insufficiency of aortic valve,aortic regurgitation,AR,Mild,All,ICD-10
+Q253,Stenosis of aorta,coarctation of aorta,COA,Moderate,All,ICD-10
+I35,Nonrheumatic aortic valve disorders,aortic valve disease,AVD,Mild,All,ICD-10
+I350,Aortic (valve) stenosis,aortic stenosis,AS,Mild,All,ICD-10
+I351,Aortic (valve) insufficiency,aortic regurgitation,AR,Mild,All,ICD-10
+I352,Aortic (valve) stenosis with insufficiency,aortic valve disease,AVD,Mild,All,ICD-10
+Q200,Common arterial trunk,common arterial trunk,CAT,Severe,All,ICD-10
+Q206,Isomerism of atrial appendages,general classification,CHD,Severe,All,ICD-10
+Q208,Other congenital malformations of cardiac chambers and connections,general classification,CHD,Mild,All,ICD-10
+Q209,"Congenital malformation of cardiac chambers and connections, unspecified",general classification,CHD,Mild,All,ICD-10
+Q240,Dextrocardia,general classification,CHD,Mild,All,ICD-10
+Q242,Cor triatriatum,general classification,CHD,Mild,All,ICD-10
+Q245,Malformation of coronary vessels,general classification,CHD,Mild,All,ICD-10
+Q248,Other specified congenital malformations of heart,general classification,CHD,Mild,All,ICD-10
+Q249,"Congenital malformation of the heart, unspecified",general classification,CHD,Mild,All,ICD-10
+Q251,Coarctation of aorta,coarctation of aorta,COA,Moderate,All,ICD-10
+Q204,Double inlet ventricle,double inlet ventricle,DIV,Severe,All,ICD-10
+Q202,Double outlet left ventricle,double outlet left ventricle,DOLV,Severe,All,ICD-10
+Q201,Double outlet right ventricle,double outlet right ventricle,DORV,Severe,All,ICD-10
+Q225,Ebstein's anomaly,ebstein anomaly,EBS,Moderate,All,ICD-10
+Q234,Hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,All,ICD-10
+Q226,Hypoplastic right heart syndrome,hypoplastic right heart,HRH,Severe,All,ICD-10
+Q233,Congenital mitral insufficiency,mitral regurgitation,MR,Mild,All,ICD-10
+Q232,Congenital mitral stenosis,mitral regurgitation,MS,Mild,All,ICD-10
+Q254,Other congenital malformations of aorta,other anomalies of the thoracic aorta,OATA,Moderate,All,ICD-10
+Q223,Other congenital malformations of pulmonary valve,other valve defect,OVD,Mild,All,ICD-10
+Q228,Other congenital malformations of tricuspid valve,other valve defect,OVD,Moderate,All,ICD-10
+Q229,"Congenital malformation of tricuspid valve, unspecified",other valve defect,OVD,Moderate,All,ICD-10
+Q238,Other congenital malformations of aortic and mitral valves,other valve defect,OVD,Mild,All,ICD-10
+Q239,"Congenital malformation of aortic and mitral valves, unspecified",other valve defect,OVD,Mild,All,ICD-10
+Q255,Atresia of pulmonary artery,pulmonary artery atresia,PAAT,Severe,All,ICD-10
+Q256,Stenosis of pulmonary artery,pulmonary artery malformation,PAM,Moderate,All,ICD-10
+Q257,Other congenital malformations of pulmonary artery,pulmonary artery malformation,PAM,Moderate,All,ICD-10
+Q250,Patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,ICD-10
+Q221,Congenital pulmonary valve stenosis,pulmonary stenosis,PS,Moderate,All,ICD-10
+Q222,Congenital pulmonary valve insufficiency,pulmonary stenosis,PS,Moderate,All,ICD-10
+Q243,Pulmonary infundibular stenosis,pulmonary stenosis,PS,Moderate,All,ICD-10
+I370,Pulmonary valve stenosis,pulmonary stenosis,PS,Moderate,All,ICD-10
+Q220,Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,All,ICD-10
+I37,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,All,ICD-10
+I371,Pulmonary valve insufficiency,pulmonary valve malformation,PVM,Moderate,All,ICD-10
+I372,Pulmonary valve stenosis with insufficiency,pulmonary valve malformation,PVM,Moderate,All,ICD-10
+Q244,Congenital subaortic stenosis,subaortic stenosis,SAS,Moderate,All,ICD-10
+Q214,Aortopulmonary septal defect,septal defect (unspecified),SD,Moderate,All,ICD-10
+Q218,Other congenital malformations of cardiac septa,septal defect (unspecified),SD,Moderate,All,ICD-10
+Q219,"Congenital malformation of cardiac septum, unspecified",septal defect (unspecified),SD,Moderate,All,ICD-10
+Q224,Congenital tricuspid stenosis,tricuspid atresia,TAT,Severe,All,ICD-10
+Q203,Discordant ventriculoarterial connection,transposition of the great arteries,TGA,Moderate,All,ICD-10
+Q258,Other congenital malformations of great arteries,transposition of the great arteries,TGA,Moderate,All,ICD-10
+Q259,"Congenital malformation of great arteries, unspecified",transposition of the great arteries,TGA,Moderate,All,ICD-10
+Q213,Tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,All,ICD-10
+Q210,Ventricular septal defect,ventricular septal defect,VSD,Mild,All,ICD-10
