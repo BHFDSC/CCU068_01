@@ -1,0 +1,691 @@
+﻿code,description,phenotype_description,phenotype_abbreviation,esc_complexity_classification,code_terminology
+51442005,Congenital atresia of aortic valve;Imperforate aortic valve;Aortic valve atresia,aortic valve atresia/aplasia,AAP,Severe,SNOMED
+204433005,Congenital aplasia of aorta;Aplasia of aorta,aortic valve atresia/aplasia,AAP,Severe,SNOMED
+194983005,"Aortic valve regurgitation, nonrheumatic;""Aortic insufficiency, non-rheumatic"";Non-rheum. aortic incompetence;Non-rheumatic aortic sclerosis;""Aortic incompetence, non-rheumatic"";""Aortic regurgitation, non-rheumatic""",aortic regurgitation,AR,Mild,SNOMED
+60234000,"Aortic insufficiency alone, cause unspecified;""Aortic regurgitation alone, cause unspecified"";Aortic valve incompetence;AR - Aortic regurgitation;Aortic valve insufficiency;Aortic incompetence;Aortic insufficiency;Aortic regurgitation;AI - Aortic incompetence;Aortic valve regurgitation",aortic regurgitation,AR,Mild,SNOMED
+28656008,"Congenital aortic valve insufficiency NOS;Congenital insufficiency of aortic valve;Congenital aortic insufficiency;Congenital aortic regurgitation;""Congenital aortic valve insufficiency, unspecified"";AR - Congenital aortic regurgitation",aortic regurgitation,AR,Mild,SNOMED
+253706007,Anomalous origin of coronary artery from pulmonary arterial tree,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+450302005,Anomalous origin of left anterior descending coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+129582000,Congenital coronary artery fistula to pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+450301003,Anomalous origin of left coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+459066006,Anomalous origin of accessory coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+449085001,Pulmonary artery connecting to coronary artery via collateral artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+74218008,Anomalous origin of coronary artery from pulmonary trunk;Coronary artery from pulmonary trunk;Coronary artery arising from main pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+458039003,Anomalous origin of left circumflex coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+450300002,Anomalous origin of right coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+253707003,Anomalous origin of coronary artery from right pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+461088006,Cardiovascular abnormality due to anomalous origin of coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+253708008,Anomalous origin of coronary artery from left pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+461109004,Anomalous course of coronary artery anterior to pulmonary trunk and aorta,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+460582006,Anomalous origin of left coronary artery and right coronary artery from pulmonary artery,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,SNOMED
+71523008,Repair of ostium secundum defect with prosthesis by open heart technique,atrial septal defect,ASD,Mild,SNOMED
+23970008,Enlargement of atrial septal defect in repair of total anomalous pulmonary venous connection,atrial septal defect,ASD,Moderate,SNOMED
+247394006,"Insertion of King-Mills umbrella device for closure of septal defect;""Closure of atrial septal defect with umbrella device, King-Mills type""",atrial septal defect,ASD,Mild,SNOMED
+7824000,Enlargement of pre-existing atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+204315000,Atrial septal defect within oval fossa;Atrial septal defect of fossa ovalis;Fossa ovalis defect;ASD II - Secundum atrial septal defect;ASD2 - Secundum atrial septal defect;Ostium secundum defect;Secundum atrial septal defect;2 ASD - Secundum atrial septal defect;Ostium secundum type atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+54109001,Repair of ostium secundum defect with tissue graft,atrial septal defect,ASD,Mild,SNOMED
+698590007,History of closure of atrial septal defect using septal occluder device,atrial septal defect,ASD,Mild,SNOMED
+442456000,Closure of atrial septal defect using septal occluder device,atrial septal defect,ASD,Mild,SNOMED
+253371000,"Atrial septal defect through coronary sinus orifice;""Atrial septal defect, coronary sinus type""",atrial septal defect,ASD,Mild,SNOMED
+95268002,Sinus venosus defect;Sinus venosus atrial septal defect,atrial septal defect,ASD,Moderate,SNOMED
+17718000,Persistent ostium primum;Persistent ostium primum;Ostium primum defect;Ostium primum type interauricular septal defect;Atrial septum primum defect,atrial septal defect,ASD,Moderate,SNOMED
+53344002,Repair of ostium primum defect with prosthesis,atrial septal defect,ASD,Moderate,SNOMED
+204318003,Persistent ostium secundum;Patent ostium secundum;Other specified ostium secundum atrial septal defect;Ostium secundum atrial septal defect NOS,atrial septal defect,ASD,Mild,SNOMED
+34444003,Repair of ostium secundum defect,atrial septal defect,ASD,Mild,SNOMED
+405752007,Congenital atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+233007001,Closure of coronary sinus atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+60732002,"Atrial septal defect with endocardial cushion defect, partial type",atrial septal defect,ASD,Moderate,SNOMED
+11748006,Repair of atrial septal defect with prosthesis by open heart technique,atrial septal defect,ASD,Mild,SNOMED
+10870009,Repair of atrial septal defect in total repair of total anomalous pulmonary venous connection,atrial septal defect,ASD,Moderate,SNOMED
+30123000,Percutan transluminal closure defect interatrial septum NEC;Transluminal prosthetic closure of atrial septal defect;Repair of atrial septal defect with prosthesis by closed heart technique;Percutaneous prosthetic closure of atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+21526003,Repair of atrial septal defect with tissue graft;Closure of defect of interatrial septum using tissue graft,atrial septal defect,ASD,Mild,SNOMED
+461092004,Spontaneous closure of residual atrial septal defect within oval fossa,atrial septal defect,ASD,Mild,SNOMED
+429278003,History of repair of atrial septal defect;History of atrial septal defect repair,atrial septal defect,ASD,Mild,SNOMED
+112811009,Closure of defect of interatrial septum;Atrioseptoplasty;Repair of atrial septum of heart;Repair of defect of atrial septum;Repair of atrial septal defect;Septal atrioplasty of heart;Atrioseptopexy;Repair of defect of interatrial septum;Correction of atrial septal defect;ASD - Repair of atrial septal defect;Closure of atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+308854001,Entire ostium secundum,atrial septal defect,ASD,Mild,SNOMED
+301130004,Atrial septal defect murmur,atrial septal defect,ASD,Mild,SNOMED
+70142008,Other specified atrial septal defect;Interatrial septal defect NEC;Interatrial septal defect;ASD - Atrial septal defect;Atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+8.18681E+14,Ostium secundum atrial septal defect resolved,atrial septal defect,ASD,Mild,SNOMED
+174866007,Enlarge heart septal foramen;Open enlargement of defect of atrial septum;Open enlargement of atrial septal defect;ASD - Open enlargement of atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+51087002,Repair of ostium primum defect with tissue graft,atrial septal defect,ASD,Moderate,SNOMED
+233006005,Repair of coronary sinus atrial septal defect to create tunnel;Repair of unroofed coronary sinus to create tunnel,atrial septal defect,ASD,Mild,SNOMED
+204319006,Lutembacher syndrome;Lutembacher's syndrome,atrial septal defect,ASD,Moderate,SNOMED
+310442001,Closure of atrial septal defect using sutures,atrial septal defect,ASD,Mild,SNOMED
+725145002,"Atrial septal defect, atrioventricular conduction defect syndrome",atrial septal defect,ASD,Moderate,SNOMED
+310443006,Closure of atrial septal defect using patch,atrial septal defect,ASD,Mild,SNOMED
+46437007,Repair of ostium secundum defect with prosthesis by closed heart technique,atrial septal defect,ASD,Mild,SNOMED
+253366007,Auricular septal defect NOS;Interauricular septal defect,atrial septal defect,ASD,Mild,SNOMED
+310400003,Patching of coronary sinus atrial septal defect,atrial septal defect,ASD,Mild,SNOMED
+24467006,Ostium secundum;Structure of ostium secundum,atrial septal defect,ASD,Mild,SNOMED
+432114008,Fluoroscopic guidance for closure of atrial septal defect;Fluoroscopy guided closure of atrial septal defect;Closure of atrial septal defect using fluoroscopic guidance,atrial septal defect,ASD,Mild,SNOMED
+449379004,Atrioventricular septal defect with ventricular component under inferior bridging leaflet with chords to crest ventricular septum,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449539009,Atrioventricular septal defect with atrioventricular valve regurgitation through right inferior bridging leaflet inferior mural commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+445002005,Atrioventricular septal defect with separate atrioventricular orifices,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253277003,Discordant atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448777006,Noncoapting atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448183001,Atrioventricular septal defect with ventricular component and interchordal shunting under superior bridging leaflet,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253415001,Atrioventricular septal defect - isolated ventricular component;Partial atrioventricular septal defect with isolated ventricular component,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253278008,Ambiguous atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448182006,Atrioventricular septal defect with ventricular component and interchordal shunting under inferior bridging leaflet,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448331000,Atrioventricular septal defect with restrictive ventricular component,atrioventricular septal defect,AVSD,Moderate,SNOMED
+699078008,Repair of atrioventricular septal defect with atrial and ventricular components;Repair of complete atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253422009,Atrioventricular septal defect - ventricular component under inferior bridging leaflet,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253438003,Common atrioventricular valve prolapse;Prolapse of atrioventricular valve leaflet in common atrioventricular junction;Prolapse of atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+445334007,Atrioventricular septal defect with additional muscular ventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449537006,Atrioventricular septal defect with atrioventricular valve regurgitation through right anterosuperior inferior mural commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448118003,Atrioventricular septal defect with atrial and ventricular components and separate atrioventricular valves,atrioventricular septal defect,AVSD,Moderate,SNOMED
+737156006,Congenital anomaly of atrioventricular septum,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253440008,Accessory tissue on common atrioventricular valve leaflet;Accessory tissue on atrioventricular valve leaflet in common atrioventricular junction;Accessory tissue on atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+447777009,Spontaneous closure of ventricular component of atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+471279005,Recurrent atrial component of atrioventricular septal defect after prior cardiovascular surgical procedure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253414002,Atrioventricular septal defect and common atrioventricular junction;Atrioventricular septal defect;AVSD - Atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449538001,Atrioventricular septal defect with atrioventricular valve regurgitation through right anterosuperior superior bridging leaflet commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+459180002,Aneurysm of patch of atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253446002,Atrioventricular valve chordae in atrioventricular septal defect too long;Atrioventricular valve chordae in common atrioventricular junction too long;Common atrioventricular valve chordae too long,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253274005,Abnormal atrioventricular connection;AV - Abnormal atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449457008,Atrioventricular septal defect with atrioventricular valve regurgitation through left superior bridging leaflet lateral mural commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253374008,Congenital abnormality of atrioventricular valves in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253444004,Abnormality of common atrioventricular valve chords;Abnormality of atrioventricular valve chordae in atrioventricular septal defect;CT - Abnormality of common atrioventricular chordae tendinae;Abnormality of atrioventricular valve chordae in common atrioventricular junction;Abnormality of common atrioventricular valve chordae tendinae,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253428008,Abnormality of valve guarding common atrioventricular junction;Abnormality of common atrioventricular valve in atrioventricular septal defect;AVSD - Abnormality of common atrioventricular valve in atrioventricular septal defect;Common atrioventricular valvar abnormality,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253419007,Atrioventricular septal defect - Rastelli A;Atrioventricular septal defect with ventricular component under superior bridging leaflet with chords at crest ventricular septum,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448919005,Atrioventricular septal defect with ventricular component under superior bridging leaflet without chordal attachment to ventricular septal crest,atrioventricular septal defect,AVSD,Moderate,SNOMED
+444961009,Atrioventricular septal defect with common atrioventricular orifice,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253416000,Atrioventricular septal defect: atrial and ventricular components;Complete atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449456004,Atrioventricular septal defect with atrioventricular valve regurgitation through left septal commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448626007,Gelatinous atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253447006,Common atrioventricular valve chordae to outlet septum;Atrioventricular valve chordae in common atrioventricular junction;Atrioventricular valve chordae to outlet septum in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449383004,Congenital abnormality of atrioventricular valve papillary muscle in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253373002,ASD1 - Primum atrial septal defect;ASD I - Primum atrial septal defect;Primum atrial septal defect;1 ASD - Primum atrial septal defect;Partial atrioventricular septal defect;Atrioventricular septal defect - isolated atrial component,atrioventricular septal defect,AVSD,Moderate,SNOMED
+8703004,Repair of endocardial cushion defect with prosthesis,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448814004,Spontaneous closure of atrial component of atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253445003,Common atrioventricular valve chordae too short;Atrioventricular valve chordae in common atrioventricular junction too short;Atrioventricular valve chordae in atrioventricular septal defect too short,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448836001,Thickened atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449008001,Flail atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+471280008,Recurrent ventricular component of atrioventricular septal defect after prior cardiovascular surgical procedure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+233047008,Repair of atrioventricular septal defect: ventricular component,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449459006,Atrioventricular septal defect with atrioventricular valve regurgitation through left inferior bridging leaflet lateral mural commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+726335002,Common atrioventricular junction,atrioventricular septal defect,AVSD,Moderate,SNOMED
+233048003,Repair of atrioventricular septal defect with common valve orifice,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253449009,Abnormality of atrioventricular valve papillary muscle in common atrioventricular junction;Abnormality of common atrioventricular valve papillary muscle;Abnormality of atrioventricular valve papillary muscle in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253417009,Atrioventricular septal defect - ventricular component,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449189009,Mass associated with atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449388008,Abnormality of atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253418004,Atrioventricular septal defect - ventricular component under superior bridging leaflet,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449490008,Atrioventricular septal defect with atrioventricular valve regurgitation through right septal commissure,atrioventricular septal defect,AVSD,Moderate,SNOMED
+718216009,Partial atrioventricular canal;Partial defect of atrioventricular canal,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449011000,Fenestration of atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+10913003,Patch closure of endocardial cushion defect with repair of tricuspid cleft,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253420001,Atrioventricular septal defect - Rastelli B;Atrioventricular septal defect with ventricular component under superior bridging leaflet with chords to papillary muscle on right ventricular side septum,atrioventricular septal defect,AVSD,Moderate,SNOMED
+15459006,"Endocardial cushion defects, unspecified;Endocardial cushion defect;Endocardial cushion defects NOS;Other specified endocardial cushion defects;Endocardial cushion defects NOS",atrioventricular septal defect,AVSD,Moderate,SNOMED
+253431009,Hypoplasia of common atrioventricular valve,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253421002,Atrioventricular septal defect with ventricular component under free floating superior bridging leaflet and chords to papillary muscle at right ventricular free wall;Atrioventricular septal defect - Rastelli C,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448119006,Atrioventricular septal defect with atrioventricular valve regurgitation,atrioventricular septal defect,AVSD,Moderate,SNOMED
+253439006,True cleft of atrioventricular valve leaflet in common atrioventricular junction;True cleft of common atrioventricular valve leaflet;True cleft of atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448184007,Atrioventricular septal defect with ventricular component and shunting under connecting tongue with separate orifices,atrioventricular septal defect,AVSD,Moderate,SNOMED
+448822006,Deficiency of atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+445299003,Atrioventricular septal defect with dominant right ventricle;Atrioventricular septal defect with ventricular imbalance consisting of dominant right ventricle and hypoplastic left ventricle,atrioventricular septal defect,AVSD,Moderate,SNOMED
+5348003,Closure of endocardial cushion defect;Repair of endocardial cushion defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+174836000,Repair of defect of the atrioventricular septum;Primary repair of defect of atrioventricular septum NEC;Closure of defect of atrioventricular septum;AVSD - Atrioventricular septal defect repair;Close defect atrioventric septum using prosthetic patch NEC;Repair defect atrioventricular septum prosthetic patch NEC;Other specified closure of defect of atrioventricular septum;Closure of defect of atrioventricular septum NOS;Primary closure of defect of atrioventricular septum NEC;Other specified repair of defect of atrioventricular septum;Repair of defect of atrioventricular septum NOS,atrioventricular septal defect,AVSD,Moderate,SNOMED
+449382009,Congenital abnormality of atrioventricular valve leaflet in atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,SNOMED
+47195003,Repair of persistent ostium primum;ASD - Repair of primum atrial septal defect;Repair of ostium primum defect;Closure of persistent ostium primum;Repair of atrioventricular septal defect: atrial component,atrioventricular septal defect,AVSD,Moderate,SNOMED
+445264002,Atrioventricular septal defect with ventricular imbalance consisting of dominant left ventricle and hypoplastic right ventricle;Atrioventricular septal defect with dominant left ventricle,atrioventricular septal defect,AVSD,Moderate,SNOMED
+722211006,"Patent ductus arteriosus, bicuspid aortic valve, hand anomaly syndrome",bicuspid aortic valve,BAV,Moderate,SNOMED
+93069000,Congenital hypertrophy of aortic valve;Congenital enlarged aortic valve,aortic valve disease,AVD,Mild,SNOMED
+703318003,Neoaortic valve stenosis,aortic stenosis,AS,Moderate,SNOMED
+427515002,Critical stenosis of aortic valve,aortic stenosis,AS,Mild,SNOMED
+250976004,Aortic cusp regurgitation;Aortic cusp disease,aortic regurgitation,AR,Mild,SNOMED
+77696009,Double aortic valve,aortic valve disease,AVD,Mild,SNOMED
+253607006,Hypoplasia of aortic valve cusp,aortic regurgitation,AR,Mild,SNOMED
+194984004,"Aortic stenosis, non-rheumatic",aortic stenosis,AS,Mild,SNOMED
+447937009,Congenital abnormality of aortic valve cusp,aortic valve disease,AVD,Mild,SNOMED
+253611000,Quadricuspid aortic valve,aortic valve disease,AVD,Mild,SNOMED
+92888002,Congenital misshapen aortic valve;Congenital abnormal shape of aortic valve,aortic valve disease,AVD,Mild,SNOMED
+93237004,Congenital hypoplasia of aortic valve;Congenital small aortic valve,aortic stenosis,AS,Mild,SNOMED
+448819009,Right-left orientation of bicuspid aortic valve,bicuspid aortic valve,BAV,Mild,SNOMED
+233862006,Calcific congenital aortic stenosis,aortic stenosis,AS,Mild,SNOMED
+194987006,Aortic valve stenosis with insufficiency,aortic valve disease,AVD,Mild,SNOMED
+13689005,AV - Congenital aortic valve abnormality;Congenital anomaly of aortic valve;Congenital aortic valve abnormality,aortic valve disease,AVD,Mild,SNOMED
+447822009,Congenital aortic valvar prolapse;Congenital prolapse of aortic valve,aortic regurgitation,AR,Mild,SNOMED
+250973007,Aortic stenosis with doming,aortic stenosis,AS,Moderate,SNOMED
+253676001,Postductal aortic stenosis,coarctation of aorta,COA,Moderate,SNOMED
+72352009,Bicuspid aortic valve - congen;Bicuspid aortic valve,bicuspid aortic valve,BAV,Mild,SNOMED
+253672004,Preductal aortic stenosis,coarctation of aorta,COA,Moderate,SNOMED
+703323003,Aortic valve regurgitation due to aortic dilation;Aortic valve regurgitation secondary to aortic dilation,aortic regurgitation,AR,Mild,SNOMED
+60573004,Aortic stenosis;Stenosed aortic valve;AS - Aortic stenosis;Aortic valve stenosis;Aortic valve stenosis,aortic stenosis,AS,Mild,SNOMED
+448790004,Anterior-posterior orientation of bicuspid aortic valve,bicuspid aortic valve,BAV,Mild,SNOMED
+276790000,Isolated aortic stenosis,aortic stenosis,AS,Mild,SNOMED
+762253006,Common arterial trunk with pulmonary dominance and interrupted aortic arch;Common arterial trunk with pulmonary dominance co-occurrent with interrupted aortic arch,common arterial trunk,CAT,Severe,SNOMED
+61959006,Common truncus arteriosus;Truncus arteriosus communis;Truncus arteriosus;Truncus arteriosus;Persistent truncus arteriosus;Common aortopulmonary trunk;Common arterial trunk (truncus arteriosus);Absent septum between aorta and pulmonary artery;Persistent truncus arteriosus;Persistent truncus arteriosus,common arterial trunk,CAT,Severe,SNOMED
+85081000,"Common arterial trunk with widely separate pulmonary artery origins;Truncus arteriosus and widely separate origin of pulmonary arteries (Edwards Type III);Common arterial trunk and widely separate origin of pulmonary arteries;Type III common arterial trunk;""Truncus arteriosus, Edwards' type III""",common arterial trunk,CAT,Severe,SNOMED
+73699003,"Truncus arteriosus, Edwards' type I;""Common outflow, separate pulmonary artery AND aorta"";Truncus arteriosus and common origin of pulmonary arteries (Edwards Type I);Common arterial trunk with common pulmonary artery origins;Common arterial trunk and common origin of pulmonary arteries;Type I common arterial trunk",common arterial trunk,CAT,Severe,SNOMED
+17024001,Aortic septal defect;Aortopulmonary window;Aortic septal defect;Common aorto-pulmonary trunk;APW - Aortopulmonary window;Aortopulmonary septal defect;Aorticopulmonary window;Common aorto-pulmonary trunk NOS;AP - Aortopulmonary window;Aorticopulmonary septal defect;Common truncus,common arterial trunk,CAT,Severe,SNOMED
+60106004,"Truncus arteriosus, Edwards' type II;Common arterial trunk with separate pulmonary artery origins;Type II common arterial trunk;Common arterial trunk and separate origin of pulmonary arteries;Truncus arteriosus and separate origin of pulmonary arteries (Edwards Type II);Main pulmonary artery arising from ascending aorta",common arterial trunk,CAT,Severe,SNOMED
+448120000,Common truncus arteriosus with crossed over pulmonary arteries;Common arterial trunk with crossed over pulmonary arteries,common arterial trunk,CAT,Severe,SNOMED
+447988007,Common truncus arteriosus with pulmonary arteries arising from trunk and unobstructed aortic arch;Common arterial trunk with pulmonary arteries arising from trunk and unobstructed aortic arch,common arterial trunk,CAT,Severe,SNOMED
+61192001,Closure of aorticopulmonary fistula or fenestration;Obliteration of aortopulmonary septal defect;APW - Closure of aortopulmonary window;Aorticopulmonary window operation;Closure of aortopulmonary window;Repair of aorticopulmonary window,common arterial trunk,CAT,Severe,SNOMED
+448887003,Common arterial trunk with isolated pulmonary artery,common arterial trunk,CAT,Severe,SNOMED
+448809003,Common arterial trunk with obstruction of aortic arch;Common truncus arteriosus with obstruction of aortic arch,common arterial trunk,CAT,Severe,SNOMED
+85041007,Formation of conduit of right ventricle and pulmonary artery in repair of pulmonary artery atresia in truncus arteriosus;Repair of common arterial trunk using right ventricle to pulmonary trunk conduit,common arterial trunk,CAT,Severe,SNOMED
+253436004,Common atrioventricular valve stenosis,common atrioventricular valve,CAVV,Moderate,SNOMED
+448308000,Right ventricular outflow tract obstruction due to common atrioventricular valve,common atrioventricular valve,CAVV,Severe,SNOMED
+253451008,Absent common atrioventricular valve papillary muscle,common atrioventricular valve,CAVV,Moderate,SNOMED
+472852000,Regurgitation of foetal common atrioventricular valve;Regurgitation of fetal common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+253437008,Common atrioventricular valve leaflet abnormality,common atrioventricular valve,CAVV,Moderate,SNOMED
+360481003,"Endocardial cushion defect, complete type;Atrioventricular canal type ventricular septal defect;Common atrioventricular canal",common atrioventricular valve,CAVV,Moderate,SNOMED
+253432002,Mucoid thickening of common atrioventricular valve;Dysplasia of common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+737155005,Congenital anomaly of atrioventricular valve,common atrioventricular valve,CAVV,Mild,SNOMED
+253441007,Double orifice of common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+253442000,Triple orifice of left ventricular component of common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+253434001,Common atrioventricular valve limited to one ventricle,common atrioventricular valve,CAVV,Severe,SNOMED
+472828007,"Disorder of atrioventricular (nonmitral, nontricuspid) valve;Disorder of atrioventricular (not morphologically mitral or tricuspid) valve",common atrioventricular valve,CAVV,Mild,SNOMED
+253453006,Hypoplastic common atrioventricular valve papillary muscle,common atrioventricular valve,CAVV,Moderate,SNOMED
+472853005,Stenosis of fetal common atrioventricular valve;Stenosis of foetal common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+253427003,"Abnormality of atrioventricular (non-mitral, non-tricuspid) valve",common atrioventricular valve,CAVV,Mild,SNOMED
+253435000,Dilatation of common atrioventricular valve annulus,common atrioventricular valve,CAVV,Moderate,SNOMED
+253433007,Regurgitation of common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+253450009,Parachute malformation of common atrioventricular valve,common atrioventricular valve,CAVV,Moderate,SNOMED
+473458004,"Regurgitation of atrioventricular (nonmitral, nontricuspid) valve;Regurgitation of atrioventricular (not morphologically mitral or tricuspid) valve",common atrioventricular valve,CAVV,Mild,SNOMED
+204330009,Common atrioventricular-type ventricular septal defect,common atrioventricular valve,CAVV,Moderate,SNOMED
+253448001,Arcade abnormality of common atrioventricular valve chordae,common atrioventricular valve,CAVV,Moderate,SNOMED
+609234009,Percutaneous transluminal closure of defect of cardiac septum;Percutaneous closure of cardiac septal defect,general classification,CHD,Mild,SNOMED
+312207008,Reversal of procedure for complex congenital heart disease,general classification,CHD,Severe,SNOMED
+127063008,Erythrocytosis due to cyanotic congenital heart disease,general classification,CHD,Severe,SNOMED
+12770006,Cyanotic congenital heart disease,general classification,CHD,Severe,SNOMED
+697905000,Pulmonary arterial hypertension associated with congenital heart disease,general classification,CHD,Severe,SNOMED
+7305005,Coarctation of aorta;Coarctation;Coarctation of aorta NOS;Aortic coarctation,coarctation of aorta,COA,Moderate,SNOMED
+253614008,Tubular hypoplasia of aorta,coarctation of aorta,COA,Moderate,SNOMED
+25736000,Excision of coarctation of aorta with end-to-end anastomosis,coarctation of aorta,COA,Moderate,SNOMED
+460918005,Abnormality within thorax due to coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+447850009,Double aortic arch with right arch dominant and coarctation of left arch,coarctation of aorta,COA,Moderate,SNOMED
+75145007,Aortic stricture;Stricture of aorta,coarctation of aorta,COA,Moderate,SNOMED
+93384001,Congenital stenosis of aortic arch;Stenosis of aortic arch;Congenital narrowed aortic arch,coarctation of aorta,COA,Moderate,SNOMED
+253674003,Preductal hypoplasia of aorta,coarctation of aorta,COA,Moderate,SNOMED
+449271003,Residual coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+72242008,Infantile type coarctation;Postductal coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+60787001,Congenital hypoplasia of aortic arch;Tubular hypoplasia of aortic arch;Tubular aortic arch hypoplasia,coarctation of aorta,COA,Moderate,SNOMED
+70602002,"Pseudocoarctation of aorta;Pseudo-coarctation;""Pseudocoarctation of aorta, congenital""",coarctation of aorta,COA,Moderate,SNOMED
+253678000,Thoracic aortic coarctation,coarctation of aorta,COA,Moderate,SNOMED
+698643003,Balloon dilation of coarctation of aorta;Balloon dilatation of coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+15946006,Correction of coarctation of aorta with graft replacement,coarctation of aorta,COA,Moderate,SNOMED
+274022008,Repair of coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+450312003,Coarctation of aorta between subclavian artery and common carotid artery,coarctation of aorta,COA,Moderate,SNOMED
+43654001,Correction of coarctation of aorta with anastomosis,coarctation of aorta,COA,Moderate,SNOMED
+448785002,Placement of stent at site of coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+428071007,History of coarctation of aorta repair;History of repair of coarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+21234008,Congenital narrowed aorta;Congenital stricture of aorta;Congenital stenosis of aorta,coarctation of aorta,COA,Moderate,SNOMED
+448067003,Recoarctation of aorta,coarctation of aorta,COA,Moderate,SNOMED
+175339005,Hamilton subclavian flap operation;Hamilton repair of coarctation of aorta using subclavian flap;Repair of aorta with subclavian flap,coarctation of aorta,COA,Moderate,SNOMED
+443829004,Percutaneous transluminal balloon angioplasty of aorta with stent placement for coarctation of aorta;Repair of coarctation of aorta using percutaneous transluminal balloon angioplasty with insertion of stent;Percutaneous transluminal balloon angioplasty of coarctation of aorta with insertion of stent,coarctation of aorta,COA,Moderate,SNOMED
+447703009,Double aortic arch with left arch dominant and coarctation of right arch,coarctation of aorta,COA,Moderate,SNOMED
+723867002,Coarctation of aortic arch,coarctation of aorta,COA,Moderate,SNOMED
+443531001,Fluoroscopy guided percutaneous insertion of stent into coarctation of aorta;Percutaneous insertion of stent into coarctation of aorta using fluoroscopic guidance,coarctation of aorta,COA,Moderate,SNOMED
+253661009,Double aortic arch with unilateral hypoplasia,coarctation of aorta,COA,Moderate,SNOMED
+13867009,Preductal coarctation of aorta;Adult-type coarctation,coarctation of aorta,COA,Moderate,SNOMED
+447846002,Obstruction of ascending aorta,coarctation of aorta,COA,Moderate,SNOMED
+233965009,Stenosis of thoracic aorta,coarctation of aorta,COA,Moderate,SNOMED
+450313008,Coarctation of aorta between left common carotid artery and right common carotid artery,coarctation of aorta,COA,Moderate,SNOMED
+268184003,Hypoplastic aorta syndrome;Hypoplasia of aorta,coarctation of aorta,COA,Moderate,SNOMED
+448646002,Aortic arch hypoplasia distal to subclavian artery;Isthmal hypoplasia of aorta,coarctation of aorta,COA,Moderate,SNOMED
+26780008,Coarctation of pulmonary artery,coarctation of pulmonary artery,COP,Moderate,SNOMED
+448637008,Coarctation of left pulmonary artery,coarctation of pulmonary artery,COP,Moderate,SNOMED
+447903001,Coarctation of right pulmonary artery,coarctation of pulmonary artery,COP,Moderate,SNOMED
+449099002,Left atrioventricular valve stenosis in double inlet ventricle;Left atrioventricular valvar stenosis in double inlet ventricle,double inlet left ventricle,DILV,Severe,SNOMED
+472802009,Subpulmonary stenosis associated with functionally univentricular heart as complication of procedure,double inlet left ventricle,DILV,Severe,SNOMED
+448729006,Common atrioventricular valve in functionally univentricular heart,double inlet left ventricle,DILV,Severe,SNOMED
+446667008,Two atrioventricular valves in double inlet ventricle,double inlet left ventricle,DILV,Severe,SNOMED
+447919008,Univentricular atrioventricular connection with absent right sided atrioventricular connection;Absent right sided atrioventricular connection - univentricular,double inlet left ventricle,DILV,Severe,SNOMED
+448625006,Univentricular atrioventricular connection with absent left sided atrioventricular connection;Absent left sided atrioventricular connection - univentricular,double inlet left ventricle,DILV,Severe,SNOMED
+472801002,Congenital subpulmonary stenosis due to restrictive ventricular defect associated with functionally univentricular heart,double inlet left ventricle,DILV,Severe,SNOMED
+253280002,Abnormal atrioventricular connection - univentricular,double inlet left ventricle,DILV,Severe,SNOMED
+445330003,Right atrioventricular valvar leaflets absent in double inlet ventricle (unguarded orifice);Right atrioventricular valve leaflets absent in double inlet ventricle (unguarded orifice),double inlet right ventricle,DIRV,Severe,SNOMED
+233129000,Repair of double outlet left ventricle with right ventricle to pulmonary trunk conduit and ventricular septal defect closure,double outlet left ventricle,DOLV,Severe,SNOMED
+7368005,Double outlet left ventricle;DOLV - Double outlet left ventricle;Origin of both great vessels from left ventricle,double outlet left ventricle,DOLV,Severe,SNOMED
+233128008,DOLV - Repair of double outlet left ventricle;Repair of double outlet left ventricle,double outlet left ventricle,DOLV,Severe,SNOMED
+233130005,Repair of double outlet left ventricle with direct right ventricle to pulmonary trunk anastomosis and ventricular septal defect closure,double outlet right ventricle,DORV,Severe,SNOMED
+253299006,Double outlet right ventricle with noncommitted ventricular septal defect,double outlet right ventricle,DORV,Severe,SNOMED
+448516008,Double outlet right ventricle of Fallot type;Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis,double outlet right ventricle,DORV,Severe,SNOMED
+762251008,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect without pulmonary stenosis - ventricular septal defect type,double outlet right ventricle,DORV,Severe,SNOMED
+427188004,Repair of double outlet right ventricle with intraventricular tunnel,double outlet right ventricle,DORV,Severe,SNOMED
+447284002,Double outlet right ventricle with intact ventricular septum,double outlet right ventricle,DORV,Severe,SNOMED
+703519007,Repair of double outlet right ventricle with anastomosis of left ventricle to aorta via ventricular septal defect and right ventricle to pulmonary trunk conduit,double outlet right ventricle,DORV,Severe,SNOMED
+233126007,Repair of double outlet right ventricle;DORV - Repair of double outlet right ventricle,double outlet right ventricle,DORV,Severe,SNOMED
+384646008,DORV - Operation for double outlet right ventricle;Operation for double outlet right ventricle;DOV - Operation for double outlet ventricle,double outlet right ventricle,DORV,Severe,SNOMED
+44777001,Rastelli operation;Creation of shunt of right ventricle and distal pulmonary artery;Formation of conduit of right ventricle and distal pulmonary artery;Creation of conduit between right ventricle and pulmonary artery,double outlet right ventricle,DORV,Severe,SNOMED
+449178002,Doubly committed ventricular septal defect in double outlet ventricle;Doubly committed ventricular septal defect in double outlet ventriculoarterial connection,double outlet right ventricle,DORV,Severe,SNOMED
+233127003,Repair of double outlet right ventricle with anastomosis of left ventricle to aorta via ventricular septal defect and direct anastomosis of right ventricle to pulmonary trunk;Rev operation,double outlet right ventricle,DORV,Severe,SNOMED
+448794008,Double outlet right ventricle with subpulmonary ventricular septal defect;Double outlet right ventricle of transposition type,double outlet right ventricle,DORV,Severe,SNOMED
+7484005,"Double outlet right ventricle;""Double outlet right ventricle, unspecified"";Origin of both great vessels from right ventricle;DORV - Double outlet right ventricle;""Transposition of great vessels, interventricular septal defect AND overriding aorta"";Double outlet right ventricle NOS;Taussig-Bing syndrome;Taussig-Bing defect",double outlet right ventricle,DORV,Severe,SNOMED
+253300003,Double outlet right ventricle with doubly committed ventricular septal defect,double outlet right ventricle,DORV,Severe,SNOMED
+253301004,DOIV - Double outlet indeterminate ventricle;Double outlet from ventricle of indeterminate morphology,double outlet ventricle,DOV,Severe,SNOMED
+427318004,Repair of double outlet ventricle;Repair of double outlet ventricle NOS;Other specified repair of double outlet ventricle,double outlet ventricle,DOV,Severe,SNOMED
+449086000,Ebstein anomaly of left atrioventricular valve in functionally univentricular heart;Ebstein's anomaly of left atrioventricular valve in functionally univentricular heart,ebstein anomaly,EBS,Moderate,SNOMED
+253443005,Ebstein anomaly of common atrioventricular valve;Ebstein's anomaly of common atrioventricular valve,ebstein anomaly,EBS,Moderate,SNOMED
+253403000,Ebstein-like downward displacement of mitral valve,ebstein anomaly,EBS,Moderate,SNOMED
+17394001,Ebstein anomaly with atrial septal defect;Ebstein's anomaly with atrial septal defect,ebstein anomaly,EBS,Moderate,SNOMED
+232883007,Repair of Ebstein anomaly of atrioventricular valve;Repair of Ebstein's anomaly of atrioventricular valve,ebstein anomaly,EBS,Moderate,SNOMED
+253496001,Ebstein anomaly of left atrioventricular valve;Ebstein's anomaly of left atrioventricular valve,ebstein anomaly,EBS,Moderate,SNOMED
+449158005,Ebstein's anomaly of tricuspid valve with atrialisation of right ventricular chamber;Ebstein's anomaly of tricuspid valve with atrialization of right ventricular chamber;Ebstein anomaly of tricuspid valve with atrialization of right ventricular chamber;Ebstein anomaly of tricuspid valve with atrialisation of right ventricular chamber,ebstein anomaly,EBS,Moderate,SNOMED
+253468007,Ebstein's anomaly of right atrioventricular valve;Ebstein anomaly of right atrioventricular valve,ebstein anomaly,EBS,Moderate,SNOMED
+448074008,Ebstein anomaly with functional tricuspid stenosis;Ebstein's anomaly with functional tricuspid stenosis,ebstein anomaly,EBS,Moderate,SNOMED
+174939008,Repositioning of tricuspid valve;Repair of Ebstein's anomaly of tricuspid valve;Repair of Ebstein anomaly of tricuspid valve,ebstein anomaly,EBS,Moderate,SNOMED
+109431006,Ebstein-like malformation of the mitral valve,ebstein anomaly,EBS,Moderate,SNOMED
+204357006,Ebsteins anomaly;Ebstein's anomaly;Ebstein's malformation of tricuspid valve;Ebstein's anomaly of tricuspid valve;Ebstein anomaly of tricuspid valve,ebstein anomaly,EBS,Moderate,SNOMED
+447915002,Ebstein anomaly of left sided tricuspid valve with discordant atrioventricular connections;Ebstein's anomaly of left sided tricuspid valve with discordant atrioventricular connections,ebstein anomaly,EBS,Moderate,SNOMED
+449087009,Ebstein anomaly of right atrioventricular valve in functionally univentricular heart;Ebstein's anomaly of right atrioventricular valve in functionally univentricular heart,ebstein anomaly,EBS,Moderate,SNOMED
+14257002,Hypoplastic left heart operation;HLH - Hypoplastic left heart operation;Repair of hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,SNOMED
+427585005,Biventricular repair of hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,SNOMED
+447669002,Hypoplasia of left heart without intrinsic valve stenosis and without atresia,hypoplastic left heart,HLH,Severe,SNOMED
+62067003,HLH - Hypoplastic left heart syndrome;HLHS - Hypoplastic left heart syndrome;Hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,SNOMED
+253521004,Hypoplasia of right ventricular outflow tract and trabecular area;RVOT - Hypoplasia of right ventricular outflow tract and trabecular area,hypoplastic right heart,HRH,Severe,SNOMED
+268180007,Right hypoplastic heart syndrome;Pseudotruncus arteriosus,hypoplastic right heart,HRH,Severe,SNOMED
+39589002,Hypoplasia of right heart,hypoplastic right heart,HRH,Severe,SNOMED
+253520003,Hypoplasia of right ventricular outflow tract;RVOT - Hypoplasia of right ventricular outflow tract,hypoplastic right heart,HRH,Severe,SNOMED
+2829000,Paper thin right ventricle;Hypoplasia of right ventricle;Uhl disease;Parchment right ventricle;Uhl's disease;Uhl's anomaly;Right ventricular hypoplasia;Uhl's disease,hypoplastic right heart,HRH,Severe,SNOMED
+253662002,Double aortic arch with unilateral atresia,interrupted aortic arch,IAA,Severe,SNOMED
+253682003,Interrupted aortic arch between left subclavian and left common carotid artery;Type B interrupted aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+426869003,Repair of interrupted aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+461562004,Atresia of aortic arch with fibrous cord,interrupted aortic arch,IAA,Severe,SNOMED
+308679001,Resection of interrupted aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+253683008,Type C interrupted aortic arch;Interrupted aortic arch between left common carotid and brachiocephalic artery,interrupted aortic arch,IAA,Severe,SNOMED
+472101004,Interruption of aortic arch distal to subclavian artery;Type A interruption of aortic arch distal to subclavian artery,interrupted aortic arch,IAA,Severe,SNOMED
+461587006,Congenital luminal atresia of aortic arch distal to subclavian artery;Type A congenital luminal atresia of aortic arch distal to subclavian artery,interrupted aortic arch,IAA,Severe,SNOMED
+253681005,Interrupted aortic arch distal to left subclavian artery;Type A interrupted aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+461557000,Congenital atresia of aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+253677005,Postductal interruption of aorta,interrupted aortic arch,IAA,Severe,SNOMED
+472103001,Type C interruption of aortic arch between left common carotid artery and right common carotid artery;Interruption of aortic arch between left common carotid artery and right common carotid artery,interrupted aortic arch,IAA,Severe,SNOMED
+472102006,Interruption of aortic arch between subclavian artery and common carotid artery;Type B interruption of aortic arch between subclavian artery and common carotid artery,interrupted aortic arch,IAA,Severe,SNOMED
+461567005,Atresia of aortic arch with fibrous cord distal to subclavian artery;Type A atresia of aortic arch with fibrous cord distal to subclavian artery,interrupted aortic arch,IAA,Severe,SNOMED
+461592008,Type B congenital luminal atresia of aortic arch between subclavian artery and common carotid artery;Congenital luminal atresia of aortic arch between subclavian artery and common carotid artery,interrupted aortic arch,IAA,Severe,SNOMED
+461597002,Type C congenital luminal atresia of aortic arch between left common carotid artery and right common carotid artery;Congenital luminal atresia of aortic arch between left common carotid artery and right common carotid artery,interrupted aortic arch,IAA,Severe,SNOMED
+461572001,Type B atresia of aortic arch with fibrous cord between subclavian artery and common carotid artery;Atresia of aortic arch with fibrous cord between subclavian artery and common carotid artery,interrupted aortic arch,IAA,Severe,SNOMED
+461577007,Atresia of aortic arch with fibrous cord between left common carotid artery and right common carotid artery;Type C atresia of aortic arch with fibrous cord between left common carotid artery and right common carotid artery,interrupted aortic arch,IAA,Severe,SNOMED
+253673009,Preductal interruption of aorta,interrupted aortic arch,IAA,Severe,SNOMED
+204431007,Atresia or stenosis of aorta NOS;Atresia and stenosis of aorta,interrupted aortic arch,IAA,Severe,SNOMED
+218728005,Interrupted aortic arch;IAA - Interrupted aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+7438000,Congenital atresia of aorta;Imperforate aorta;Atresia of aorta,interrupted aortic arch,IAA,Severe,SNOMED
+461634000,Abnormality within thorax due to interruption of aortic arch,interrupted aortic arch,IAA,Severe,SNOMED
+253483002,DIV - Abnormality of left atrioventricular valve in double inlet ventricle;Abnormality of left atrioventricular valve in double inlet ventricle,left atrioventricular valve,LAVV,Moderate,SNOMED
+472850008,Regurgitation of fetal left atrioventricular (nonmitral) valve;Regurgitation of foetal left atrioventricular (not morphologically mitral) valve;Regurgitation of foetal left atrioventricular (nonmitral) valve;Regurgitation of fetal left atrioventricular (not morphologically mitral) valve,left atrioventricular valve,LAVV,Moderate,SNOMED
+253485009,Imperforate left atrioventricular valve,left atrioventricular valve,LAVV,Severe,SNOMED
+472851007,Stenosis of fetal left atrioventricular (nonmitral) valve;Stenosis of foetal left atrioventricular (not morphologically mitral) valve;Stenosis of foetal left atrioventricular (nonmitral) valve;Stenosis of fetal left atrioventricular (not morphologically mitral) valve,left atrioventricular valve,LAVV,Moderate,SNOMED
+460600005,Dysfunction of left atrioventricular (nonmitral) valve papillary muscle;Dysfunction of left atrioventricular (not morphologically mitral) valve papillary muscle,left atrioventricular valve,LAVV,Moderate,SNOMED
+449228007,Hypoplasia of left atrioventricular valve annulus in double inlet ventricle,left atrioventricular valve,LAVV,Moderate,SNOMED
+253501000,CT - Abnormality of left atrioventricular chordae tendinae;Abnormality of left atrioventricular valve chords;Abnormality of left atrioventricular valve chordae tendinae,left atrioventricular valve,LAVV,Moderate,SNOMED
+473379000,Rupture of left atrioventricular (nonmitral) valve leaflet;Rupture of left atrioventricular (not morphologically mitral) valve leaflet,left atrioventricular valve,LAVV,Moderate,SNOMED
+253489003,Overriding left atrioventricular valve,left atrioventricular valve,LAVV,Mild,SNOMED
+449098005,Congenital abnormality of left atrioventricular valve chordae tendinae in double inlet ventricle,left atrioventricular valve,LAVV,Moderate,SNOMED
+448947009,Congenital abnormality of left atrioventricular valve in double inlet ventricle,left atrioventricular valve,LAVV,Moderate,SNOMED
+253498000,True cleft of left atrioventricular valve leaflet,left atrioventricular valve,LAVV,Moderate,SNOMED
+473454002,Disorder of left atrioventricular (nonmitral) valve;Disorder of left atrioventricular (not morphologically mitral) valve,left atrioventricular valve,LAVV,Moderate,SNOMED
+253505009,Arcade abnormality of left atrioventricular valve chordae,left atrioventricular valve,LAVV,Moderate,SNOMED
+253495002,Double orifice of left atrioventricular valve,left atrioventricular valve,LAVV,Moderate,SNOMED
+253490007,Dilatation of left atrioventricular valve annulus,left atrioventricular valve,LAVV,Moderate,SNOMED
+460614005,Dilatation of left atrioventricular (nonmitral) valve in double inlet ventricle;Dilatation of left atrioventricular (not morphologically mitral) valve in double inlet ventricle;Dilation of left atrioventricular (not morphologically mitral) valve in double inlet ventricle,left atrioventricular valve,LAVV,Moderate,SNOMED
+447779007,Trifoliate left atrioventricular valve,left atrioventricular valve,LAVV,Moderate,SNOMED
+457772007,Calcification of left atrioventricular (not morphologically mitral) valve;Calcification of left atrioventricular (nonmitral) valve,left atrioventricular valve,LAVV,Moderate,SNOMED
+253510008,Hypoplastic left atrioventricular valve papillary muscle,left atrioventricular valve,LAVV,Moderate,SNOMED
+253499008,Accessory tissue on left atrioventricular valve leaflet,left atrioventricular valve,LAVV,Moderate,SNOMED
+253506005,Abnormality of left atrioventricular valve papillary muscle,left atrioventricular valve,LAVV,Moderate,SNOMED
+253492004,Straddling left atrioventricular valve,left atrioventricular valve,LAVV,Mild,SNOMED
+445454009,Left ventricular outflow tract obstruction due to atrioventricular valve,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+445235006,Left ventricular outflow tract obstruction due to anterolateral muscle band,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+445131007,Left ventricular outflow tract obstruction due to fibromuscular tunnel,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+445001003,Left ventricle outflow tract obstruction due to deviated septum;Left ventricular outflow tract obstruction due to malaligned outlet septum,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+445310002,Left ventricular outflow tract obstruction due to diaphragm,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+253540005,LVOT - Hypoplasia of left ventricular outflow tract and trabecular area;Hypoplasia of left ventricular outflow tract and trabecular area,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+445003000,Left ventricular outflow tract obstruction due to subpulmonary fibromuscular shelf,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+253601007,Hypoplastic aortic orifice or valve;Aortic valve ring hypoplasia,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+445453003,Left ventricular outflow tract obstruction due to aneurysm of membranous septum,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+470753008,Progression of fetal left ventricular outflow tract obstruction;Progression of foetal left ventricular outflow tract obstruction,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+253539008,LVOT - Hypoplasia of left ventricular outflow tract;Hypoplasia of left ventricular outflow tract,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+459182005,Aneurysm of patch of left ventricular outflow tract,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+253547008,Left ventricular outflow tract atresia,left ventricular outflow obstruction,LVOO,Moderate,SNOMED
+448577008,Muscular subvalvar atresia of aorta,left ventricular outflow obstruction,LVOO,Severe,SNOMED
+253275006,Abnormal atrioventricular connection - biventricular,mitral atresia,MAT,Severe,SNOMED
+253290005,Absent left sided atrioventricular connection,mitral atresia,MAT,Severe,SNOMED
+23063005,MA - Mitral atresia;Mitral atresia;Congenital atresia of mitral valve,mitral atresia,MAT,Severe,SNOMED
+448624005,Absent left sided atrioventricular connection with straddling valve - uniatrial biventricular connection;Uniatrial biventricular connection with absent left sided atrioventricular connection with straddling valve,mitral atresia,MAT,Severe,SNOMED
+92969008,Congenital absence of left atrioventricular valve;Congenital absence of mitral valve,mitral atresia,MAT,Severe,SNOMED
+253279000,Absent atrioventricular connection with straddling valve,mitral atresia,MAT,Severe,SNOMED
+253484008,Left atrioventricular valve atresia,mitral atresia,MAT,Severe,SNOMED
+472842004,Regurgitation of fetal mitral valve;Regurgitation of foetal mitral valve,mitral regurgitation,MR,Mild,SNOMED
+253502007,Left atrioventricular valve chordae too short,mitral regurgitation,MR,Mild,SNOMED
+253508006,Absent left atrioventricular valve papillary muscle,mitral regurgitation,MR,Mild,SNOMED
+253503002,Left atrioventricular valve chordae too long,mitral regurgitation,MR,Mild,SNOMED
+29928006,Congenital mitral insufficiency;Congenital insufficiency of mitral valve;MR - Congenital mitral regurgitation;Congenital mitral regurgitation,mitral regurgitation,MR,Mild,SNOMED
+41514002,Congenital supravalvular mitral stenosis,mitral stenosis,MS,Mild,SNOMED
+253491006,Left atrioventricular valve stenosis,mitral stenosis,MS,Mild,SNOMED
+472843009,Stenosis of foetal mitral valve;Stenosis of fetal mitral valve,mitral stenosis,MS,Mild,SNOMED
+82458004,"Duroziez's disease;Congenital mitral stenosis;MS - Congenital mitral stenosis;""Congenital mitral stenosis, unspecified"";Congenital mitral stenosis NOS;Congenital stenosis of mitral valve",mitral stenosis,MS,Mild,SNOMED
+449135007,Congenital stenosis of mitral subvalvular apparatus,mitral stenosis,MS,Mild,SNOMED
+253487001,Left atrioventricular valve hypoplasia,mitral stenosis,MS,Mild,SNOMED
+253494003,Absent left atrioventricular valve leaflets;Unguarded left atrioventricular valve orifice,mitral valve disease,MVD,Mild,SNOMED
+448497000,Congenital deformity of mitral valve annulus,mitral valve disease,MVD,Mild,SNOMED
+253404006,Anterior leaflet of mitral valve attached to septum,mitral valve disease,MVD,Mild,SNOMED
+78495000,Cleft leaflet of mitral valve;True cleft of mitral leaflet,mitral valve disease,MVD,Mild,SNOMED
+250996007,Complex mitral valve orifice,mitral valve disease,MVD,Mild,SNOMED
+253402005,Double orifice of mitral valve,mitral valve disease,MVD,Mild,SNOMED
+253500004,Left atrioventricular valve leaflet dysplasia,mitral valve disease,MVD,Mild,SNOMED
+75372006,MV - Congenital mitral valve abnormality;Congenital malformation of mitral valve;Congenital mitral valve abnormality;Congenital anomaly of mitral valve,mitral valve disease,MVD,Mild,SNOMED
+253504008,Left atrioventricular valve chordae to outlet septum,mitral valve disease,MVD,Mild,SNOMED
+78196008,Double mitral valve,mitral valve disease,MVD,Mild,SNOMED
+253452001,Fused common atrioventricular valve papillary muscle,mitral valve disease,MVD,Moderate,SNOMED
+253486005,Left atrioventricular valve dysplasia,mitral valve disease,MVD,Mild,SNOMED
+253399009,Straddling mitral valve,mitral valve disease,MVD,Mild,SNOMED
+204363002,Supernumerary cusps of the mitral valve,mitral valve disease,MVD,Mild,SNOMED
+449270002,Hypoplasia of mitral valve annulus,mitral valve disease,MVD,Mild,SNOMED
+93271008,Congenital hypoplasia of mitral valve;Mitral valve hypoplasia;Congenital hypoplasia of left atrioventricular valve;Congenital small left atrioventricular valve,mitral valve disease,MVD,Mild,SNOMED
+253509003,Fused left atrioventricular valve papillary muscles,mitral valve disease,MVD,Mild,SNOMED
+92923008,Congenital misshapen left atrioventricular valve;Congenital abnormal shape of left atrioventricular valve;Congenital abnormal shape of mitral valve,mitral valve disease,MVD,Mild,SNOMED
+91634006,Fused commissures of mitral valve;Fused commissure of the mitral valve,mitral valve disease,MVD,Mild,SNOMED
+253482007,Hypoplastic right atrioventricular valve papillary muscle,mitral valve disease,MVD,Mild,SNOMED
+253481000,Fused right atrioventricular valve papillary muscles,mitral valve disease,MVD,Mild,SNOMED
+253397006,Overriding mitral valve,mitral valve disease,MVD,Mild,SNOMED
+250994005,Slit-like mitral valve orifice,mitral valve disease,MVD,Mild,SNOMED
+448844001,Multiple mitral papillary muscles with hammock valve,mitral valve disease,MVD,Mild,SNOMED
+448028009,Congenital left ventricular submitral valve aneurysm,mitral valve disease,MVD,Mild,SNOMED
+93234006,Congenital hypertrophy of mitral valve;Congenital hypertrophy of left atrioventricular valve,mitral valve disease,MVD,Mild,SNOMED
+250997003,Multiple mitral valve orifice,mitral valve disease,MVD,Mild,SNOMED
+448026008,Left atrioventricular valve bifoliate with fused left sided superior and inferior bridging leaflet,mitral valve disease,MVD,Mild,SNOMED
+43910005,Congenital hypoplasia of aorta,other anomalies of the thoracic aorta ,OATA,Moderate,SNOMED
+461366002,Congenital hypoplasia of descending aorta,other anomalies of the thoracic aorta ,OATA,Moderate,SNOMED
+12075007,Ascending aortic hypoplasia;Congenital hypoplasia of ascending aorta,other anomalies of the thoracic aorta ,OATA,Moderate,SNOMED
+92960007,Congenital absence of aortic valve;Aortic valve absent,other valve defect,OVD,Severe,SNOMED
+448075009,Uniatrial biventricular connection with absent right sided atrioventricular connection with straddling valve;Absent right sided atrioventricular connection with straddling valve - uniatrial biventricular connection,other valve defect,OVD,Severe,SNOMED
+38665006,Rastelli operation for repair of pulmonary artery atresia,pulmonary artery atresia,PAAT,Severe,SNOMED
+10930001,Congenital atresia of pulmonary artery;Imperforate pulmonary artery,pulmonary artery atresia,PAAT,Severe,SNOMED
+448086006,Atresia of pulmonary trunk with absent left pulmonary artery,pulmonary artery atresia,PAAT,Severe,SNOMED
+204448004,Atresia of pulmonary artery with septal defect,pulmonary artery atresia,PAAT,Severe,SNOMED
+448087002,Atresia of pulmonary trunk with absent right pulmonary artery,pulmonary artery atresia,PAAT,Severe,SNOMED
+448155003,Pulmonary atresia with ventricular septal defect of Fallot type,pulmonary artery atresia,PAAT,Severe,SNOMED
+253625004,Pulmonary atresia with absent pulmonary artery,pulmonary artery atresia,PAAT,Severe,SNOMED
+253624000,Pulmonary atresia with confluent pulmonary arteries,pulmonary artery atresia,PAAT,Severe,SNOMED
+447925007,Hypoperfusion of left pulmonary artery due to preferential flow to right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+447926008,Hypoperfusion of right pulmonary artery due to preferential flow to left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+707371002,Congenital stenosis of left pulmonary artery;Congenital left pulmonary arterial stenosis,pulmonary artery malformation,PAM,Moderate,SNOMED
+253629005,Pulmonary trunk absent with absent pulmonary artery,pulmonary artery malformation,PAM,Severe,SNOMED
+448060001,Pulmonary trunk absent with absent right pulmonary artery,pulmonary artery malformation,PAM,Severe,SNOMED
+449551006,Single stenosis of left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449560003,Multiple stenoses of right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+86252004,Congenital absence of pulmonary artery;Pulmonary artery agenesis;Pulmonary artery absent;Agenesis of pulmonary artery,pulmonary artery malformation,PAM,Severe,SNOMED
+253628002,Pulmonary trunk absent with non-confluent pulmonary arteries,pulmonary artery malformation,PAM,Severe,SNOMED
+461433002,Major systemic to pulmonary collateral artery with absent pulmonary arteries proximal to hilar bifurcation,pulmonary artery malformation,PAM,Severe,SNOMED
+449350006,Pulmonary artery with absent proximal arterial connection,pulmonary artery malformation,PAM,Moderate,SNOMED
+2.86071E+14,Congenital peripheral pulmonary artery stenosis,pulmonary artery malformation,PAM,Moderate,SNOMED
+448510002,Stenosis of left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+95441000,Pulmonary artery stenosis;Congenital stricture of pulmonary artery;Congenital stricture of pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449125001,Congenital stenosis of pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449589001,Single stenosis of right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+39987008,Congenital absence of right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449547009,Right pulmonary artery with absent proximal arterial connection,pulmonary artery malformation,PAM,Moderate,SNOMED
+253691004,Stenosis of systemic to pulmonary artery collateral artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+445209005,Congenital hypoplasia of left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+54682008,Hypoplasia of the pulmonary artery;Pulmonary artery hypoplasia;Congenital hypoplasia of pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+447668005,Nonconfluent pulmonary arteries;Discontinuous pulmonary arteries,pulmonary artery malformation,PAM,Severe,SNOMED
+448059006,Pulmonary trunk absent with absent left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+445208002,Congenital hypoplasia of right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449433008,Diffuse stenosis of left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449467003,Diffuse stenosis of right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+449559008,Multiple stenoses of left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+25559009,Congenital absence of left pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+253627007,Pulmonary trunk absent with confluent pulmonary arteries,pulmonary artery malformation,PAM,Severe,SNOMED
+707372009,Congenital stenosis of right pulmonary artery;Congenital right pulmonary arterial stenosis,pulmonary artery malformation,PAM,Moderate,SNOMED
+447840008,Stenosis of right pulmonary artery,pulmonary artery malformation,PAM,Moderate,SNOMED
+461434008,Major systemic to pulmonary collateral artery with pulmonary artery proximal to hilar bifurcation,pulmonary artery malformation,PAM,Severe,SNOMED
+449587004,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber extracardiac communication;Cor triatriatum with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber extracardiac communication,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449596004,Divided left atrium with some pulmonary veins to proximal chamber draining to right atrium and others connecting directly to left atrium;Cor triatriatum with some pulmonary veins to proximal chamber draining to right atrium and others connecting directly to left atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449595000,Cor triatriatum with some pulmonary veins to proximal chamber draining to right atrium and others connecting anomalously;Divided left atrium with some pulmonary veins to proximal chamber draining to right atrium and others connecting anomalously,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+128567004,Congenital pulmonary venous atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449436000,Cor triatriatum with some pulmonary veins to proximal chamber draining to left atrium;Divided left atrium with some pulmonary veins to proximal chamber draining to left atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+253639004,Pulmonary arterio-venous fistula;Intrapulmonary arteriovenous fistula,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449594001,Cor triatriatum with some pulmonary veins to proximal chamber draining to left atrium and others connecting anomalously;Divided left atrium with some pulmonary veins to proximal chamber draining to left atrium and others connecting anomalously,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+447666009,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium;Cor triatriatum with all pulmonary veins to proximal chamber and then to left atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+270512000,Pulmonary arteriovenous aneurysm;Pulmonary arterio-venous aneurysm,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449441008,Divided left atrium with all pulmonary veins to proximal chamber without communication to left atrium with pulmonary venous chamber communication to right atrium;Cor triatriatum with all pulmonary veins to proximal chamber without communication to left atrium with pulmonary venous chamber communication to right atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449429001,Divided left atrium with some pulmonary veins to proximal chamber draining to right atrium;Cor triatriatum with some pulmonary veins to proximal chamber draining to right atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+68237008,PAPVD - Partial anomalous pulmonary venous drainage;Partial anomalous pulmonary venous return;PAPVR - Partial anomalous pulmonary venous return;PAPVC - Partial anomalous pulmonary venous connection;Partial anomalous pulmonary venous connection,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+447667000,Divided left atrium with all pulmonary veins to proximal chamber without communication to left atrium;Cor triatriatum with all pulmonary veins to proximal chamber without communication to left atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449492000,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber communication to right atrium;Cor triatriatum with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber communication to right atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449593007,Cor triatriatum with some pulmonary veins to proximal chamber draining to left atrium and others connecting directly to left atrium;Divided left atrium with some pulmonary veins to proximal chamber draining to left atrium and others connecting directly to left atrium,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+448320008,Divided left atrium with some pulmonary veins to proximal chamber;Cor triatriatum with some pulmonary veins to proximal chamber,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449428009,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber communication;Cor triatriatum with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber communication,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+449440009,Cor triatriatum with all pulmonary veins to proximal chamber without communication to left atrium with extracardiac pulmonary venous chamber communication;Divided left atrium with all pulmonary veins to proximal chamber without communication to left atrium with extracardiac pulmonary venous chamber communication,anomalous pulmonary venous connection,PAVM,Moderate,SNOMED
+175218000,Percut translum prosth occlus patent ductus arteriosus (PDA);Percutaneous transluminal prosthetic occlusion of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,SNOMED
+175211006,Other specified open correction of patent ductus arteriosus;Open correction of patent ductus arteriosus NOS;Open correction of patent ductus arteriosus;Open correction of patent ductus arteriosus (PDA),patent ductus arteriosus,PDA,Mild,SNOMED
+175214003,Revision of correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,SNOMED
+83330001,Patent arterial duct;PDA - Patent ductus arteriosus;Patent ductus arteriosus;Patent ductus Botalli;Botalli's patent ductus,patent ductus arteriosus,PDA,Mild,SNOMED
+265859004,Repair of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,SNOMED
+175212004,Ligation of patent ductus arteriosus;Ligation of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,SNOMED
+122487007,Division of patent ductus arteriosus;Division of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,SNOMED
+251006007,Pulmonary valve stenosis with doming,pulmonary stenosis,PS,Moderate,SNOMED
+472782001,Stenosis of subvalvular region of neopulmonary valve;Subneopulmonary valve stenosis,pulmonary stenosis,PS,Moderate,SNOMED
+448476001,Subpulmonary stenosis,pulmonary stenosis,PS,Moderate,SNOMED
+253593006,Imperforate pulmonary valve,pulmonary stenosis,PS,Moderate,SNOMED
+92830003,Combined valvular-subvalvular pulmonic stenosis,pulmonary stenosis,PS,Moderate,SNOMED
+204345002,Congenital fusion of pulmonic cusps,pulmonary stenosis,PS,Moderate,SNOMED
+472845002,Stenosis of foetal pulmonary valve;Stenosis of fetal pulmonary valve,pulmonary stenosis,PS,Moderate,SNOMED
+194997002,"Pulmonary stenosis, non-rheumatic;""Pulmonary valve stenosis, nonrheumatic""",pulmonary stenosis,PS,Moderate,SNOMED
+204370002,Stenosis of infundibulum of right ventricle;Subvalvular pulmonic stenosis;Infundibular pulmonic stenosis;Pulmonary infundibular stenosis,pulmonary stenosis,PS,Moderate,SNOMED
+251007003,Pulmonary valve stenosis with narrow jet,pulmonary stenosis,PS,Moderate,SNOMED
+56786000,"PS - Pulmonary valve stenosis;Pulmonic stenosis;Pulmonic valve stenosis;PVS - Pulmonary valve stenosis;Pulmonary valve stenosis;Pulmonary stenosis;""Pulmonary stenosis, cause unspecified""",pulmonary stenosis,PS,Moderate,SNOMED
+195000004,Pulmonary valve stenosis with insufficiency,pulmonary stenosis,PS,Moderate,SNOMED
+67278007,PV - Congenital pulmonary valve stenosis;Congenital valvular pulmonic stenosis;Congenital stenosis of pulmonary valve,pulmonary stenosis,PS,Moderate,SNOMED
+52757001,Congenital supravalvular pulmonary stenosis,pulmonary stenosis,PS,Moderate,SNOMED
+253586007,Pulmonary valve ring hypoplasia,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+719955006,Atresia of pulmonary valve;Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+253592001,Pulmonary valve atresia without ventricular outflow tract,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+204443008,Pulmonary artery atresia,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+204342004,Congenital atresia of the pulmonary valve;Congenital atresia of pulmonary valve;Congenital pulmonary atresia,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+384648009,VSD - Repair of pulmonary atresia with ventricular septal defect;Repair of pulmonary atresia with ventricular septal defect,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+253591008,Pulmonary atresia with ventricular septal defect;PAVSD - Pulmonary atresia with ventricular septal defect,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+447839006,Pulmonary atresia and ventricular septal defect with aorta from right ventricle,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+54854003,Formation of conduit of right ventricle and pulmonary artery in repair of pulmonary artery atresia;Creation of shunt of right ventricle and pulmonary artery in repair of pulmonary artery atresia;Creation of conduit of right ventricle and pulmonary artery in repair of pulmonary artery atresia,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+447838003,Pulmonary atresia and ventricular septal defect with aorta from left ventricle,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+204467000,Atresia of pulmonary vein;Pulmonary vein atresia;PA - Pulmonary vein atresia,pulmonary valve agenesis/atresia,PVA,Severe,SNOMED
+111322000,"Pulmonary vein abnormality;Congenital anomaly of pulmonary veins;PV - Pulmonary vein abnormality;""Anomaly of the pulmonary veins, unspecified""",pulmonary vein malformation,PVEM,Moderate,SNOMED
+697928004,Pulmonary venous hypertension due to congenital stenosis of pulmonary vein,pulmonary vein malformation,PVEM,Severe,SNOMED
+727824006,Entire anomalous pulmonary vein,pulmonary vein malformation,PVEM,Moderate,SNOMED
+234062003,Pulmonary vein stenosis,pulmonary vein malformation,PVEM,Moderate,SNOMED
+11614003,Congenital pulmonary vein stenosis;Congenital stenosis of pulmonary veins,pulmonary vein malformation,PVEM,Moderate,SNOMED
+36422005,Transposition of pulmonary veins,pulmonary vein malformation,PVEM,Moderate,SNOMED
+253321003,Anomalous termination of right pulmonary vein,pulmonary vein malformation,PVEM,Moderate,SNOMED
+443467005,Ligation of anomalous pulmonary vein,pulmonary vein malformation,PVEM,Moderate,SNOMED
+204343009,Hypoplasia of pulmonary valve,pulmonary valve malformation,PVM,Moderate,SNOMED
+253596003,APVS - Absent pulmonary valve syndrome;Absent pulmonary valve syndrome,pulmonary valve malformation,PVM,Severe,SNOMED
+6996004,Congenital absence of pulmonary valve;Absent pulmonary valve;Congenital absence of pulmonic valve,pulmonary valve malformation,PVM,Severe,SNOMED
+93287006,Congenital hypoplasia of pulmonary valve;Congenital small pulmonic valve;Congenital hypoplasia of pulmonic valve,pulmonary valve malformation,PVM,Moderate,SNOMED
+449315003,Congenital abnormality of right atrioventricular valve chordae tendinae in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+448633007,Right ventricular outflow tract obstruction due to atrioventricular valve,right atrioventricular valve,RAVV,Moderate,SNOMED
+472849008,Stenosis of fetal right atrioventricular (nontricuspid) valve;Stenosis of foetal right atrioventricular (nontricuspid) valve;Stenosis of fetal right atrioventricular (not morphologically tricuspid) valve;Stenosis of foetal right atrioventricular (not morphologically tricuspid) valve,right atrioventricular valve,RAVV,Moderate,SNOMED
+253470003,True cleft of right atrioventricular valve leaflet,right atrioventricular valve,RAVV,Moderate,SNOMED
+253461001,Dilatation of right atrioventricular valve annulus,right atrioventricular valve,RAVV,Mild,SNOMED
+253463003,Straddling right atrioventricular valve,right atrioventricular valve,RAVV,Moderate,SNOMED
+253460000,Overriding right atrioventricular valve,right atrioventricular valve,RAVV,Moderate,SNOMED
+253454000,Abnormality of right atrioventricular valve in double inlet ventricle;DIV - Abnormality of right atrioventricular valve in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+449111002,Double orifice of right atrioventricular valve in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+460602002,Dilatation of right atrioventricular (nontricuspid) valve in double inlet ventricle;Dilatation of right atrioventricular (not morphologically tricuspid) valve in double inlet ventricle;Dilation of right atrioventricular (not morphologically tricuspid) valve in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+449031001,Congenital abnormality of right atrioventricular valve leaflet in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+449040002,Hypoplasia of right atrioventricular valve annulus in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+449032008,Congenital abnormality of right atrioventricular valve papillary muscle in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+449316002,Congenital abnormality of right atrioventricular valve in double inlet ventricle,right atrioventricular valve,RAVV,Severe,SNOMED
+253456003,Imperforate right atrioventricular valve,right atrioventricular valve,RAVV,Severe,SNOMED
+253534003,Right ventricular outflow tract absent,right ventricular outflow obstruction,RVOO,Severe,SNOMED
+448778001,Obstruction of right ventricular outflow tract due to aortico-left ventricular tunnel,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+449520004,Right ventricular outflow tract obstruction due to septoparietal trabeculation,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+253531006,Right ventricular outflow obstruction - localized;Right ventricular outflow obstruction - localised,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+449352003,Right ventricular outflow tract obstruction due to abnormal cardiac muscle bands,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+253529002,RVOT - Right ventricular outflow tract abnormality;Right ventricular outflow tract abnormality;Abnormal infundibular morphology,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+448082008,Right ventricular outflow tract obstruction due to prolapse of Eustachian valve,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+448001004,Right ventricular outflow tract obstruction due to aneurysm of membranous septum,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+448309008,Right ventricular outflow tract obstruction due to fibromuscular shelf,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+253532004,Right ventricular outflow obstruction - tubular,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+448310003,Right ventricular outflow tract obstruction due to malaligned outlet septum,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+470752003,Progression of fetal right ventricular outflow tract obstruction;Progression of foetal right ventricular outflow tract obstruction,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+253533009,Right ventricular outflow tract atresia,right ventricular outflow obstruction,RVOO,Severe,SNOMED
+253530007,Right ventricular outflow tract obstruction;RVOTO - Right ventricular outflow tract obstruction,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+448083003,Right ventricular outflow tract obstruction due to prolapsed arterial valve,right ventricular outflow obstruction,RVOO,Moderate,SNOMED
+174997007,Operations on the left ventricular outflow tract;LVOTO - Operations for left ventricular outflow tract obstruction;Repair of subaortic stenosis,subaortic stenosis,SAS,Moderate,SNOMED
+32899003,Resection of subvalvular tissue for discrete subvalvular aortic stenosis;Excision of aortic subvalvular ring,subaortic stenosis,SAS,Moderate,SNOMED
+448871001,Subaortic stenosis due to restrictive ventricular septal defect in functionally univentricular heart,subaortic stenosis,SAS,Moderate,SNOMED
+448104005,Localized supravalvar aortic stenosis at sinutubular junction;Localised supravalvar aortic stenosis at sinutubular junction,subaortic stenosis,SAS,Moderate,SNOMED
+204368006,Subvalvular stenosis;Subvalvar stenosis;Subaortic stenosis,subaortic stenosis,SAS,Moderate,SNOMED
+448415009,Subaortic stenosis due to common atrioventricular valve,subaortic stenosis,SAS,Moderate,SNOMED
+268174004,Septal defect NOS;Heart bulb or septal closure defects NOS;Other heart bulb and septal closure defect,septal defect (unspecified),SD,Moderate,SNOMED
+41893002,Right sided atrium connecting to left ventricle;Left ventricular-right atrial communication;Left ventricle to right atrial communication,septal defect (unspecified),SD,Moderate,SNOMED
+65184001,Closure of septal defect of heart with tissue graft;Repair of septal defect of heart with tissue graft,septal defect (unspecified),SD,Mild,SNOMED
+445294008,Common atrioventricular orifice in double inlet ventricle,single ventricle,SV,Severe,SNOMED
+472796007,Congenital subaortic stenosis due to restrictive ventricular septal defect associated with functionally univentricular heart,single ventricle,SV,Severe,SNOMED
+204397009,Cor triloculare,single ventricle,SV,Severe,SNOMED
+45503006,Common ventricle;Absence of interventricular septum;Cor triloculare biatriatum;Single ventricle,single ventricle,SV,Severe,SNOMED
+472797003,Subaortic stenosis associated with functionally univentricular heart as complication of procedure,single ventricle,SV,Severe,SNOMED
+204399007,Hemicardia,single ventricle,SV,Severe,SNOMED
+253276007,Cor triloculare biventriculare;Cor triloculare biventriculare;Common atrium;Congenital absence of atrial septum,single ventricle,SV,Severe,SNOMED
+253285007,Absent right sided atrioventricular connection,single ventricle,SV,Severe,SNOMED
+81990004,Absence of atrial AND ventricular septa;Cor biloculare,single ventricle,SV,Severe,SNOMED
+448072007,Absent atrioventricular connection - single inlet ventricle;Single inlet ventricle with absent atrioventricular connection,single ventricle,SV,Severe,SNOMED
+54160000,Congenital aneurysm of sinus of Valsalva,sinus of valsalva,SVA,Moderate,SNOMED
+360473004,Congenital asymmetric septal hypertrophy;Congenital muscular subaortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+448061002,Shelf-like supravalvar aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+7169009,Congenital supravalvular aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+18546004,Congenital aortic stenosis;Congenital stenosis of aortic valve,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+268185002,Supravalvar aortic stenosis;Congenital stenosis of ascending aorta;SVAS - Supravalvar aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+253642005,Diffuse supravalvar aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+8712002,Congenital subaortic stenosis of membranous type;Congenital subaortic stenosis due to fibromuscular shelf,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+73660006,Congenital subvalvular aortic stenosis;Congenital subaortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+174998002,Repair of supra-aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+56309007,Congenital subaortic stenosis of tunnel type;Subaortic stenosis due to fibromuscular tunnel,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+253641003,Hour glass aortic stenosis;Localised supravalvar aortic stenosis;Localized supravalvar aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,SNOMED
+66858001,Anomalous pulmonary venous drainage to superior vena cava,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+2.86341E+14,Total anomalous pulmonary venous connection to hepatic vein,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+447914003,TAPVC (total anomalous pulmonary venous connection) of intracardiac type;Total anomalous pulmonary venous connection of intracardiac type,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+2.86351E+14,Total anomalous pulmonary venous connection to right atrium,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+111323005,TAPVC - Total anomalous pulmonary venous connection;TAPVD - Total anomalous pulmonary venous drainage;Total anomalous pulmonary venous return;Total anomalous pulmonary venous connection;TAPVR,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+449434002,Supracardiac location of anomalous pulmonary venous connection to left superior vena cava;Supracardiac location of anomalous pulmonary venous connection to left superior caval vein,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+448727008,Total anomalous pulmonary venous connections of mixed type,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+447832002,Total anomalous pulmonary venous connection of supracardiac type;TAPVC (total anomalous pulmonary venous connection) of supracardiac type,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+448599000,TAPVC (total anomalous pulmonary venous connection) of infracardiac type;Total anomalous pulmonary venous connection of infracardiac type,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+449494004,Supracardiac location of anomalous pulmonary venous connection to right superior caval vein;Supracardiac location of anomalous pulmonary venous connection to right superior vena cava,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+2.86361E+14,Total anomalous pulmonary venous connection to superior vena cava,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+22750001,Anomalous pulmonary venous drainage to abdominal portion of inferior vena cava,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+63042009,Tricuspid atresia;Congenital atresia of tricuspid valve,tricuspid atresia,TAT,Severe,SNOMED
+253455004,Right atrioventricular valve atresia,tricuspid atresia,TAT,Severe,SNOMED
+204354004,Congenital tricuspid atresia and stenosis,tricuspid atresia,TAT,Severe,SNOMED
+92976003,Congenital absence of right atrioventricular valve;Congenital absence of tricuspid valve,tricuspid atresia,TAT,Severe,SNOMED
+74041008,Repair of tricuspid atresia,tricuspid atresia,TAT,Severe,SNOMED
+174830006,TAPVC - Total anomalous pulmonary venous connection operation;Correction of total anomalous pulmonary venous connection;Repair of total anomalous pulmonary venous connection;Correction of total anomalous pulmonary venous connection OS;Correction of total anomalous pulmonary venous connection;TAVPR - Total anomalous pulmonary venous return operation;Repair of total anomalous pulmonary venous return;Repair of total anomalous pulmonary venous drainage;TAVVD - Total anomalous pulmonary venous drainage operation,total anomalous pulmonary venous connection,TAPVC,Moderate,SNOMED
+2.85251E+14,Dextrotransposition of the great arteries,transposition of the great arteries,TGA,Severe,SNOMED
+83799000,Congenitally corrected transposition of great arteries;Transposition of great vessels with ventricular inversion;Discordant ventriculoarterial connection with discordant atrioventricular connection;Corrected transposition of great vessels,transposition of the great arteries,TGA,Moderate,SNOMED
+18932005,Rastelli operation in repair of transposition of great vessels,transposition of the great arteries,TGA,Moderate,SNOMED
+449445004,Anatomically corrected malposition with concordant ventriculoarterial connections and parallel great arteries,transposition of the great arteries,TGA,Moderate,SNOMED
+68800008,Creation of shunt of right ventricle and pulmonary artery in repair of transposition of great vessels;Creation of conduit of right ventricle and pulmonary artery in repair of transposition of great vessels,transposition of the great arteries,TGA,Moderate,SNOMED
+26146002,Transposition of the great arteries;Complete TGA;Discordant ventriculoarterial connection with concordant atrioventricular connection;Complete transposition of great vessels;Classical transposition of great vessels,transposition of the great arteries,TGA,Severe,SNOMED
+75942006,Total correction of transposition of great vessels,transposition of the great arteries,TGA,Moderate,SNOMED
+399216004,Dextrotransposition;D - transposition of the great vessels,transposition of the great arteries,TGA,Severe,SNOMED
+51201009,Senning operation;Correction of transposition of great vessels,transposition of the great arteries,TGA,Moderate,SNOMED
+399046008,Levotransposition;Levotransposition of the great arteries;L - transposition of the great vessels,transposition of the great arteries,TGA,Severe,SNOMED
+204300001,Incomplete transposition of great vessels;Incomplete great vessel transposition,transposition of the great arteries,TGA,Severe,SNOMED
+204297006,Total great vessel transposition,transposition of the great arteries,TGA,Severe,SNOMED
+253297008,Transposition of aorta,transposition of the great arteries,TGA,Severe,SNOMED
+204299009,Dextratransposition of aorta;Dextrotransposition of aorta,transposition of the great arteries,TGA,Severe,SNOMED
+395723006,Other correction of transposition of great vessels;Other correction of transposition of great vessels NOS;Operation for transposition of great vessels;TGV - Operation for transposition of great vessels;TGA - Operation for transposition of great arteries;Other correction of transposition of great vessels OS;Other repair of transposition of great arteries;Operation for transposition of great vessels;Other repair of transposition of great arteries NOS;OS other repair of transposition of great arteries,transposition of the great arteries,TGA,Moderate,SNOMED
+443260009,Rastelli interventricular tunnel;Surgically constructed outflow tract of left ventricle across ventricular septal defect to aorta,transposition of the great arteries,TGA,Moderate,SNOMED
+399228007,Tetralogy of Fallot with absent pulmonary valve,tetralogy of fallot,TOF,Moderate,SNOMED
+174814003,Repair of tetralogy of Fallot;Repair of tetralogy of Fallot NOS;Other specified repair of tetralogy of Fallot;Other specified correction of tetralogy of Fallot;Correction of tetralogy of Fallot;Correction of tetralogy of Fallot NOS,tetralogy of fallot,TOF,Moderate,SNOMED
+253515003,Ventricular septal defect in Fallot's tetralogy;Ventricular septal defect in Fallot tetralogy,tetralogy of fallot,TOF,Moderate,SNOMED
+448475002,Absent pulmonary valve syndrome with ventricular septal defect of non Fallot type,tetralogy of fallot,TOF,Moderate,SNOMED
+62118003,Repair of ventricular septal defect with prosthesis in total repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,SNOMED
+86299006,"Tetralogy of Fallot;""Tetralogy of Fallot, unspecified"";""Subpulmonic stenosis, ventricular septal defect, overriding aorta, AND right ventricular hypertrophy"";Tetralogy of Fallot NOS;TOF - Tetralogy of Fallot;Fallot's tetralogy",tetralogy of fallot,TOF,Moderate,SNOMED
+63934006,Overriding aorta;Overriding aorta,tetralogy of fallot,TOF,Moderate,SNOMED
+27986000,Congenital pulmonary arteriovenous aneurysm,tetralogy of fallot,TOF,Moderate,SNOMED
+233112003,DORV - Repair of Fallot-type double outlet right ventricle;Repair of Fallot-type double outlet right ventricle,tetralogy of fallot,TOF,Moderate,SNOMED
+174818000,Revision of correction of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,SNOMED
+425785006,Repair of tetralogy of Fallot with absent pulmonary valve,tetralogy of fallot,TOF,Moderate,SNOMED
+174817005,Correction of tetralogy of Fallot using right ventricular outflow patch,tetralogy of fallot,TOF,Moderate,SNOMED
+233049006,Repair of atrioventricular septal defect associated with Fallot's tetralogy;Repair of atrioventricular septal defect associated with Fallot tetralogy,tetralogy of fallot,TOF,Moderate,SNOMED
+204351007,Fallot trilogy;Fallot's trilogy;Fallot triad,tetralogy of fallot,TOF,Moderate,SNOMED
+83698002,Complete repair of tetralogy of Fallot with transannular patch,tetralogy of fallot,TOF,Moderate,SNOMED
+174815002,Correction of tetralogy of Fallot using valved right ventricular outflow conduit,tetralogy of fallot,TOF,Moderate,SNOMED
+75078003,Repair of ventricular septal defect in total repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,SNOMED
+2.32921E+14,Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals,tetralogy of fallot,TOF,Moderate,SNOMED
+204306007,Pentalogy of Fallot,tetralogy of fallot,TOF,Moderate,SNOMED
+448302004,Repair of tetralogy of Fallot using right ventricular outflow conduit,tetralogy of fallot,TOF,Moderate,SNOMED
+766976003,"Pulmonary valve agenesis, tetralogy of Fallot, absence of ductus arteriosus syndrome;""Absence of pulmonary valve, Fallot tetralogy, absence of ductus arteriosus syndrome""",tetralogy of fallot,TOF,Moderate,SNOMED
+448007000,Atrioventricular septal defect associated with tetralogy of Fallot;Atrioventricular septal defect in association with tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,SNOMED
+253514004,Dextraposition of aorta in Fallot's tetralogy;Dextroposition of aorta in tetralogy of Fallot;Dextraposition of aorta in Fallot tetralogy,tetralogy of fallot,TOF,Moderate,SNOMED
+253512000,Tetralogy of Fallot with pulmonary stenosis,tetralogy of fallot,TOF,Moderate,SNOMED
+233123004,Intraventricular operation for non-Fallot type double outlet ventricle;Intraventricular operation for transposition or double outlet ventricle,tetralogy of fallot,TOF,Moderate,SNOMED
+253298003,Fallot type double outlet right ventricle;Double outlet right ventricle with subaortic ventricular septal defect,tetralogy of fallot,TOF,Moderate,SNOMED
+253610004,Unicuspid aortic valve,unicuspid aortic valve,UAV,Mild,SNOMED
+447696004,Unicommissural unicuspid aortic valve,unicuspid aortic valve,UAV,Mild,SNOMED
+448085005,Acommissural unicuspid aortic valve,unicuspid aortic valve,UAV,Mild,SNOMED
+253553008,Anterior perimembranous ventricular septal defect;Perimembranous ventricular septal defect with extension to right ventricular trabecular component,ventricular septal defect,VSD,Mild,SNOMED
+253570000,Doubly committed subarterial ventricular septal defect with muscular posterior inferior rim,ventricular septal defect,VSD,Moderate,SNOMED
+3.7851E+13,History of correction of ventricular septal defect,ventricular septal defect,VSD,Moderate,SNOMED
+764955006,Laubry Pezzi syndrome;Ventricular septal defect with aortic insufficiency,ventricular septal defect,VSD,Moderate,SNOMED
+439707001,Transmyocardial closure of ventricular septal defect using catheter with implant,ventricular septal defect,VSD,Mild,SNOMED
+448827000,Ventricular septal defect with absent outlet septum and overriding truncal valve with inferior muscular rim,ventricular septal defect,VSD,Severe,SNOMED
+253563000,Muscular ventricular septal defect in inlet septum,ventricular septal defect,VSD,Mild,SNOMED
+253564006,Muscular ventricular septal defect in central trabecular septum,ventricular septal defect,VSD,Mild,SNOMED
+253551005,Restrictive ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+89814007,Closure of defect of interventricular septum using prosthetic patch;Repair of ventricular septal defect with prosthesis;Repair of defect of interventricular septum using prosthetic patch,ventricular septal defect,VSD,Mild,SNOMED
+30288003,"Ventricular septal defect;Interventricular septal defect;Ventricular septal defect NOS;VSD - Ventricular septal defect;Other specified ventricular septal defect;""Ventricular septal defect, unspecified""",ventricular septal defect,VSD,Mild,SNOMED
+768552007,Congenital ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+447698003,Ventricular septal defect with anterior malaligned outlet septum with overriding aortic valve,ventricular septal defect,VSD,Mild,SNOMED
+109430007,Multiple muscular ventricular septum defect;Multiple trabecular ventricular septal defect;Swiss cheese heart,ventricular septal defect,VSD,Moderate,SNOMED
+12445005,Closure of defect of interventricular septum using tissue graft;Repair of ventricular septal defect with tissue graft,ventricular septal defect,VSD,Mild,SNOMED
+76025005,Correction of ventricular septal defect;Repair of ventricular septal defect;Ventriculoseptopexy;Ventriculoseptoplasty,ventricular septal defect,VSD,Mild,SNOMED
+448021003,Number of ventricular septal defects,ventricular septal defect,VSD,Mild,SNOMED
+204312002,Gerbode's defect;Ventricular septal defect between left ventricle and right atrium;Gerbode defect,ventricular septal defect,VSD,Moderate,SNOMED
+447778004,Spontaneous reduction in size of ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+762460002,Haemodynamically insignificant ventricular septal defect;Hemodynamically insignificant ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+52930005,Repair of defect of interventricular septum;Primary closure of defect of interventricular septum NEC;Closure of defect of interventricular septum NOS;Percutaneous translum repair defect intervent septum NEC;VSD - Closure of ventricular septal defect;Closure of ventricular septal defect;Other specified repair of defect of interventricular septum;Primary repair of defect of interventricular septum NEC;Repair of defect of interventricular septum NOS;Closure of defect of interventricular septum;Percutaneous translum closure defect intervent septum NEC,ventricular septal defect,VSD,Mild,SNOMED
+253552003,Perimembranous ventricular septal defect with extension to right ventricular inlet;Posterior perimembranous ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+449190000,Muscular ventricular septal defect in trabecular septum,ventricular septal defect,VSD,Mild,SNOMED
+253562005,Absent outlet septum;Ventricular septal defect with absent outlet septum and overriding truncal valve,ventricular septal defect,VSD,Severe,SNOMED
+449524008,Spontaneous reduction in size of ventricular septal defect due to accessory tissue of atrioventricular valve,ventricular septal defect,VSD,Mild,SNOMED
+233100002,Transluminal closure of ventricular septal defect using device;Transluminal closure of ventricular septal defect using prosthesis;TL - Transluminal closure of ventricular septal defect;Percutaneous transluminal closure of defect of interventricular septum using prosthesis,ventricular septal defect,VSD,Mild,SNOMED
+449503003,Spontaneous reduction in size of ventricular septal defect due to prolapse of cusp of aortic valve,ventricular septal defect,VSD,Moderate,SNOMED
+447671002,Ventricular septal defect with posterior malaligned outlet septum with overriding aortic valve,ventricular septal defect,VSD,Mild,SNOMED
+447670001,Ventricular septal defect with anterior malaligned outlet septum with overriding pulmonary valve,ventricular septal defect,VSD,Moderate,SNOMED
+253571001,Giant ventricular septal defect;Nearly absent ventricular septum,ventricular septal defect,VSD,Moderate,SNOMED
+459181003,Aneurysm of patch of ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+233099005,Closure of ventricular septal defect by direct suture,ventricular septal defect,VSD,Mild,SNOMED
+233104006,Enlargement of restrictive ventricular septal defect;VSD - Enlargement of restrictive ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+442087005,Fluoroscopy guided closure of ventricular septal defect;Closure of ventricular septal defect using fluoroscopic guidance,ventricular septal defect,VSD,Mild,SNOMED
+447941008,Residual ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+253555001,Confluent perimembranous ventricular septal defect;Perimembranous ventricular septal defect with extension to all right ventricular components,ventricular septal defect,VSD,Mild,SNOMED
+253569001,Doubly committed subarterial ventricular septal defect with membranous septum extension,ventricular septal defect,VSD,Moderate,SNOMED
+447672009,Ventricular septal defect with posterior malaligned outlet septum with overriding pulmonary valve,ventricular septal defect,VSD,Moderate,SNOMED
+448876006,Subarterial ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+698944006,History of closure of ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+428818006,Closure of defect of interventricular septum using intraoperative transluminal prosthesis;Repair interventricular septal defect us intraop trans pros,ventricular septal defect,VSD,Mild,SNOMED
+448780007,Ventricular septal defect with absent outlet septum and overriding truncal valve with extension of membranous septum,ventricular septal defect,VSD,Severe,SNOMED
+373131000,Non-restrictive ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+28886004,Closure of ventricular septal defect with infundibular resection and patch,ventricular septal defect,VSD,Mild,SNOMED
+80733000,Closure of ventricular septal defect with patch;Close defect interventricular septum using tissue graft NEC;Repair defect interventricular septum us tissue graft NEC;Closure of ventricular septal defect using patch,ventricular septal defect,VSD,Mild,SNOMED
+109428005,Perimembranous ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+123714004,"Ventricular septal defect, spontaneous closure;Spontaneous closure of ventricular septal defect",ventricular septal defect,VSD,Mild,SNOMED
+109427000,Subpulmonic ventricular septal defect;Supracristal ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+449525009,Spontaneous reduction in size of ventricular septal defect due to fibromuscular reaction,ventricular septal defect,VSD,Mild,SNOMED
+449385006,Confluent muscular ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+253567004,Muscular ventricular septal defect in outlet septum,ventricular septal defect,VSD,Mild,SNOMED
+253568009,Doubly committed subarterial ventricular septal defect;DCSA - Doubly committed subarterial defect,ventricular septal defect,VSD,Moderate,SNOMED
+447852001,Ventricular septal defect of inlet of right aspect of ventricular septum,ventricular septal defect,VSD,Mild,SNOMED
+448411000,Spontaneous closure of ventricular septal defect due to prolapse of cusp of aortic valve,ventricular septal defect,VSD,Moderate,SNOMED
+428759006,Closure of multiple interventricular septal defects;Closure of multiple ventricular septal defects,ventricular septal defect,VSD,Mild,SNOMED
+449526005,Spontaneous reduction in size of ventricular septal defect due to tissue of membranous septum,ventricular septal defect,VSD,Mild,SNOMED
+704450003,History of ventricular septal defect repair,ventricular septal defect,VSD,Moderate,SNOMED
+253554002,Cranial perimembranous ventricular septal defect;Perimembranous ventricular septal defect with extension to right ventricular outlet,ventricular septal defect,VSD,Mild,SNOMED
+94706008,Muscular ventricular septum defect;Muscular ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
+447675006,Spontaneous closure of ventricular septal defect due to fibromuscular reaction,ventricular septal defect,VSD,Mild,SNOMED
+439714004,Transmyocardial closure of ventricular septal defect using catheter with implant and cardiopulmonary bypass,ventricular septal defect,VSD,Mild,SNOMED
+253565007,Muscular ventricular septal defect in apical trabecular septum,ventricular septal defect,VSD,Mild,SNOMED
+253559007,Ventricular septal defect with malaligned outlet septum to left,ventricular septal defect,VSD,Moderate,SNOMED
+448062009,Ventricular septal defect with malaligned outlet septum,ventricular septal defect,VSD,Mild,SNOMED
+253566008,Muscular ventricular septal defect in marginal septum,ventricular septal defect,VSD,Mild,SNOMED
+80387009,Roger's disease;Small ventricular septal defect;Asymptomatic ventricular septal defect;Roger disease;Roger's disease;Maladie de Roger,ventricular septal defect,VSD,Mild,SNOMED
+447942001,Spontaneous closure of ventricular septal defect due to tissue of membranous septum,ventricular septal defect,VSD,Mild,SNOMED
+448201009,Spontaneous closure of ventricular septal defect due to accessory tissue of atrioventricular valve,ventricular septal defect,VSD,Mild,SNOMED
+253556000,Ventricular septal defect with malaligned outlet septum to right,ventricular septal defect,VSD,Moderate,SNOMED
+86971008,Closure of ventricular septal defect with pulmonary valvotomy and patch,ventricular septal defect,VSD,Moderate,SNOMED
+473118009,History of ventricular septal defect,ventricular septal defect,VSD,Mild,SNOMED
