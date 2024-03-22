@@ -2,7 +2,16 @@
 
 ## Project description
 
-Description will be added here.
+Congenital heart disease (CHD) patients were identified during the COVID-19 pandemic as a vulnerable group at increased risk of severe outcomes from Sars-CoV-2 infection. Up-to-date health data following widespread vaccination enables a reassessment of these risks in the vaccinated CHD population.
+
+
+In this sub-project, we aimed to:
+
+1.	Characterise the risks from COVID-19 to vaccinated CHD patients compared to vaccinated controls.
+2.	Compare the reduction in vaccine efficacy over time between CHD cases and controls.
+3.	Examine the additional risk experienced by vaccinated CHD patients with increased anatomical complexity and physiological severity.
+4.	Compare the incidence of vaccine-associated complications between CHD cases and controls.
+
 
 ## How to cite this work
 > Citation goes here
