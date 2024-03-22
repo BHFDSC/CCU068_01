@@ -1,0 +1,131 @@
+code,description
+Xa3fP,Rheumatic endocarditis
+G011.,Acute rheumatic endocarditis
+G1y0.,Rheumatic myocarditis
+G012.,Acute rheumatic myocarditis
+XaDyJ,Acute rheumatic heart disease
+G02..,Rheumatic chorea
+G020.,Rheumatic chorea with heart involvement
+X200p,Rheumatic mitral valve disease
+G111.,Rheumatic mitral insufficiency
+G12..,Rheumatic aortic valve disease
+G120.,Rheumatic aortic stenosis
+G122.,Rheumatic aortic stenosis with insufficiency
+G121.,Rheumatic aortic insufficiency
+Xa3fO,Rheumatic tricuspid valve disease
+Xa3fP,Rheumatic endocardium disease
+XE0Up,Acute pericarditis
+G010.,Acute rheumatic pericarditis
+Xa85d,Acute bacterial pericarditis
+X201I,Acute infective pericarditis
+G5002,Acute syphilitic pericarditis
+X201K,Chronic pericarditis
+X201w,Chronic infective pericarditis
+X201v,Chronic pericarditis with effusion
+XaDyH,Endocarditis
+X200j,Fungal endocarditis
+AB2y0,Candidal endocarditis
+X200h,Infective endocarditis
+Xa7tF,Bacterial endocarditis
+XaDyL,Myocarditis
+G52..,Acute myocarditis
+X201Q,Viral myocarditis
+G52y7,Toxic myocarditis
+X201U,Fungal myocarditis
+X201R,Bacterial myocarditis
+XaDo0,Infective myocarditis
+X201V,Parasitic myocarditis
+J063.,Central giant cell granuloma
+A952.,Syphilitic peritonitis
+J5501,Peritonitis - syphilitic
+M15y6,Erythema marginatum in acute rheumatic fever
+X705m,Giant cell arteritis without polymyalgia rheumatica
+X705I,Giant cell arteritis with polymyalgia rheumatica
+G755.,Giant cell arteritis
+PGy2.,Ehlers-Danlos syndrome
+PKy2.,Marfan's syndrome
+PGy26,Ehlers-Danlos syndrome type 7
+PGy27,Ehlers-Danlos syndrome type 8
+PGy20,Ehlers-Danlos syndrome type I
+PGy24,Ehlers-Danlos syndrometype V
+PGy23,Ehlers-Danlos syndrome type IV
+PGy21,Ehlers-Danlos syndrome type II
+PGy25,Ehlers-Danlos syndrome type VI
+Xa0yX,Ehlers-Danlos syndrome type XI
+PGy26,Ehlers-Danlos syndrome type VII
+PGy22,Ehlers-Danlos syndrome type III
+X4oQP,Ehlers-Danlos syndrome type 9 X-linked
+XE0UZ,Mitral stenosis
+X200r,Rheumatic mitral stenosis
+XE0Ux,Mitral valve insufficiency
+A90..,Congenital syphilis
+X70M9,Late congenital syphilis
+X70M8,Early congenital syphilis
+A906.,Late congenital syphilis - latent
+A901.,Early congenital syphilis -latent
+XE0Rn,Acquired syphilis - early latent
+XE0Ro,Late cardiovascular syphilis
+XEoRt,Acquired syphilis - late latent
+X70MV,Late tertiary syphilis
+Xa0kV,Late quaternary syphilis
+A7A..,Viral carditis
+G5y9.,"Cardiac septal defect, acquired"
+G5200,Acute aseptic myocarditis of the newborn
+G767.,Syphilitic aortitis
+X00Dy,Cerebral arteritis in giant cell arteritis
+Xa3fN,Chronic rheumatic aortic valve disease
+G1…,Chronic rheumatic heart disease
+Xa3fK,Chronic rheumatic mitral valve
+G102.,Chronic rheumatic myopericarditis
+A7422,Coxsackie endocarditis
+A7423,Coxsackie myocarditis
+A7421,Coxsackie pericarditis
+XaEI5,Encephalomyocarditis
+X200I,Marantic endocarditis
+A2704,Listerial endocarditis
+G5114,Endocarditis - typhoid
+G5110,Endocarditis - monilial
+G5112,Gonococcal endocarditis
+X200i,Ricksettial endocarditis
+G5113,Meningococcal endocarditis
+Xa0Ku,Syphilitic endocarditis of aortic valve
+AB403,Histoplasma capsulatum with pericarditis
+AB404,Histoplasma capsulatum with endocarditis
+G717.,Syphilitic aortic aneurysm
+XaDyG,Rheumatic heart disease
+G01y0,Acute rheumatic pancarditis
+Xa3fP,Rheumatic endocardium disease
+G01..,Rheumatic fever with heart involvement
+G1yz1,Rheumatic left ventricular fever
+X200r,Rheumatic mitral stenosis
+X7783,Rheumatic mitral valve leaflet changes
+H571.,Rheumatic pneumonia
+G1411,Rheumatic pulmonary insufficiency
+G141.,Rheumatic pulmonary valve disease
+G1410,Rheumatic pulmonary valve stenosis
+G1400,Rheumatic tricuspid stenosis
+G1401,Rheumatic tricuspid regurgitation
+G02..,Sydenham's chorea
+Xa9EK,Late quaternary syphilitic aortic regurgitation
+XaC1J,Systemic lupus erythematosus with pericarditis
+X201T,Q fever myocarditis
+A32y1,Diphtheric myocarditis
+G5203,Acute myocarditis - influenzal
+G5206,Acute myocarditis - turberculous
+G52y5,Septic myocarditis - streptococcal
+G52y4,Septic myocarditis - staphylococcal
+X201j,Pericarditis
+X201m,Viral pericarditis
+X201r,Fungal pericarditis
+X201q,Q fever pericarditis
+XM1GK,Uraemic pericarditis
+X201s,Parasitic pericarditis
+Xa85c,Infective pericarditis
+X201o,Bacterial pericarditis
+A93y0,Syphilitic pericarditis
+G532.,Constrictive pericarditis
+X201u,Post-infarction pericarditis
+G5003,Acute tuberculous pericarditis
+G50z2,Acute pneumococcal pericarditis
+G50z4,Acute streptococcal pericarditis
+X201x,Secondary neoplastic pericarditis

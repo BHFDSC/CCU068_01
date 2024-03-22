@@ -1,0 +1,289 @@
+code,description,phenotype_description,phenotype_abbreviation,esc_complexity_classification,code_terminology
+P722.,Atresia of aorta,aortic valve atresia/aplasia,AAP,Severe,Read
+P7220,Atresia of aorta,aortic valve atresia/aplasia,AAP,Severe,Read
+P7221,Atresia of aorta,aortic valve atresia/aplasia,AAP,Severe,Read
+P7225,Atresia of aorta,aortic valve atresia/aplasia,AAP,Severe,Read
+P722z,Atresia of aorta,aortic valve atresia/aplasia,AAP,Severe,Read
+G5410,"Aortic insufficiency, non-rheumatic",aortic regurgitation,AR,Mild,Read
+G5412,Aortic insufficiency,aortic regurgitation,AR,Mild,Read
+P64z.,Congenital aortic valve insufficiency NOS,aortic regurgitation,AR,Mild,Read
+P64..,Congenital insufficiency of aortic valve,aortic regurgitation,AR,Mild,Read
+P640.,"Congenital aortic valve insufficiency, unspecified",aortic regurgitation,AR,Mild,Read
+P6y43,Coronary artery from pulmonary trunk,anomalous origin of the right coronary artery from pulmonary artery,ARCAPA,Moderate,Read
+X781G,Postductal aortic stenosis,aortic stenosis,AS,Mild,Read
+G5413,Aortic valve stenosis,aortic stenosis,AS,Mild,Read
+X781C,Preductal aortic stenosis,aortic stenosis,AS,Mild,Read
+G5415,Aortic valve stenosis,aortic stenosis,AS,Mild,Read
+G5411,"Aortic stenosis, non-rheumatic",aortic stenosis,AS,Mild,Read
+G5414,Aortic valve stenosis with insufficiency,aortic stenosis,AS,Mild,Read
+7907z,Closure of defect of interatrial septum NOS,atrial septal defect,ASD,Mild,Read
+P550.,Interatrial/auricular septal defect NEC,atrial septal defect,ASD,Mild,Read
+P561.,Ostium primum defect,atrial septal defect,ASD,Moderate,Read
+790A0,Open enlargement of defect of atrial septum,atrial septal defect,ASD,Mild,Read
+790L3,Percutan transluminal closure defect interatrial septum NEC,atrial septal defect,ASD,Mild,Read
+7907.,Repair of atrial septal defect,atrial septal defect,ASD,Mild,Read
+P552.,Persistent ostium secundum,atrial septal defect,ASD,Mild,Read
+21268,Ostium secundum atrial septal defect resolved,atrial septal defect,ASD,Mild,Read
+Xa3ki,Enlarge heart septal foramen,atrial septal defect,ASD,Mild,Read
+P552.,Patent ostium secundum,atrial septal defect,ASD,Mild,Read
+P55..,Secundum atrial septal defect,atrial septal defect,ASD,Mild,Read
+P561.,Ostium primum defect,atrial septal defect,ASD,Moderate,Read
+P550.,Atrial septal defect,atrial septal defect,ASD,Mild,Read
+P55y.,Other specified ostium secundum atrial septal defect,atrial septal defect,ASD,Mild,Read
+7906z,Repair of defect of the atrioventricular septum NOS,atrioventricular septal defect,AVSD,Moderate,Read
+7906.,Atrioventricular septal defect repair,atrioventricular septal defect,AVSD,Moderate,Read
+P560.,"Endocardial cushion defects, unspecified",atrioventricular septal defect,AVSD,Moderate,Read
+79064,Primary repair of defect of atrioventricular septum NEC,atrioventricular septal defect,AVSD,Moderate,Read
+P56..,Endocardial cushion defect,atrioventricular septal defect,AVSD,Moderate,Read
+79061,Close defect atrioventric septum using prosthetic patch NEC,atrioventricular septal defect,AVSD,Moderate,Read
+79063,Closure of persistent ostium primum,atrioventricular septal defect,AVSD,Moderate,Read
+P56z.,Endocardial cushion defects NOS,atrioventricular septal defect,AVSD,Moderate,Read
+79061,Repair defect atrioventricular septum prosthetic patch,atrioventricular septal defect,AVSD,Moderate,Read
+7906y,Other specified closure of defect of atrioventricular septum,atrioventricular septal defect,AVSD,Moderate,Read
+7906z,Closure of defect of atrioventricular septum NOS,atrioventricular septal defect,AVSD,Moderate,Read
+P56y.,Other specified endocardial cushion defects,atrioventricular septal defect,AVSD,Moderate,Read
+P56zz,Endocardial cushion defects NOS,atrioventricular septal defect,AVSD,Moderate,Read
+79064,Primary closure of defect of atrioventricular septum NEC,atrioventricular septal defect,AVSD,Moderate,Read
+P56z1,Discordant atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,Read
+X77tz,Discordant atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,Read
+P51..,Discordant atrioventricular connection,atrioventricular septal defect,AVSD,Moderate,Read
+X00zM,Atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,Read
+X00zN,Atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,Read
+X77vj,Atrioventricular septal defect,atrioventricular septal defect,AVSD,Moderate,Read
+P641.,Bicuspid aortic valve,bicuspid aortic valve,BAV,Mild,Read
+7911z,Plastic repair of aortic valve NOS,bicuspid aortic valve,BAV,Mild,Read
+79113,Replacement of aortic valve NEC,bicuspid aortic valve,BAV,Mild,Read
+ZV433,[V]Has artificial heart valve,bicuspid aortic valve,BAV,Mild,Read
+79112,Prosthetic replacement of aortic valve,bicuspid aortic valve,BAV,Mild,Read
+79111,Xenograft replacement of aortic valve,bicuspid aortic valve,BAV,Mild,Read
+7911y,Other specified plastic repair of aortic valve,bicuspid aortic valve,BAV,Mild,Read
+ZV45H,[V]Presence of prosthetic heart valve,bicuspid aortic valve,BAV,Mild,Read
+79110,Allograft replacement of aortic valve,bicuspid aortic valve,BAV,Mild,Read
+79151,Revision of plastic repair of aortic valve,bicuspid aortic valve,BAV,Mild,Read
+TB012,"Implant of heart valve prosthesis + complication, no blame",bicuspid aortic valve,BAV,Mild,Read
+7911z,Plastic repair of aortic valve NOS,bicuspid aortic valve,BAV,Mild,Read
+SP002,Mechanical complication of heart valve prosthesis,bicuspid aortic valve,BAV,Mild,Read
+790D7,Replacement of valved cardiac conduit,bicuspid aortic valve,BAV,Mild,Read
+79141,Xenograft replacement of valve of heart NEC,bicuspid aortic valve,BAV,Mild,Read
+79140,Allograft replacement of valve of heart NEC,bicuspid aortic valve,BAV,Mild,Read
+ZVu6e,[X]Presence of other heart valve replacement,bicuspid aortic valve,BAV,Mild,Read
+79114,Aortic valve repair NEC,bicuspid aortic valve,BAV,Mild,Read
+79116,Transluminal aortic valve implantation,bicuspid aortic valve,BAV,Mild,Read
+XM1LF,Bileaflet aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+79115,Transapical aortic valve implantation,bicuspid aortic valve,BAV,Mild,Read
+P501.,Aortic septal defect,common arterial trunk,CAT,Severe,Read
+P50..,Common aorto-pulmonary trunk,common arterial trunk,CAT,Severe,Read
+P502.,Truncus arteriosus,common arterial trunk,CAT,Severe,Read
+P500.,Truncus arteriosus,common arterial trunk,CAT,Severe,Read
+P50z.,Common aorto-pulmonary trunk NOS,common arterial trunk,CAT,Severe,Read
+7A003,Closure of aortopulmonary window,common arterial trunk,CAT,Severe,Read
+P56z2,Common atrioventricular-type ventricular septal defect,common atrioventricular valve,CAVV,Moderate,Read
+P56z1,Common atrioventricular canal,common atrioventricular valve,CAVV,Moderate,Read
+P6z3.,Cyanotic congenital heart disease,general classification,CHD,Severe,Read
+P71..,Coarctation of aorta,coarctation of aorta,COA,Moderate,Read
+P710.,Congenital hypoplasia of aortic arch,coarctation of aorta,COA,Moderate,Read
+P71z.,Coarctation of aorta NOS,coarctation of aorta,COA,Moderate,Read
+P713.,Interrupted aortic arch,interrupted aortic arch,IAA,Moderate,Read
+P7222,Hypoplasia of aorta,coarctation of aorta,COA,Moderate,Read
+P711.,Preductal coarctation of aorta,coarctation of aorta,COA,Moderate,Read
+7A181,Hamilton repair of coarctation of aorta using subclavian flap,coarctation of aorta,COA,Moderate,Read
+Y7Hpw,Stenosis of aorta,coarctation of aorta,COA,Moderate,Read
+P7223,Stricture of aorta,coarctation of aorta,COA,Moderate,Read
+P733.,Coarctation of pulmonary artery,coarctation of pulmonary artery,COP,Moderate,Read
+P58..,Double outlet left ventricle,double outlet left ventricle,DOLV,Severe,Read
+790K3,Repair of double outlet left ventricle,double outlet left ventricle,DOLV,Severe,Read
+P511.,Double outlet right ventricle,double outlet right ventricle,DORV,Severe,Read
+790D5,Rastelli operation,double outlet right ventricle,DORV,Severe,Read
+790K2,Repair of double outlet right ventricle,double outlet right ventricle,DORV,Severe,Read
+P5110,"Double outlet right ventricle, unspecified",double outlet right ventricle,DORV,Severe,Read
+790K0,Repair of double outlet right ventricle with intraventricular tunnel,double outlet right ventricle,DORV,Severe,Read
+P511z,Double outlet right ventricle NOS,double outlet right ventricle,DORV,Severe,Read
+P5113,Taussig-Bing syndrome,double outlet right ventricle,DORV,Severe,Read
+790K.,Repair of double outlet ventricle,double outlet ventricle,DOV,Severe,Read
+790Kz,Repair of double outlet ventricle NOS,double outlet ventricle,DOV,Severe,Read
+790Ky,Other specified repair of double outlet ventricle,double outlet ventricle,DOV,Severe,Read
+79124,Repositioning of tricuspid valve,ebstein anomaly,EBS,Moderate,Read
+P62..,Ebstein's anomaly of tricuspid valve,ebstein anomaly,EBS,Moderate,Read
+P603.,Right hypoplastic heart syndrome,hypoplastic right heart,HRH,Severe,Read
+P6y30,Uhl's disease,hypoplastic right heart,HRH,Severe,Read
+X781H,Postductal interruption of aorta,interrupted aortic arch,IAA,Severe,Read
+7A186,Repair of interrupted aortic arch,interrupted aortic arch,IAA,Severe,Read
+P722z,Atresia or stenosis of aorta NOS,interrupted aortic arch,IAA,Severe,Read
+P713.,Interrupted aortic arch,interrupted aortic arch,IAA,Severe,Read
+X781D,Preductal interruption of aorta,interrupted aortic arch,IAA,Severe,Read
+P66..,Congenital mitral insufficiency,mitral regurgitation,MR,Mild,Read
+P65..,Congenital mitral stenosis,mitral stenosis,MS,Mild,Read
+P650.,"Congenital mitral stenosis, unspecified",mitral stenosis,MS,Mild,Read
+P65z.,Congenital mitral stenosis NOS,mitral stenosis,MS,Mild,Read
+P651.,Fused commissure of the mitral valve,mitral valve disease,MVD,Mild,Read
+P653.,Supernumerary cusps of the mitral valve,mitral valve disease,MVD,Mild,Read
+P738.,Atresia of pulmonary artery with septal defect,pulmonary artery atresia,PAAT,Severe,Read
+Pyu27,Other congenital malformations of pulmonary artery,pulmonary artery malformation,PAM,Moderate,Read
+P731.,Pulmonary artery agenesis,pulmonary artery malformation,PAM,Severe,Read
+P734.,Hypoplasia of the pulmonary artery,pulmonary artery malformation,PAM,Moderate,Read
+P735.,Pulmonary artery stenosis,pulmonary artery malformation,PAM,Moderate,Read
+P742.,PAPVR - Partial anomalous pulmonary venous return,total anomalous pulmonary venous connection,TAPVC,Moderate,Read
+P601.,Congenital atresia of the pulmonary valve,pulmonary valve agenesis/atresia,PVA,Severe,Read
+P601z,Congenital atresia of pulmonary valve,pulmonary valve agenesis/atresia,PVA,Severe,Read
+P736.,Pulmonary arterio-venous aneurysm,anomalous pulmonary venous connection,PAVM,Moderate,Read
+7A013,Revision of correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+7A01y,Other specified open correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+7A01z,Open correction of patent ductus arteriosus NOS,patent ductus arteriosus,PDA,Mild,Read
+7A012,Repair of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+7A01.,Open correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+P70..,Patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+7A011,Ligation of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+7A010,Division of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,Read
+G5431,"Pulmonary stenosis, non-rheumatic",pulmonary stenosis,PS,Moderate,Read
+G5433,Pulmonic valve stenosis,pulmonary stenosis,PS,Moderate,Read
+P602.,PV - Congenital pulmonary valve stenosis,pulmonary stenosis,PS,Moderate,Read
+P6020,Congenital fusion of pulmonic cusps,pulmonary stenosis,PS,Moderate,Read
+P602z,Congenital stenosis of pulmonary valve,pulmonary stenosis,PS,Moderate,Read
+X77zZ,Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,Read
+X77za,Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,Read
+X77zc,Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,Read
+P601z,Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,Read
+P601.,Pulmonary valve atresia,pulmonary valve agenesis/atresia,PVA,Severe,Read
+P74z8,Atresia of pulmonary vein,pulmonary vein malformation,PVEM,Severe,Read
+P732.,Pulmonary artery atresia,pulmonary valve agenesis/atresia,PVA,Severe,Read
+X77uk,Anomalous termination of right pulmonary vein,pulmonary vein malformation,PVEM,Moderate,Read
+P74z7,Transposition of pulmonary veins,pulmonary vein malformation,PVEM,Moderate,Read
+P7400,"Anomaly of the pulmonary veins, unspecified",pulmonary vein malformation,PVEM,Moderate,Read
+G5434,Pulmonary valve stenosis with insufficiency,pulmonary valve malformation,PVM,Moderate,Read
+X77ze,Pulmonary valve insufficiency,pulmonary valve malformation,PVM,Moderate,Read
+G5432,Pulmonary valve insufficiency,pulmonary valve malformation,PVM,Moderate,Read
+XE0WW,Pulmonary valve insufficiency,pulmonary valve malformation,PVM,Moderate,Read
+G5430,Pulmonary valve insufficiency,pulmonary valve malformation,PVM,Moderate,Read
+P60..,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,Read
+G543.,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,Read
+P600.,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,Read
+P6010,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,Read
+XE0Eh,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,Read
+XM1LL,Pulmonary valve disorders,pulmonary valve malformation,PVM,Moderate,Read
+P6010,Hypoplasia of pulmonary valve,pulmonary valve malformation,PVM,Moderate,Read
+P6y31,Right ventricular outflow tract obstruction,right ventricular outflow obstruction,RVOO,Moderate,Read
+P7224,"Aortic stenosis, supravalvular or congenital ascending ",subaortic stenosis,SAS,Moderate,Read
+791A2,Repair of subaortic stenosis,subaortic stenosis,SAS,Moderate,Read
+P6y0.,Subaortic stenosis,subaortic stenosis,SAS,Moderate,Read
+Pyu21,Other congenital malformations of the cardiac septa,septal defect (unspecified),SD,Moderate,Read
+P542.,Left ventricle to right atrial communication,septal defect (unspecified),SD,Moderate,Read
+P5z..,Heart bulb or septal closure defects NOS,septal defect (unspecified),SD,Moderate,Read
+XE1KA,Bulbus/septum heart anomalies,septal defect (unspecified),SD,Moderate,Read
+Xa3hW,Septal defect NOS,septal defect (unspecified),SD,Moderate,Read
+P53..,Common ventricle,single ventricle,SV,Severe,Read
+P6yy8,Cor triloculare,single ventricle,SV,Severe,Read
+P6yyA,Hemicardia,single ventricle,SV,Severe,Read
+P56z.,Endocardial cushion defects NOS,atrioventricular septal defect,AVSD,Moderate,Read
+P57..,Cor biloculare,single ventricle,SV,Severe,Read
+P72z0,Aneurysm of sinus of Valsalva,sinus of valsalva,SVA,Moderate,Read
+P63..,Congenital aortic valve stenosis,aortic stenosis,AS,Moderate,Read
+P7224,Supravalvar aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,Read
+791A3,Repair of supra-aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,Read
+P741z,Total anomalous pulmonary venous return,total anomalous pulmonary venous connection,TAPVC,Moderate,Read
+P741.,Total anomalous pulmonary venous connection,total anomalous pulmonary venous connection,TAPVC,Moderate,Read
+7905.,Correction of total anomalous pulmonary venous connection,total anomalous pulmonary venous connection,TAPVC,Moderate,Read
+P610.,Tricuspid atresia,tricuspid atresia,TAT,Severe,Read
+P61..,Congenital tricuspid atresia and stenosis,tricuspid atresia,TAT,Severe,Read
+X77uC,Discordant ventriculoarterial connection,transposition of the great arteries,TGA,Severe,Read
+P51..,Discordant ventriculoarterial connection,transposition of the great arteries,TGA,Severe,Read
+P512.,Discordant ventriculoarterial connection,transposition of the great arteries,TGA,Severe,Read
+Pyu28,Other congenital malformations of great arteries,transposition of the great arteries,TGA,Severe,Read
+Pyu2J,Other congenital malformations of great arteries,transposition of the great arteries,TGA,Severe,Read
+P5111,Dextratransposition of aorta,transposition of the great arteries,TGA,Severe,Read
+7904.,Other correction of transposition of great vessels,transposition of the great arteries,TGA,Moderate,Read
+7904z,Other correction of transposition of great vessels NOS,transposition of the great arteries,TGA,Moderate,Read
+P512.,Congenitally corrected transposition of great arteries,transposition of the great arteries,TGA,Moderate,Read
+7904y,Other correction of transposition of great vessels OS,transposition of the great arteries,TGA,Moderate,Read
+P510.,Total great vessel transposition,transposition of the great arteries,TGA,Severe,Read
+P5112,Incomplete great vessel transposition,transposition of the great arteries,TGA,Severe,Read
+P7211,Dextrotransposition of aorta,transposition of the great arteries,TGA,Severe,Read
+790J.,Operation for transposition of great vessels,transposition of the great arteries,TGA,Moderate,Read
+790Jz,Other repair of transposition of great arteries NOS,transposition of the great arteries,TGA,Moderate,Read
+P51y.,Other specified transposition of great vessels,transposition of the great arteries,TGA,Severe,Read
+X00zO,Tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+P7217,Overriding aorta,tetralogy of fallot,TOF,Moderate,Read
+P52..,Tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+7902.,Repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+P521.,Pentalogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+P520.,Dextraposition of aorta in Fallot's tetralogy or ventricular septal defect in Fallot's tetralogy,tetralogy of fallot,TOF,Moderate,Read
+79025,Repair of tetralogy of Fallot with absent pulmonary valve,tetralogy of fallot,TOF,Moderate,Read
+P520.,"Tetralogy of Fallot, unspecified",tetralogy of fallot,TOF,Moderate,Read
+7902z,Repair of tetralogy of Fallot NOS,tetralogy of fallot,TOF,Moderate,Read
+79022,Correction of tetralogy of Fallot using right ventricular outflow patch,tetralogy of fallot,TOF,Moderate,Read
+79026,Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals,tetralogy of fallot,TOF,Moderate,Read
+79021,Repair of tetralogy of Fallot using right ventricular outflow conduit,tetralogy of fallot,TOF,Moderate,Read
+7902y,Other specified repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+P7217,Overriding aorta,tetralogy of fallot,TOF,Moderate,Read
+7902y,Other specified correction of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+79023,Revision of repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+79024,Complete repair of tetralogy of Fallot with transannular patch,tetralogy of fallot,TOF,Moderate,Read
+7902z,Correction of tetralogy of Fallot NOS,tetralogy of fallot,TOF,Moderate,Read
+P60z1,Fallot's trilogy,tetralogy of fallot,TOF,Moderate,Read
+79023,Revision of correction of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,Read
+790K1,Repair of Fallot-type double outlet right ventricle,tetralogy of fallot,TOF,Moderate,Read
+79020,Correction of tetralogy of Fallot using valved right ventricular outflow conduit,tetralogy of fallot,TOF,Moderate,Read
+P52z.,Tetralogy of Fallot NOS,tetralogy of fallot,TOF,Moderate,Read
+P54..,Ventricular septal defect,ventricular septal defect,VSD,Mild,Read
+P541.,Interventricular septal defect,ventricular septal defect,VSD,Mild,Read
+79085,Closure of multiple interventricular septal defects,ventricular septal defect,VSD,Mild,Read
+7908.,Repair of defect of interventricular septum,ventricular septal defect,VSD,Mild,Read
+79083,Primary closure of defect of interventricular septum NEC,ventricular septal defect,VSD,Mild,Read
+7908z,Closure of defect of interventricular septum NOS,ventricular septal defect,VSD,Mild,Read
+P54z.,Ventricular septal defect NOS,ventricular septal defect,VSD,Mild,Read
+P544.,Gerbode's defect,ventricular septal defect,VSD,Moderate,Read
+XaLfF,Percutaneous translum repair defect intervent septum NEC,ventricular septal defect,VSD,Mild,Read
+7908y,Closure of ventricular septal defect,ventricular septal defect,VSD,Mild,Read
+XaLeq,Closure of multiple ventricular septal defects,ventricular septal defect,VSD,Mild,Read
+79080,Closure of defect of interventricular septum using prosthetic patch,ventricular septal defect,VSD,Mild,Read
+79086,Closure of defect of interventricular septum using intraoperative transluminal prosthesis,ventricular septal defect,VSD,Mild,Read
+XaLfE,Transluminal closure of ventricular septal defect using prosthesis,ventricular septal defect,VSD,Mild,Read
+7908y,Other specified repair of defect of interventricular septum,ventricular septal defect,VSD,Mild,Read
+79082,Close defect interventricular septum using tissue graft NEC,ventricular septal defect,VSD,Mild,Read
+P54y.,Other specified ventricular septal defect,ventricular septal defect,VSD,Mild,Read
+79082,Repair defect interventricular septum us tissue graft,ventricular septal defect,VSD,Mild,Read
+79083,Primary repair of defect of interventricular septum NEC,ventricular septal defect,VSD,Mild,Read
+XaLer,Repair interventricular septal defect us intraop trans pros,ventricular septal defect,VSD,Mild,Read
+7908z,Repair of defect of interventricular septum NOS,ventricular septal defect,VSD,Mild,Read
+24M..,Spontaneous closure of ventricular septal defect,ventricular septal defect,VSD,Mild,Read
+79080,Repair of defect of interventricular septum using prosthetic patch,ventricular septal defect,VSD,Mild,Read
+790L1,Percutaneous translum closure defect intervent septum NEC,ventricular septal defect,VSD,Mild,Read
+P540.,"Ventricular septal defect, unspecified",ventricular septal defect,VSD,Mild,Read
+14AV.,History of ventricular septal defect,ventricular septal defect,VSD,Mild,Read
+X77v0,Isomerism of atrial appendages,general classification,CHD,Severe,Read
+Pyu20,Other congenital malformations of cardiac chambers and connections,general classification,CHD,Mild,Read
+Pyu2F,"Congenital malformation of cardiac chambers and connections, unspecified",general classification,CHD,Mild,Read
+P6y60,Dextrocardia,general classification,CHD,Mild,Read
+X782A,Malformation of coronary vessels,general classification,CHD,Mild,Read
+P6y43,Malformation of coronary vessels,general classification,CHD,Mild,Read
+X781t,Malformation of coronary vessels,general classification,CHD,Mild,Read
+X781s,Malformation of coronary vessels,general classification,CHD,Mild,Read
+X77uz,Other specified congenital malformations of heart,general classification,CHD,Mild,Read
+Pyu25,Other specified congenital malformations of heart,general classification,CHD,Mild,Read
+X77tw,Double inlet ventricle,double inlet ventricle,DIV,Severe,Read
+XaLfQ,Hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,Read
+P67..,Hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,Read
+X0112,Hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,Read
+P72z.,Other congenital malformations of aorta,other anomalies of the thoracic aorta,OATA,Moderate,Read
+X7802,Other congenital malformations of aorta,other anomalies of the thoracic aorta,OATA,Moderate,Read
+P72z1,Other congenital malformations of aorta,other anomalies of the thoracic aorta,OATA,Moderate,Read
+Pyu26,Other congenital malformations of aorta,other anomalies of the thoracic aorta,OATA,Moderate,Read
+Pyu22,Other congenital malformations of pulmonary valve,other valve defect,OVD,Mild,Read
+Pyu23,Other congenital malformations of tricuspid valve,other valve defect,OVD,Moderate,Read
+Pyu2G,"Congenital malformation of tricuspid valve, unspecified",other valve defect,OVD,Moderate,Read
+Pyu24,Other congenital malformations of aortic and mitral valves,other valve defect,OVD,Mild,Read
+Pyu2H,"Congenital malformation of aortic and mitral valves, unspecified",other valve defect,OVD,Mild,Read
+X2013,Calcific aortic stenosis,aortic stenosis,AS,Mild,Read
+X2017,Aortic regurgitation,aortic regurgitation,AR,Mild,Read
+X2018,Congenital aortic regurgitation,aortic regurgitation,AR,Mild,Read
+X777Y,Prosthetic aortic valve regurgitation,bicuspid aortic valve,BAV,Mild,Read
+X777Z,Paraprosthetic aortic regurgitation,bicuspid aortic valve,BAV,Mild,Read
+XE0Ef,Plastic repair of aortic valve,bicuspid aortic valve,BAV,Mild,Read
+XM1LC,Ball valve aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+XM1LD,Disc vavle aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+XM1LE,Single leaflet aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+XM1LF,Bileaflet aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+YMIzc,Aortic valve replacement NOS,bicuspid aortic valve,BAV,Mild,Read
+XaBXo,Biological aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+XaBXp,Porcine aortic valve replacement,bicuspid aortic valve,BAV,Mild,Read
+XaQYo,Transapical aortic valve implantation,bicuspid aortic valve,BAV,Mild,Read
+XaQyp,Transluminal aortic valve implantation,bicuspid aortic valve,BAV,Mild,Read

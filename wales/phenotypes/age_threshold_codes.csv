@@ -1,0 +1,63 @@
+﻿code,description,code_terminology
+I35,Nonrheumatic aortic valve disorders,ICD10
+I351,Aortic (valve) insufficiency,ICD10
+I350,Aortic (valve) stenosis,ICD10
+I352,Aortic (valve) stenosis with insufficiency,ICD10
+194983005,"Aortic valve regurgitation, nonrheumatic;""Aortic insufficiency, non-rheumatic"";Non-rheum. aortic incompetence;Non-rheumatic aortic sclerosis;""Aortic incompetence, non-rheumatic"";""Aortic regurgitation, non-rheumatic""",SNOMED
+194984004,"Aortic stenosis, non-rheumatic",SNOMED
+194987006,Aortic valve stenosis with insufficiency,SNOMED
+250976004,Aortic cusp regurgitation;Aortic cusp disease,SNOMED
+276790000,Isolated aortic stenosis,SNOMED
+427515002,Critical stenosis of aortic valve,SNOMED
+60234000,"Aortic insufficiency alone, cause unspecified;""Aortic regurgitation alone, cause unspecified"";Aortic valve incompetence;AR - Aortic regurgitation;Aortic valve insufficiency;Aortic incompetence;Aortic insufficiency;Aortic regurgitation;AI - Aortic incompetence;Aortic valve regurgitation",SNOMED
+60573004,Aortic stenosis;Stenosed aortic valve;AS - Aortic stenosis;Aortic valve stenosis;Aortic valve stenosis,SNOMED
+703323003,Aortic valve regurgitation due to aortic dilation;Aortic valve regurgitation secondary to aortic dilation,SNOMED
+194986002,"Aortic stenosis alone, cause unspecified",SNOMED
+K312,Open aortic valvotomy ,OPCS4
+K322,Closed aortic valvotomy,OPCS4
+K352,Percutaneous transluminal aortic valvotomy,OPCS4
+K261,Allograft replacement of aortic valve ,OPCS4
+K262,Xenograft replacement of aortic valve,OPCS4
+K263,Prosthetic replacement of aortic valve,OPCS4
+K264,Replacement of aortic valve NEC ,OPCS4
+K265,Aortic valve repair NEC ,OPCS4
+K268,Other specified plastic repair of aortic valve,OPCS4
+K269,Unspecified plastic repair of aortic valve,OPCS4
+K302,Revision of plastic repair of aortic valve ,OPCS4
+G5410,"Aortic insufficiency, non-rheumatic",Read
+G5412,Aortic insufficiency,Read
+G5413,Aortic valve stenosis,Read
+X781C,Preductal aortic stenosis,Read
+G5415,Aortic valve stenosis,Read
+G5411,"Aortic stenosis, non-rheumatic",Read
+G5414,Aortic valve stenosis with insufficiency,Read
+79113,Replacement of aortic valve NEC,Read
+ZV433,[V] Has artificial heart valve,Read
+79112,Prosthetic replacement of aortic valve,Read
+79111,Xenograft replacement of aortic valve,Read
+7911y,Other specified plastic repair of aortic valve,Read
+ZV45H,[V] Presence of prosthetic hearat valve,Read
+79110,Allograft replacement of aortic valve,Read
+79151,Revision of plastic repair of aortic valve,Read
+TB012,"Implant of heart valve prosthesis + complication, no blame",Read
+7911z,Plastic repair of aortic valve NOS,Read
+SP002,Mechanical complication of heart valve prosthesis,Read
+790D7,Replacement of valved cardiac conduit,Read
+79141,Xenograft replacement of aortic valve NEC,Read
+79140,Allograft replacement of valve of heart NEC,Read
+ZVu6e,[X] Presence of other heart valve replacement,Read
+79114,Aortic valve repair NEC,Read
+79116,Transluminal aortic valve implantation,Read
+79115,Transapical aortic valve implantation,Read
+X2017,Aortic regurgitation,Read
+X777Y,Prosthetic aortic valve regurgitation,Read
+X777Z,Paraprosthetic aortic regurgitation,Read
+XE0Ef,Plastic repair of aortic valve,Read
+XM1LC,Ball valve aortic valve replacement,Read
+XM1LD,Disc valve aortic valve replacement,Read
+XM1LE,Single leaflet aortic valve replacement,Read
+YMIzc,Aortic valve replacement NOS,Read
+XaBXo,Biological aortic valve replacement,Read
+XaBXp,Porcine aortic valve replacement,Read
+XaQYo,Transapical aortic valve implantation,Read
+XaQyp,Transluminal aortic valve implantation,Read
