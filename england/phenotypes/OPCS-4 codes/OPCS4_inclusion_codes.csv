@@ -1,0 +1,117 @@
+code,description,phenotype_description,phenotype_abbreviation,esc_complexity_classification,code_position,code_terminology
+K094,K09.4 Repair of persistent ostium primum,atrial septal defect,ASD,Moderate,All,OPCS-4
+K10,K10 Repair of defect of interatrial septum,atrial septal defect,ASD,Moderate,All,OPCS-4
+K101,K10.1 Repair of defect of interatrial septum using prosthetic patch,atrial septal defect,ASD,Moderate,All,OPCS-4
+K102,K10.2 Repair of defect of interatrial septum using pericardial patch,atrial septal defect,ASD,Moderate,All,OPCS-4
+K103,K10.3 Repair of defect of interatrial septum using tissue graft NEC,atrial septal defect,ASD,Moderate,All,OPCS-4
+K104,K10.4 Primary repair of defect of interatrial septum NEC,atrial septal defect,ASD,Moderate,All,OPCS-4
+K105,K10.5 Revision of repair of defect of interatrial septum,atrial septal defect,ASD,Moderate,All,OPCS-4
+K108,K10.8 Other specified repair of defect of interatrial septum,atrial septal defect,ASD,Moderate,All,OPCS-4
+K109,K10.9 Unspecified repair of defect of interatrial septum,atrial septal defect,ASD,Moderate,All,OPCS-4
+K133,Percutaneous transluminal repair of defect of interatrial septum using prosthesis,atrial septal defect,ASD,Moderate,All,OPCS-4
+K134,Percutaneous transluminal repair of defect of interatrial septum NEC,atrial septal defect,ASD,Moderate,All,OPCS-4
+K141,Open enlargement of defect of atrial septum,atrial septal defect,ASD,Moderate,All,OPCS-4
+K163,Percutaneous transluminal atrial septum fenestration closure with prosthesis,atrial septal defect,ASD,Moderate,All,OPCS-4
+K302,K30.2 Revision of plastic repair of aortic valve,atrial septal defect,AVD,Moderate,All,OPCS-4
+K091,Repair of defect of atrioventricular septum using dual prosthetic patches,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K092,Repair of defect of atrioventricular septum using prosthetic patch NEC,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K093,Repair of defect of atrioventricular septum using tissue graft,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K095,Primary repair of defect of atrioventricular septum NEC,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K096,Revision of repair of defect of atrioventricular septum,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K098,Other specified repair of defect of atrioventricular septum,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K099,Unspecified repair of defect of atrioventricular septum,atrioventricular septal defect,AVSD,Moderate,All,OPCS-4
+K261,K26.1 Allograft replacement of aortic valve,aortic valve disease,AVD,Mild,All,OPCS-4
+K262,K26.2 Xenograft replacement of aortic valve,aortic valve disease,AVD,Mild,All,OPCS-4
+K263,K26.3 Prosthetic replacement of aortic valve,aortic valve disease,AVD,Mild,All,OPCS-4
+K264,K26.4 Replacement of aortic valve NEC,aortic valve disease,AVD,Mild,All,OPCS-4
+K265,K26.5 Aortic valve repair NEC,aortic valve disease,AVD,Mild,All,OPCS-4
+K268,K26.8 Other specified plastic repair of aortic valve,aortic valve disease,AVD,Mild,All,OPCS-4
+K269,K26.9 Unspecified plastic repair of aortic valve,aortic valve disease,AVD,Mild,All,OPCS-4
+K312,K31.2 Open aortic valvotomy,aortic valve disease,AVD,Mild,All,OPCS-4
+K352,K35.2 Percutaneous transluminal aortic valvotomy,aortic valve disease,AVD,Mild,All,OPCS-4
+K296,Truncal valve repair,common arterial trunk,CAT,Severe,All,OPCS-4
+K297,Replacement of truncal valve,common arterial trunk,CAT,Severe,All,OPCS-4
+L011,Correction of persistent truncus arteriosus,common arterial trunk,CAT,Severe,All,OPCS-4
+L012,Application of band to persistent truncus arteriosus,common arterial trunk,CAT,Severe,All,OPCS-4
+L237,Repair of interrupted aortic arch,interrupted aortic arch,IAA,Severe,All,OPCS-4
+K084,Repair of double outlet left ventricle,double outlet left ventricle,DOLV,Severe,All,OPCS-4
+K081,Repair of double outlet right ventricle with intraventricular tunnel,double outlet right ventricle,DORV,Severe,All,OPCS-4
+K082,Repair of Fallot-type double outlet right ventricle,double outlet right ventricle,DORV,Severe,All,OPCS-4
+K083,Repair of double outlet right ventricle,double outlet right ventricle,DORV,Severe,All,OPCS-4
+K242,Repair of double chambered right ventricle,double outlet right ventricle,DORV,Severe,All,OPCS-4
+K088,Other specified repair of double outlet ventricle,double outlet ventricle,DOV,Severe,All,OPCS-4
+K089,Unspecified repair of double outlet ventricle,double outlet ventricle,DOV,Severe,All,OPCS-4
+K175,Biventricular repair of hypoplastic left heart syndrome,hypoplastic left heart,HLH,Severe,All,OPCS-4
+L013,Repair of anomalous pulmonary artery origin from ascending aorta,pulmonary artery malformation,PAM,Moderate,All,OPCS-4
+L014,Closure of aortopulmonary window,pulmonary artery malformation,PAM,Moderate,All,OPCS-4
+K202,Correction of partial anomalous pulmonary venous drainage,anomalous pulmonary venous connection,PAVM,Moderate,All,OPCS-4
+L021,Division of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+L022,Ligature of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+L023,Closure of patent ductus arteriosus NEC,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+L024,Revision of correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+L028,Other specified open correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+L029,Unspecified open correction of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+L031,Percutaneous transluminal prosthetic occlusion of patent ductus arteriosus,patent ductus arteriosus,PDA,Mild,All,OPCS-4
+K314,K31.4 Open pulmonary valvotomy,pulmonary stenosis,PS,Moderate,All,OPCS-4
+K324,K32.4 Closed pulmonary valvotomy,pulmonary stenosis,PS,Mild,All,OPCS-4
+K354,K35.4 Percutaneous transluminal pulmonary valvotomy,pulmonary stenosis,PS,Moderate,All,OPCS-4
+K356,K35.6 Percutaneous transluminal pulmonary valve perforation and dilation,pulmonary valve agenesis/atresia,PVA,Moderate,All,OPCS-4
+K241,Relief of right ventricular outflow tract obstruction,right ventricular outflow obstruction,RVOO,Moderate,All,OPCS-4
+K373,K37.3 Repair of subaortic stenosis,subaortic stenosis,SAS,Moderate,All,OPCS-4
+K121,Repair of defect of septum of heart using prosthetic patch NEC,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K122,Repair of defect of septum of heart using pericardial patch NEC,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K123,Repair of defect of septum of heart using tissue graft NEC,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K124,Primary repair of defect of septum of heart NEC,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K125,Revision of repair of septum of heart NEC,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K128,Other specified repair of defect of unspecified septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K129,Unspecified repair of defect of unspecified septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K135,Percutaneous transluminal repair of defect of unspecified septum using prosthesis,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K138,Other specified transluminal repair of defect of septum,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K139,Unspecified transluminal repair of defect of septum,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K148,Other specified other open operations on septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K149,Unspecified other open operations on septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K158,Other specified closed operations on septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K159,Unspecified closed operations on septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K168,Other specified other therapeutic transluminal operations on septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K169,Unspecified other therapeutic transluminal operations on septum of heart,septal defect (unspecified),SD,Moderate,All,OPCS-4
+K171,Total cavopulmonary connection with extracardiac inferior caval vein to pulmonary artery conduit,single ventricle,SV,Severe,All,OPCS-4
+K172,Total cavopulmonary connection with lateral atrial tunnel,single ventricle,SV,Severe,All,OPCS-4
+K173,Aortopulmonary reconstruction with systemic to pulmonary arterial shunt,single ventricle,SV,Severe,All,OPCS-4
+K174,Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit,single ventricle,SV,Severe,All,OPCS-4
+K178,Other specified repair of univentricular heart,single ventricle,SV,Severe,All,OPCS-4
+K179,Unspecified repair of univentricular heart,single ventricle,SV,Severe,All,OPCS-4
+K374,Repair of supra-aortic stenosis,supravalvular aortic stenosis,SVAS,Moderate,All,OPCS-4
+K071,Correction of total anomalous pulmonary venous connection to supracardiac vessel,total anomalous pulmonary venous connection,TAPVC,Moderate,All,OPCS-4
+K072,Correction of total anomalous pulmonary venous connection to coronary sinus,total anomalous pulmonary venous connection,TAPVC,Moderate,All,OPCS-4
+K073,Correction of total anomalous pulmonary venous connection to infradiaphragmatic vessel,total anomalous pulmonary venous connection,TAPVC,Moderate,All,OPCS-4
+K078,Other specified correction of total anomalous pulmonary venous connection,total anomalous pulmonary venous connection,TAPVC,Moderate,All,OPCS-4
+K079,Unspecified correction of total anomalous pulmonary venous connection,total anomalous pulmonary venous connection,TAPVC,Moderate,All,OPCS-4
+K051,Reconstruction of atrium using atrial patch for transposition of great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K052,Reconstruction of atrium using atrial wall for transposition of great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K058,Other specified atrial inversion operations for transposition of great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K059,Unspecified atrial inversion operations for transposition of great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K061,Repositioning of transposed great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K062,Left ventricle to aorta tunnel with right ventricle to pulmonary trunk direct anastomosis,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K063,Left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K064,Atrial inversion and repositioning of transposed great artery,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K068,Other specified other repair of transposition of great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K069,Unspecified other repair of transposition of great arteries,transposition of the great arteries,TGA,Moderate,All,OPCS-4
+K041,Repair of tetralogy of Fallot using valved right ventricular outflow conduit,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K042,Repair of tetralogy of Fallot using right ventricular outflow conduit NEC,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K043,Repair of tetralogy of Fallot using transannular patch,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K044,Revision of repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K045,Repair of tetralogy of Fallot with absent pulmonary valve,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K046,Repair of Fallot-type pulmonary atresia with aortopulmonary collaterals,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K048,Other specified repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K049,Unspecified repair of tetralogy of Fallot,tetralogy of fallot,TOF,Moderate,All,OPCS-4
+K111,Repair of defect of interventricular septum using prosthetic patch,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K112,Repair of defect of interventricular septum using pericardial patch,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K113,Repair of defect of interventricular septum using tissue graft NEC,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K114,Primary repair of defect of interventricular septum NEC,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K115,Revision of repair of defect of interventricular septum,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K116,Repair of multiple interventricular septal defects,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K117,Repair of interventricular septal defect using intraoperative transluminal prosthesis,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K118,Other specified repair of defect of interventricular septum,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K119,Unspecified repair of defect of interventricular septum,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K131,Percutaneous transluminal repair of defect of interventricular septum using prosthesis,ventricular septal defect,VSD,Moderate,All,OPCS-4
+K132,Percutaneous transluminal repair of defect of interventricular septum NEC,ventricular septal defect,VSD,Moderate,All,OPCS-4

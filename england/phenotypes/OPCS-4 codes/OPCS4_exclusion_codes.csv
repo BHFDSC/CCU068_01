@@ -1,0 +1,14 @@
+code,description,code_position,code_terminology
+K311,K31.1 Open mitral valvotomy,All,OPCS-4
+K321,K32.1 Closed mitral valvotomy,All,OPCS-4
+K351,K35.1 Percutaneous transluminal mitral valvotomy,All,OPCS-4
+K251,K25.1 Allograft replacement of mitral valve,All,OPCS-4
+K252,K25.2 Xenograft replacement of mitral valve,All,OPCS-4
+K253,K25.3 Prosthetic replacement of mitral valve,All,OPCS-4
+K254,K25.4 Replacement of mitral valve NEC,All,OPCS-4
+K255,K25.5 Mitral valve repair NEC,All,OPCS-4
+K258,K25.8 Other specified plastic repair of mitral valve,All,OPCS-4
+K259,K25.9 Unspecified plastic repair of mitral valve,All,OPCS-4
+K301,K30.1 Revision of plastic repair of mitral valve,All,OPCS-4
+K344,K34.4 Excision of vegetations of valve of heart,All,OPCS-4
+K556,K55.6 Repair of traumatic injury of heart,All,OPCS-4
