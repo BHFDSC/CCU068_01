@@ -1,10 +1,8 @@
-# COVID vaccination impact on CHD patients
+# The impact of COVID-19 vaccination on patients with congenital heart disease in England and Wales
 
 ## Project description
 
 Congenital heart disease (CHD) patients were identified during the COVID-19 pandemic as a vulnerable group at increased risk of severe outcomes from Sars-CoV-2 infection. Up-to-date health data following widespread vaccination enables a reassessment of these risks in the vaccinated CHD population.
-
-
 
 In this sub-project, we aimed to:
 
@@ -21,7 +19,6 @@ In this sub-project, we aimed to:
 
 * [View the analysis code and phenotypes used in NHS England's SDE for England](https://github.com/BHFDSC/CCU068_01/tree/main/england)
 * [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU068_01/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU068_01/tree/main/outside)
 
 ## Project approval
 
