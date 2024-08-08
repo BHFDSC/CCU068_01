@@ -1,0 +1,790 @@
+﻿code,description,code_position (in hospital datasets),code_terminology
+905461000000000,"[RFC] Endocarditis, myocarditis, pericarditis",N/A,SNOMED
+46701001,"[X]Acute myocarditis, unspecified",N/A,SNOMED
+87648004,[X]Chronic rheumatic heart disease,N/A,SNOMED
+50920009,[X]Myocarditis in other diseases classified elsewhere,N/A,SNOMED
+22653005,[X]Myocarditis in other infectious+parasitic diseases CE,N/A,SNOMED
+194989009,"[X]Nonrheumatic tricuspid valve disorder, unspecified",N/A,SNOMED
+46701001,[X]Other acute myocarditis,N/A,SNOMED
+312591002,[X]Other acute rheumatic heart disease,N/A,SNOMED
+15555002,[X]Other forms of acute pericarditis,N/A,SNOMED
+414341000,[X]Other giant cell arteritis,N/A,SNOMED
+12023003,[X]Other rheumatic aortic valve diseases,N/A,SNOMED
+23685000,[X]Other specified rheumatic heart diseases,N/A,SNOMED
+41739008,[X]Pericarditis in bacterial diseases classified elsewhere,N/A,SNOMED
+41739008,[X]Pericarditis in other infectious+parasitic diseases CE,N/A,SNOMED
+195137008,Acquired cardiac septal defect,N/A,SNOMED
+18192007,Active rheumatic fever with endocarditis,N/A,SNOMED
+312591002,Active rheumatic fever with heart involvement,N/A,SNOMED
+194709000,Active rheumatic fever with myocarditis,N/A,SNOMED
+15676002,Active rheumatic fever with pericarditis,N/A,SNOMED
+84871007,Active rheumatic fever with valvulitis,N/A,SNOMED
+266237004,Acute and subacute bacterial endocarditis,N/A,SNOMED
+266237004,Acute and subacute bacterial endocarditis NOS,N/A,SNOMED
+194921005,Acute and subacute endocarditis,N/A,SNOMED
+612081000000000,Acute and subacute endocarditis unspecified,N/A,SNOMED
+194921005,Acute and subacute endocarditis unspecified,N/A,SNOMED
+194921005,"Acute and subacute endocarditis unspecified, NOS",N/A,SNOMED
+194926000,Acute and subacute infective endocarditis associated with another disorder,N/A,SNOMED
+194926000,Acute and subacute infective endocarditis associated with another disorder,N/A,SNOMED
+194926000,Acute and subacute infective endocarditis in diseases EC,N/A,SNOMED
+194943002,Acute aseptic myocarditis of the newborn,N/A,SNOMED
+111286002,Acute bacterial endocarditis,N/A,SNOMED
+17079009,Acute bacterial pericarditis,N/A,SNOMED
+173574009,Acute benign pericarditis,N/A,SNOMED
+176401009,Acute bloody pericarditis,N/A,SNOMED
+177291008,Acute effusive pericarditis,N/A,SNOMED
+91357005,Acute endocarditis,N/A,SNOMED
+420395004,Acute endocarditis associated with acquired immunodeficiency syndrome,N/A,SNOMED
+420395004,Acute endocarditis associated with AIDS,N/A,SNOMED
+713511002,Acute endocarditis co-occurrent with human immunodeficiency virus infection,N/A,SNOMED
+53874003,Acute endopericarditis,N/A,SNOMED
+174511002,Acute fibrinous pericarditis,N/A,SNOMED
+194910001,Acute gonococcal pericarditis,N/A,SNOMED
+266235007,Acute idiopathic pericarditis,N/A,SNOMED
+459056003,Acute infectious endocarditis,N/A,SNOMED
+459056003,Acute infective endocarditis,N/A,SNOMED
+233881003,Acute infective pericarditis,N/A,SNOMED
+81580000,Acute mediastinopericarditis,N/A,SNOMED
+194906004,Acute meningococcal pericarditis,N/A,SNOMED
+46701001,Acute myocarditis,N/A,SNOMED
+194944008,Acute myocarditis - coxsackie,N/A,SNOMED
+194945009,Acute myocarditis - diphtheritic,N/A,SNOMED
+194946005,Acute myocarditis - influenzal,N/A,SNOMED
+194950003,Acute myocarditis - meningococcal,N/A,SNOMED
+194947001,Acute myocarditis - syphilitic,N/A,SNOMED
+194948006,Acute myocarditis - toxoplasmosis,N/A,SNOMED
+194949003,Acute myocarditis - tuberculous,N/A,SNOMED
+194942007,Acute myocarditis associated with another disorder,N/A,SNOMED
+194942007,Acute myocarditis in diseases EC,N/A,SNOMED
+46701001,Acute myocarditis NOS,N/A,SNOMED
+46701001,"Acute myocarditis, unspecified",N/A,SNOMED
+30328003,Acute myoendocarditis,N/A,SNOMED
+194921005,Acute myoendocarditis NOS,N/A,SNOMED
+11176009,Acute myopericarditis,N/A,SNOMED
+266235007,Acute nonspecific pericarditis,N/A,SNOMED
+15555002,Acute pericarditis,N/A,SNOMED
+194905000,Acute pericarditis - coxsackie,N/A,SNOMED
+194910001,Acute pericarditis - gonococcal,N/A,SNOMED
+194906004,Acute pericarditis - meningococcal,N/A,SNOMED
+194916007,Acute pericarditis - pneumococcal,N/A,SNOMED
+194917003,Acute pericarditis - staphylococcal,N/A,SNOMED
+194918008,Acute pericarditis - streptococcal,N/A,SNOMED
+194907008,Acute pericarditis - syphilitic,N/A,SNOMED
+194908003,Acute pericarditis - tuberculous,N/A,SNOMED
+15555002,Acute pericarditis - unspecified,N/A,SNOMED
+194909006,Acute pericarditis - uraemic,N/A,SNOMED
+194909006,Acute pericarditis - uremic,N/A,SNOMED
+15555002,Acute pericarditis associated with another disorder,N/A,SNOMED
+194903007,Acute pericarditis associated with another disorder,N/A,SNOMED
+194905000,Acute pericarditis caused by human coxsackievirus,N/A,SNOMED
+194909006,Acute pericarditis co-occurrent and due to uraemia,N/A,SNOMED
+194909006,Acute pericarditis co-occurrent and due to uremia,N/A,SNOMED
+194903007,Acute pericarditis in diseases EC,N/A,SNOMED
+194903007,Acute pericarditis in diseases EC,N/A,SNOMED
+15555002,Acute pericarditis NOS,N/A,SNOMED
+194909006,Acute pericarditis secondary to uraemia,N/A,SNOMED
+194909006,Acute pericarditis secondary to uremia,N/A,SNOMED
+53874003,Acute periendocarditis,N/A,SNOMED
+17668000,Acute pleuropericarditis,N/A,SNOMED
+194916007,Acute pneumococcal pericarditis,N/A,SNOMED
+50902000,Acute pneumopericarditis,N/A,SNOMED
+2554006,Acute purulent pericarditis,N/A,SNOMED
+233883000,Acute purulent pericarditis unspecified,N/A,SNOMED
+81077008,Acute rheumatic arthritis,N/A,SNOMED
+312591002,Acute rheumatic carditis,N/A,SNOMED
+18192007,Acute rheumatic endocarditis,N/A,SNOMED
+26424001,Acute rheumatic fever,N/A,SNOMED
+26424001,Acute rheumatic fever NOS,N/A,SNOMED
+18192007,Acute rheumatic fever with endocarditis,N/A,SNOMED
+312591002,Acute rheumatic fever with heart involvement,N/A,SNOMED
+194709000,Acute rheumatic fever with myocarditis,N/A,SNOMED
+15676002,Acute rheumatic fever with pericarditis,N/A,SNOMED
+84871007,Acute rheumatic fever with valvulitis,N/A,SNOMED
+312591002,Acute rheumatic heart disease,N/A,SNOMED
+646091000000000,Acute rheumatic heart disease NOS,N/A,SNOMED
+194709000,Acute rheumatic myocarditis,N/A,SNOMED
+64072006,Acute rheumatic pancarditis,N/A,SNOMED
+15676002,Acute rheumatic pericarditis,N/A,SNOMED
+194917003,Acute staphylococcal pericarditis,N/A,SNOMED
+194918008,Acute streptococcal pericarditis,N/A,SNOMED
+2554006,Acute suppurative pericarditis,N/A,SNOMED
+194907008,Acute syphilitic pericarditis,N/A,SNOMED
+194908003,Acute tuberculous pericarditis,N/A,SNOMED
+40959008,Acute viral pericarditis,N/A,SNOMED
+612081000000000,Acute/subac. endocarditis NOS,N/A,SNOMED
+65718001,Adenoviral myocarditis,N/A,SNOMED
+56501009,Adherent rheumatic pericardium,N/A,SNOMED
+37715009,Adhesive pericarditis,N/A,SNOMED
+37715009,Adhesive pericarditis NOS,N/A,SNOMED
+420395004,AIDS-associated acute endocarditis,N/A,SNOMED
+187041005,American histoplasmosis with endocarditis,N/A,SNOMED
+709930007,Anti-Encephalomyocarditis virus antibody,N/A,SNOMED
+709930007,Antibody to Encephalomyocarditis virus,N/A,SNOMED
+12232008,Aortic aneurysm - syphilitic,N/A,SNOMED
+78031003,Aortic incompetence - rheumatic,N/A,SNOMED
+20735004,Aortitis - syphilitic,N/A,SNOMED
+472810005,Arrhythmia due to vegetation of infectious endocarditis,N/A,SNOMED
+472810005,Arrhythmia due to vegetation of infective endocarditis,N/A,SNOMED
+34336004,Aseptic myocarditis of newborn,N/A,SNOMED
+460338001,Aspergillosis myocarditis,N/A,SNOMED
+698465008,At risk of endocarditis,N/A,SNOMED
+472809000,Atrioventricular block due to endocarditis,N/A,SNOMED
+54072008,Atypical verrucal endocarditis,N/A,SNOMED
+54072008,Atypical verrucous endocarditis,N/A,SNOMED
+460457009,Bacterial constrictive pericarditis,N/A,SNOMED
+301183007,Bacterial endocarditis,N/A,SNOMED
+64043005,Bacterial myocarditis,N/A,SNOMED
+233883000,Bacterial pericarditis,N/A,SNOMED
+301183007,BE - Bacterial endocarditis,N/A,SNOMED
+460620006,Borrelia myocarditis,N/A,SNOMED
+63553008,Candidal endocarditis,N/A,SNOMED
+460329003,Candidal myocarditis,N/A,SNOMED
+472811009,Cardiovascular abnormality due to infectious myocarditis,N/A,SNOMED
+472811009,Cardiovascular abnormality due to infective myocarditis,N/A,SNOMED
+472808008,Cardiovascular fistula due to endocarditis,N/A,SNOMED
+703119002,Carditis due to rheumatic fever,N/A,SNOMED
+230732009,Cerebral arteritis in giant cell arteritis,N/A,SNOMED
+34791000000000,Chest pain due to pericarditis,N/A,SNOMED
+34791000000000,Chest pain of pericarditis,N/A,SNOMED
+460618008,Chlamydial endocarditis,N/A,SNOMED
+42999000,Chronic adhesive pericarditis,N/A,SNOMED
+22462001,Chronic bacterial endocarditis,N/A,SNOMED
+52535005,Chronic constrictive pericarditis,N/A,SNOMED
+27017003,Chronic effusive pericarditis,N/A,SNOMED
+4851007,Chronic endocarditis,N/A,SNOMED
+111284004,Chronic inactive rheumatic heart disease,N/A,SNOMED
+233886008,Chronic infective pericarditis,N/A,SNOMED
+45093008,Chronic interstitial myocarditis,N/A,SNOMED
+23627006,Chronic pericarditis,N/A,SNOMED
+27017003,Chronic pericarditis with effusion,N/A,SNOMED
+12023003,Chronic rheumatic aortic valve,N/A,SNOMED
+286950001,Chronic rheumatic aortic valve disease,N/A,SNOMED
+87648004,Chronic rheumatic carditis,N/A,SNOMED
+46165000,Chronic rheumatic endocarditis,N/A,SNOMED
+87648004,Chronic rheumatic heart diseas,N/A,SNOMED
+87648004,Chronic rheumatic heart disease,N/A,SNOMED
+87648004,Chronic rheumatic heart disease NOS,N/A,SNOMED
+630511000000000,Chronic rheumatic heart disease NOS,N/A,SNOMED
+46165000,Chronic rheumatic heart disease with endocarditis,N/A,SNOMED
+61012002,Chronic rheumatic heart disease with myocarditis,N/A,SNOMED
+89456004,Chronic rheumatic heart disease with valvulitis,N/A,SNOMED
+90453003,Chronic rheumatic mediastinopericarditis,N/A,SNOMED
+286947004,Chronic rheumatic mitral valve,N/A,SNOMED
+11851006,Chronic rheumatic mitral valve,N/A,SNOMED
+61012002,Chronic rheumatic myocarditis,N/A,SNOMED
+756003,Chronic rheumatic myopericarditis,N/A,SNOMED
+78069008,Chronic rheumatic pericarditis,N/A,SNOMED
+78069008,Chronic rheumatic pericarditis NOS,N/A,SNOMED
+89456004,Chronic rheumatic valvulitis,N/A,SNOMED
+82523003,Congestive rheumatic heart failure,N/A,SNOMED
+33258008,Constrictive endocarditis,N/A,SNOMED
+85598007,Constrictive pericarditis,N/A,SNOMED
+460457009,Constrictive pericarditis caused by bacteria,N/A,SNOMED
+460464006,Constrictive pericarditis caused by Mycobacterium tuberculosis complex,N/A,SNOMED
+460450006,Constrictive pericarditis caused by virus,N/A,SNOMED
+460457009,Constrictive pericarditis due to bacteria,N/A,SNOMED
+460464006,Constrictive pericarditis due to Mycobacterium tuberculosis complex,N/A,SNOMED
+460450006,Constrictive pericarditis due to virus,N/A,SNOMED
+85598007,Constrictive pericarditis NOS,N/A,SNOMED
+88129004,Coxsackie endocarditis,N/A,SNOMED
+37217002,Coxsackie myocarditis,N/A,SNOMED
+413933004,Coxsackie myocarditis of newborn,N/A,SNOMED
+27806003,Coxsackie pericarditis,N/A,SNOMED
+233852004,Culture-negative endocarditis,N/A,SNOMED
+15960000000000000,Dilatation of aortic root co-occurrent and due to Marfan syndrome,N/A,SNOMED
+15960000000000000,Dilatation of aortic root co-occurrent and due to Marfan's syndrome,N/A,SNOMED
+54830008,Dilated cardiomyopathy secondary to bacterial myocarditis,N/A,SNOMED
+44630002,Dilated cardiomyopathy secondary to fungal myocarditis,N/A,SNOMED
+2024009,Dilated cardiomyopathy secondary to metazoal myocarditis,N/A,SNOMED
+40532006,Dilated cardiomyopathy secondary to protozoal myocarditis,N/A,SNOMED
+30496006,Dilated cardiomyopathy secondary to viral myocarditis,N/A,SNOMED
+26117009,Diphtheritic myocarditis,N/A,SNOMED
+16055600000000000,Disorder of cardiovascular system co-occurrent and due to Marfan syndrome,N/A,SNOMED
+16055600000000000,Disorder of cardiovascular system co-occurrent and due to Marfan's syndrome,N/A,SNOMED
+23842007,Drug-induced pericarditis,N/A,SNOMED
+460345001,Echovirus myocarditis,N/A,SNOMED
+733457006,Ehlers-Danlos and osteogenesis imperfecta syndrome,N/A,SNOMED
+398114001,Ehlers-Danlos syndrome,N/A,SNOMED
+17025000,Ehlers-Danlos syndrome arterial type E-D,N/A,SNOMED
+720860004,Ehlers-Danlos syndrome arthrogryposic type,N/A,SNOMED
+720858001,Ehlers-Danlos syndrome cardiac valvular type,N/A,SNOMED
+715318006,Ehlers-Danlos syndrome classic type,N/A,SNOMED
+715318006,Ehlers-Danlos syndrome classical type,N/A,SNOMED
+17025000,Ehlers-Danlos syndrome ecchymotic type E-D,N/A,SNOMED
+720860004,Ehlers-Danlos syndrome Kosho type,N/A,SNOMED
+720859009,Ehlers-Danlos syndrome kyphoscoliotic and deafness type,N/A,SNOMED
+720859009,Ehlers-Danlos syndrome kyphoscoliotic and hearing loss type,N/A,SNOMED
+718211004,Ehlers-Danlos syndrome kyphoscoliotic type,N/A,SNOMED
+720860004,Ehlers-Danlos syndrome musculocontractural type,N/A,SNOMED
+720861000,Ehlers-Danlos syndrome progeroid type,N/A,SNOMED
+719096006,Ehlers-Danlos syndrome type 6B,N/A,SNOMED
+55711009,Ehlers-Danlos syndrome type 7,N/A,SNOMED
+50869007,Ehlers-Danlos syndrome type 8,N/A,SNOMED
+59399004,Ehlers-Danlos syndrome type 9 X-linked,N/A,SNOMED
+83470009,Ehlers-Danlos syndrome type I,N/A,SNOMED
+20766005,Ehlers-Danlos syndrome type II,N/A,SNOMED
+30652003,Ehlers-Danlos syndrome type III,N/A,SNOMED
+17025000,Ehlers-Danlos syndrome type IV,N/A,SNOMED
+67202007,Ehlers-Danlos syndrome type V,N/A,SNOMED
+25606004,Ehlers-Danlos syndrome type VI,N/A,SNOMED
+25606004,Ehlers-Danlos syndrome Type VI - ocular (recessive),N/A,SNOMED
+50869007,Ehlers-Danlos syndrome type VIII,N/A,SNOMED
+71322004,Ehlers-Danlos syndrome type XI,N/A,SNOMED
+720862007,Ehlers-Danlos syndrome vascular-like type,N/A,SNOMED
+720857006,Ehlers-Danlos syndrome with periventricular heterotopia,N/A,SNOMED
+83586000,Ehlers-Danlos syndrome with platelet dysfunction,N/A,SNOMED
+720859009,"Ehlers-Danlos syndrome with progressive kyphoscoliosis, myopathy, and deafness",N/A,SNOMED
+4170004,"Ehlers-Danlos syndrome, autosomal dominant type 7",N/A,SNOMED
+55711009,"Ehlers-Danlos syndrome, autosomal recessive type 7",N/A,SNOMED
+30652003,"Ehlers-Danlos syndrome, benign hypermobile form",N/A,SNOMED
+86667008,"Ehlers-Danlos syndrome, dominant type 4",N/A,SNOMED
+83586000,"Ehlers-Danlos syndrome, dysfibronectinaemic",N/A,SNOMED
+83586000,"Ehlers-Danlos syndrome, dysfibronectinemic",N/A,SNOMED
+71322004,"Ehlers-Danlos syndrome, familial joint laxity type",N/A,SNOMED
+83470009,"Ehlers-Danlos syndrome, gravis",N/A,SNOMED
+25606004,"Ehlers-Danlos syndrome, hydroxylysine-deficient",N/A,SNOMED
+25606004,"Ehlers-Danlos syndrome, lysyl hydroxylase deficient",N/A,SNOMED
+59399004,"Ehlers-Danlos syndrome, mental retardation type",N/A,SNOMED
+20766005,"Ehlers-Danlos syndrome, mild classic form",N/A,SNOMED
+67202007,"Ehlers-Danlos syndrome, mild x-linked",N/A,SNOMED
+20766005,"Ehlers-Danlos syndrome, mitis",N/A,SNOMED
+4170004,"Ehlers-Danlos syndrome, mutant procollagen type 7",N/A,SNOMED
+10033001,"Ehlers-Danlos syndrome, non hydroxylysine deficient ocular type",N/A,SNOMED
+59399004,"Ehlers-Danlos syndrome, occipital horn type",N/A,SNOMED
+50869007,"Ehlers-Danlos syndrome, periodontitis type",N/A,SNOMED
+55711009,"Ehlers-Danlos syndrome, procollagen proteinase deficient",N/A,SNOMED
+4170004,"Ehlers-Danlos syndrome, procollagen proteinase resistant",N/A,SNOMED
+70610001,"Ehlers-Danlos syndrome, recessive type 4",N/A,SNOMED
+83470009,"Ehlers-Danlos syndrome, severe classic form",N/A,SNOMED
+83470009,"Ehlers-Danlos syndrome, type 1",N/A,SNOMED
+83586000,"Ehlers-Danlos syndrome, type 10",N/A,SNOMED
+71322004,"Ehlers-Danlos syndrome, type 11",N/A,SNOMED
+20766005,"Ehlers-Danlos syndrome, type 2",N/A,SNOMED
+30652003,"Ehlers-Danlos syndrome, type 3",N/A,SNOMED
+17025000,"Ehlers-Danlos syndrome, type 4",N/A,SNOMED
+67202007,"Ehlers-Danlos syndrome, type 5",N/A,SNOMED
+31798004,"Ehlers-Danlos syndrome, type 6 phenotype with macrocephaly",N/A,SNOMED
+50869007,"Ehlers-Danlos syndrome, type 8",N/A,SNOMED
+59399004,"Ehlers-Danlos syndrome, type 9",N/A,SNOMED
+59399004,"Ehlers-Danlos syndrome, x-linked skeletal type",N/A,SNOMED
+88371005,Encephalomyocarditis virus,N/A,SNOMED
+709930007,Encephalomyocarditis virus Ab,N/A,SNOMED
+709930007,Encephalomyocarditis virus antibody,N/A,SNOMED
+56819008,Endocarditis,N/A,SNOMED
+194931003,Endocarditis - blastomycosis,N/A,SNOMED
+88129004,Endocarditis - coxsackie,N/A,SNOMED
+61048000,Endocarditis - gonococcal,N/A,SNOMED
+34845009,Endocarditis - meningococcal,N/A,SNOMED
+63553008,Endocarditis - monilial,N/A,SNOMED
+95890006,Endocarditis - Q fever,N/A,SNOMED
+194929007,Endocarditis - typhoid,N/A,SNOMED
+472806007,Endocarditis as complication of procedure,N/A,SNOMED
+195012000,Endocarditis associated with another disorder,N/A,SNOMED
+720989003,Endocarditis caused by Erysipelothrix rhusiopathiae,N/A,SNOMED
+460618008,Endocarditis caused by Genus Chlamydia,N/A,SNOMED
+460618008,Endocarditis due to Genus Chlamydia,N/A,SNOMED
+72181000000000,Endocarditis due to systemic lupus erythematosus,N/A,SNOMED
+195012000,Endocarditis in disease EC,N/A,SNOMED
+73774007,Endocarditis lenta,N/A,SNOMED
+762539005,Endocarditis of neoaortic valve,N/A,SNOMED
+762540007,Endocarditis of neopulmonary valve,N/A,SNOMED
+703189006,Endocarditis of prosthetic aortic valve,N/A,SNOMED
+703179007,Endocarditis of prosthetic mitral valve,N/A,SNOMED
+703191003,Endocarditis of prosthetic pulmonary valve,N/A,SNOMED
+703190002,Endocarditis of prosthetic tricuspid valve,N/A,SNOMED
+62703006,Endocarditis with infective aneurysm,N/A,SNOMED
+583021000000000,"Endocarditis, valve unspecified",N/A,SNOMED
+89736004,"Endocarditis, valve unspecified, NOS",N/A,SNOMED
+639601000000000,"Endocarditis, valve unspecified, NOS",N/A,SNOMED
+89736004,"Endocarditis, valve unspecified, OS",N/A,SNOMED
+427372006,Eosinophilic myocarditis,N/A,SNOMED
+720989003,Erysipelothrix rhusiopathiae endocarditis,N/A,SNOMED
+74381009,Familial pericarditis,N/A,SNOMED
+429978009,Family history of endocarditis,N/A,SNOMED
+439154009,Family history of myocarditis,N/A,SNOMED
+472707009,Fetal myocarditis,N/A,SNOMED
+488007,Fibroid myocarditis,N/A,SNOMED
+91025000,Fiedler's myocarditis,N/A,SNOMED
+472707009,Foetal myocarditis,N/A,SNOMED
+86348002,Fungal endocarditis,N/A,SNOMED
+233868005,Fungal myocarditis,N/A,SNOMED
+44595001,Fungal pericarditis,N/A,SNOMED
+414341000,Giant cell arteritis,N/A,SNOMED
+414341000,Giant cell arteritis NOS,N/A,SNOMED
+239938009,Giant cell arteritis with polymyalgia rheumatica,N/A,SNOMED
+239939001,Giant cell arteritis without polymyalgia rheumatica,N/A,SNOMED
+60812006,Giant cell myocarditis,N/A,SNOMED
+266238009,Giant cell myocarditis,N/A,SNOMED
+61048000,Gonococcal endocarditis,N/A,SNOMED
+90428001,Gonococcal pericarditis,N/A,SNOMED
+161500008,H/O: rheumatic fever,N/A,SNOMED
+460439008,Haemophilus pericarditis,N/A,SNOMED
+123597005,Healed bacterial endocarditis,N/A,SNOMED
+703274008,Heart failure with reduced ejection fraction due to myocarditis,N/A,SNOMED
+187041005,Histoplasma capsulatum with endocarditis,N/A,SNOMED
+187040006,Histoplasma capsulatum with pericarditis,N/A,SNOMED
+187051006,Histoplasma duboisii with endocarditis,N/A,SNOMED
+187050007,Histoplasma duboisii with pericarditis,N/A,SNOMED
+187041005,Histoplasmosis endocarditis,N/A,SNOMED
+187041005,Histoplasmosis with endocarditis,N/A,SNOMED
+187059008,Histoplasmosis with pericarditis,N/A,SNOMED
+428287001,History of endocarditis,N/A,SNOMED
+328201000000000,History of giant cell arteritis,N/A,SNOMED
+681211000000000,History of myocarditis,N/A,SNOMED
+285741000000000,History of pericarditis,N/A,SNOMED
+61558009,Hydralazine-induced pericarditis,N/A,SNOMED
+91025000,Idiopathic myocarditis,N/A,SNOMED
+46701001,Idiopathic myocarditis NOS,N/A,SNOMED
+766704005,Idiopathic recurrent pericarditis,N/A,SNOMED
+766704005,Idiopathic relapsing pericarditis,N/A,SNOMED
+233850007,IE - Infective endocarditis,N/A,SNOMED
+723865005,Infection causing myoendocarditis,N/A,SNOMED
+723864009,Infection causing subacute endocarditis,N/A,SNOMED
+459184006,Infectious constrictive pericarditis,N/A,SNOMED
+461416009,Infectious endocarditis at site of implanted vascular shunt,N/A,SNOMED
+459174005,Infectious endocarditis at site of interatrial communication,N/A,SNOMED
+460490009,Infectious endocarditis at site of patch of interatrial communication,N/A,SNOMED
+460358000,Infectious endocarditis at site of patch of ventricular septal defect,N/A,SNOMED
+459172009,Infectious endocarditis at site of ventricular septal defect,N/A,SNOMED
+459068007,Infectious endocarditis of aortic valve,N/A,SNOMED
+459067002,Infectious endocarditis of cardiac valve,N/A,SNOMED
+459178008,Infectious endocarditis of common atrioventricular valve,N/A,SNOMED
+459059005,Infectious endocarditis of heterograft,N/A,SNOMED
+459058002,Infectious endocarditis of homograft,N/A,SNOMED
+459158000,Infectious endocarditis of left atrioventricular (not morphologically mitral) valve,N/A,SNOMED
+459061001,Infectious endocarditis of left ventricular wall,N/A,SNOMED
+459152004,Infectious endocarditis of mitral valve,N/A,SNOMED
+459153009,Infectious endocarditis of pulmonary valve,N/A,SNOMED
+459159008,Infectious endocarditis of right atrioventricular (not morphologically tricuspid) valve,N/A,SNOMED
+459060000,Infectious endocarditis of right ventricular wall,N/A,SNOMED
+459151006,Infectious endocarditis of tricuspid valve,N/A,SNOMED
+459154003,Infectious endocarditis of truncal valve,N/A,SNOMED
+461429009,Infectious endocarditis of vascular cardiac conduit,N/A,SNOMED
+41739008,Infectious pericarditis,N/A,SNOMED
+459184006,Infective constrictive pericarditis,N/A,SNOMED
+233850007,Infective endocarditis,N/A,SNOMED
+461416009,Infective endocarditis at site of implanted vascular shunt,N/A,SNOMED
+459174005,Infective endocarditis at site of interatrial communication,N/A,SNOMED
+460490009,Infective endocarditis at site of patch of interatrial communication,N/A,SNOMED
+460358000,Infective endocarditis at site of patch of ventricular septal defect,N/A,SNOMED
+459172009,Infective endocarditis at site of ventricular septal defect,N/A,SNOMED
+459068007,Infective endocarditis of aortic valve,N/A,SNOMED
+459067002,Infective endocarditis of cardiac valve,N/A,SNOMED
+459178008,Infective endocarditis of common atrioventricular valve,N/A,SNOMED
+459059005,Infective endocarditis of heterograft,N/A,SNOMED
+459058002,Infective endocarditis of homograft,N/A,SNOMED
+459158000,Infective endocarditis of left atrioventricular (nonmitral) valve,N/A,SNOMED
+459158000,Infective endocarditis of left atrioventricular (not morphologically mitral) valve,N/A,SNOMED
+459061001,Infective endocarditis of left ventricular wall,N/A,SNOMED
+459152004,Infective endocarditis of mitral valve,N/A,SNOMED
+459153009,Infective endocarditis of pulmonary valve,N/A,SNOMED
+459159008,Infective endocarditis of right atrioventricular (nontricuspid) valve,N/A,SNOMED
+459159008,Infective endocarditis of right atrioventricular (not morphologically tricuspid) valve,N/A,SNOMED
+459060000,Infective endocarditis of right ventricular wall,N/A,SNOMED
+459151006,Infective endocarditis of tricuspid valve,N/A,SNOMED
+459154003,Infective endocarditis of truncal valve,N/A,SNOMED
+461429009,Infective endocarditis of vascular cardiac conduit,N/A,SNOMED
+22653005,Infective myocarditis,N/A,SNOMED
+723865005,Infective myoendocarditis,N/A,SNOMED
+41739008,Infective pericarditis,N/A,SNOMED
+723088005,Infective periendocarditis,N/A,SNOMED
+37925008,Interstitial myocarditis,N/A,SNOMED
+266238009,Isolated (Fiedler's) myocarditis,N/A,SNOMED
+55482007,Isolated diffuse granulomatous myocarditis,N/A,SNOMED
+708075001,KOH preparation,N/A,SNOMED
+33258008,L‚àö√â¬¨‚àÇffler's endocarditis,N/A,SNOMED
+33258008,L‚àö√â¬¨‚àÇffler's parietal fibroplastic endocarditis,N/A,SNOMED
+12232008,Late quaternary syphilitic aortic aneurysm,N/A,SNOMED
+61612001,Late quaternary syphilitic aortic regurgitation,N/A,SNOMED
+20735004,Late quaternary syphilitic aortitis,N/A,SNOMED
+423718003,Left sided infective endocarditis,N/A,SNOMED
+54072008,Libman-Sacks endocarditis,N/A,SNOMED
+186318004,Listerial endocarditis,N/A,SNOMED
+427443009,Lymphocytic myocarditis,N/A,SNOMED
+44051003,Malignant endocarditis,N/A,SNOMED
+57181007,Marantic endocarditis,N/A,SNOMED
+19346006,Marfan syndrome,N/A,SNOMED
+19346006,Marfan's disease,N/A,SNOMED
+19346006,Marfan's syndrome,N/A,SNOMED
+74918002,Measles myocarditis,N/A,SNOMED
+398114001,Meekeren-Ehlers-Danlos syndrome,N/A,SNOMED
+34845009,Meningococcal endocarditis,N/A,SNOMED
+91468009,Meningococcal myocarditis,N/A,SNOMED
+194950003,Meningococcal myocarditis,N/A,SNOMED
+66704002,Meningococcal pericarditis,N/A,SNOMED
+31085000,Mitral incompetence - rheumatic,N/A,SNOMED
+79619009,Mitral stenosis,N/A,SNOMED
+11851006,Mitral valve disease,N/A,SNOMED
+63462008,Mumps myocarditis,N/A,SNOMED
+86348002,Mycotic endocarditis,N/A,SNOMED
+44595001,Mycotic pericarditis,N/A,SNOMED
+50920009,Myocarditis,N/A,SNOMED
+275512002,Myocarditis - virus unidentified,N/A,SNOMED
+421929001,Myocarditis associated with acquired immunodeficiency syndrome,N/A,SNOMED
+421929001,Myocarditis associated with AIDS,N/A,SNOMED
+1240530000000000,Myocarditis caused by 2019 novel coronavirus,N/A,SNOMED
+1240530000000000,Myocarditis caused by 2019-nCoV (novel coronavirus),N/A,SNOMED
+1240530000000000,Myocarditis caused by 2019-nCoV (novel coronavirus),N/A,SNOMED
+142981000000000,Myocarditis caused by avian influenza,N/A,SNOMED
+72527006,Myocarditis caused by drug,N/A,SNOMED
+460345001,Myocarditis caused by echovirus,N/A,SNOMED
+460338001,Myocarditis caused by Genus Aspergillus,N/A,SNOMED
+460620006,Myocarditis caused by Genus Borrelia,N/A,SNOMED
+460329003,Myocarditis caused by Genus Candida,N/A,SNOMED
+460317007,Myocarditis caused by Genus Rickettsia,N/A,SNOMED
+142951000000000,Myocarditis caused by H1N1 influenza,N/A,SNOMED
+10629400000000000,Myocarditis caused by influenza A,N/A,SNOMED
+142951000000000,Myocarditis caused by Influenza A virus subtype H1N1,N/A,SNOMED
+78046005,Myocarditis caused by influenza virus,N/A,SNOMED
+460352004,Myocarditis caused by Order Spirochaetales,N/A,SNOMED
+79096004,Myocarditis caused by physical agent,N/A,SNOMED
+88782004,Myocarditis caused by radiation,N/A,SNOMED
+1240530000000000,Myocarditis caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),N/A,SNOMED
+1240530000000000,Myocarditis caused by Wuhan 2019-nCoV (novel coronavirus),N/A,SNOMED
+713318009,Myocarditis co-occurrent with human immunodeficiency virus infection,N/A,SNOMED
+76534005,Myocarditis due to acquired toxoplasmosis,N/A,SNOMED
+142981000000000,Myocarditis due to avian influenza,N/A,SNOMED
+55087008,Myocarditis due to chemical agent,N/A,SNOMED
+1240530000000000,Myocarditis due to COVID-19,N/A,SNOMED
+1240530000000000,Myocarditis due to disease caused by 2019 novel coronavirus,N/A,SNOMED
+1240530000000000,Myocarditis due to disease caused by 2019-nCoV (novel coronavirus),N/A,SNOMED
+1240530000000000,Myocarditis due to disease caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),N/A,SNOMED
+1240530000000000,Myocarditis due to disease caused by Severe acute respiratory syndrome coronavirus 2,N/A,SNOMED
+72527006,Myocarditis due to drug,N/A,SNOMED
+460345001,Myocarditis due to echovirus,N/A,SNOMED
+460338001,Myocarditis due to Genus Aspergillus,N/A,SNOMED
+460620006,Myocarditis due to Genus Borrelia,N/A,SNOMED
+460329003,Myocarditis due to Genus Candida,N/A,SNOMED
+460317007,Myocarditis due to Genus Rickettsia,N/A,SNOMED
+142951000000000,Myocarditis due to H1N1 influenza,N/A,SNOMED
+8676001,Myocarditis due to hypersensitivity state,N/A,SNOMED
+22653005,Myocarditis due to infectious agent,N/A,SNOMED
+10629400000000000,Myocarditis due to influenza A,N/A,SNOMED
+142951000000000,Myocarditis due to Influenza A virus subtype H1N1,N/A,SNOMED
+78046005,Myocarditis due to influenza virus,N/A,SNOMED
+460352004,Myocarditis due to Order Spirochaetales,N/A,SNOMED
+79096004,Myocarditis due to physical agent,N/A,SNOMED
+88782004,Myocarditis due to radiation,N/A,SNOMED
+1089930000000000,Myocarditis due to scarlet fever,N/A,SNOMED
+723863003,Myopericarditis,N/A,SNOMED
+763839005,Neonatal Marfan syndrome,N/A,SNOMED
+28386007,Neoplastic secondary pericarditis,N/A,SNOMED
+57181007,Non-bacterial thrombotic endocarditis,N/A,SNOMED
+81376009,Non-infectious pericarditis,N/A,SNOMED
+583021000000000,Non-rheum. endocarditis NOS,N/A,SNOMED
+639601000000000,Non-rheum. endocarditis NOS,N/A,SNOMED
+57181007,Nonbacterial thrombotic endocarditis,N/A,SNOMED
+54072008,Nonbacterial verrucous endocarditis,N/A,SNOMED
+36135007,Noninfective endocarditis,N/A,SNOMED
+194989009,"Nonrheumatic tricuspid valve disorder, unspecified",N/A,SNOMED
+194992008,Nonrheumatic tricuspid valve stenosis with insufficiency,N/A,SNOMED
+55482007,Nonspecific granulomatous myocarditis,N/A,SNOMED
+111300007,Obliterative pericarditis,N/A,SNOMED
+46701001,Other acute myocarditis,N/A,SNOMED
+46701001,Other acute myocarditis NOS,N/A,SNOMED
+312591002,Other acute rheumatic heart disease,N/A,SNOMED
+312591002,Other acute rheumatic heart disease NOS,N/A,SNOMED
+15555002,Other and unspecified acute pericarditis,N/A,SNOMED
+654281000000000,Other and unspecified rheumatic heart disease,N/A,SNOMED
+23685000,Other and unspecified rheumatic heart disease,N/A,SNOMED
+653341000000000,Other chronic rheumatic endocardial disease,N/A,SNOMED
+46165000,Other chronic rheumatic endocardial disease,N/A,SNOMED
+654271000000000,Other chronic rheumatic heart,N/A,SNOMED
+23685000,Other rheumatic heart disease NOS,N/A,SNOMED
+630501000000000,Other rheumatic heart disease NOS,N/A,SNOMED
+87648004,Other specified chronic rheumatic heart disease,N/A,SNOMED
+654271000000000,Other specified chronic rheumatic heart disease,N/A,SNOMED
+62185008,Pancarditis,N/A,SNOMED
+233869002,Parasitic myocarditis,N/A,SNOMED
+28966002,Parasitic pericarditis,N/A,SNOMED
+3238004,Pericarditis,N/A,SNOMED
+89222008,Pericarditis associated with atrial septal defect,N/A,SNOMED
+111301006,Pericarditis associated with familial Mediterranean fever,N/A,SNOMED
+65447009,Pericarditis associated with infectious mononucleosis,N/A,SNOMED
+43742007,Pericarditis associated with severe chronic anaemia,N/A,SNOMED
+43742007,Pericarditis associated with severe chronic anemia,N/A,SNOMED
+45304001,Pericarditis caused by deposits of cholesterol,N/A,SNOMED
+460439008,Pericarditis caused by Genus Haemophilus,N/A,SNOMED
+460439008,Pericarditis caused by Genus Hemophilus,N/A,SNOMED
+712859002,Pericarditis caused by toxin,N/A,SNOMED
+46676000,Pericarditis co-occurrent and due to benign primary tumor,N/A,SNOMED
+46676000,Pericarditis co-occurrent and due to benign primary tumour,N/A,SNOMED
+76541004,Pericarditis co-occurrent and due to chylopericardium,N/A,SNOMED
+58474006,Pericarditis co-occurrent and due to collagen vascular disease,N/A,SNOMED
+111301006,Pericarditis co-occurrent and due to familial Mediterranean fever,N/A,SNOMED
+65447009,Pericarditis co-occurrent and due to infectious mononucleosis,N/A,SNOMED
+55879006,Pericarditis co-occurrent and due to malignant primary tumor,N/A,SNOMED
+55879006,Pericarditis co-occurrent and due to malignant primary tumour,N/A,SNOMED
+31080005,Pericarditis co-occurrent and due to Mulibrey nanism,N/A,SNOMED
+28386007,Pericarditis co-occurrent and due to neoplasia,N/A,SNOMED
+16876006,Pericarditis co-occurrent and due to primary tumor,N/A,SNOMED
+16876006,Pericarditis co-occurrent and due to primary tumour,N/A,SNOMED
+87442008,Pericarditis co-occurrent and due to scleroderma,N/A,SNOMED
+25380002,Pericarditis co-occurrent and due to systemic lupus erythematosus,N/A,SNOMED
+40312006,Pericarditis co-occurrent and due to tumor metastatic to pericardium,N/A,SNOMED
+40312006,Pericarditis co-occurrent and due to tumour metastatic to pericardium,N/A,SNOMED
+80119007,Pericarditis co-occurrent and due to uraemia,N/A,SNOMED
+80119007,Pericarditis co-occurrent and due to uremia,N/A,SNOMED
+89222008,Pericarditis co-occurrent with atrial septal defect,N/A,SNOMED
+7607008,Pericarditis co-occurrent with extraarticular rheumatoid arthritis,N/A,SNOMED
+71023004,Pericarditis due to acute myocardial infarction,N/A,SNOMED
+21290002,Pericarditis due to and following penetrating trauma,N/A,SNOMED
+61575003,Pericarditis due to aortic aneurysm,N/A,SNOMED
+45304001,Pericarditis due to deposits of cholesterol,N/A,SNOMED
+703384007,Pericarditis due to disease of contiguous structure,N/A,SNOMED
+460439008,Pericarditis due to Genus Haemophilus,N/A,SNOMED
+460439008,Pericarditis due to Genus Hemophilus,N/A,SNOMED
+703332001,Pericarditis due to metabolic disease,N/A,SNOMED
+39244004,Pericarditis due to myxedema,N/A,SNOMED
+39244004,Pericarditis due to myxoedema,N/A,SNOMED
+37278001,Pericarditis due to non-penetrating trauma,N/A,SNOMED
+87442008,Pericarditis due to systemic sclerosis,N/A,SNOMED
+712859002,Pericarditis due to toxin,N/A,SNOMED
+703333006,Pericarditis due to vasculitis and connective tissue disease,N/A,SNOMED
+233885007,Pericarditis following myocardial infarction,N/A,SNOMED
+703384007,Pericarditis in disease of contiguous structure,N/A,SNOMED
+703332001,Pericarditis in metabolic disease,N/A,SNOMED
+105982005,Pericarditis related to hypersensitivity AND/OR autoimmunity,N/A,SNOMED
+71023004,Pericarditis secondary to acute myocardial infarction,N/A,SNOMED
+61575003,Pericarditis secondary to aortic aneurysm,N/A,SNOMED
+8256001,Pericarditis secondary to aortic aneurysm with leakage into pericardial sac,N/A,SNOMED
+46676000,Pericarditis secondary to benign primary tumor,N/A,SNOMED
+46676000,Pericarditis secondary to benign primary tumour,N/A,SNOMED
+76541004,Pericarditis secondary to chylopericardium,N/A,SNOMED
+58474006,Pericarditis secondary to collagen vascular disease,N/A,SNOMED
+55879006,Pericarditis secondary to malignant primary tumor,N/A,SNOMED
+55879006,Pericarditis secondary to malignant primary tumour,N/A,SNOMED
+31080005,Pericarditis secondary to Mulibrey nanism,N/A,SNOMED
+39244004,Pericarditis secondary to myxedema,N/A,SNOMED
+39244004,Pericarditis secondary to myxoedema,N/A,SNOMED
+28386007,Pericarditis secondary to neoplasia,N/A,SNOMED
+37278001,Pericarditis secondary to non-penetrating trauma,N/A,SNOMED
+21290002,Pericarditis secondary to penetrating trauma,N/A,SNOMED
+16876006,Pericarditis secondary to primary tumor,N/A,SNOMED
+16876006,Pericarditis secondary to primary tumour,N/A,SNOMED
+7607008,Pericarditis secondary to rheumatoid arthritis,N/A,SNOMED
+87442008,Pericarditis secondary to scleroderma,N/A,SNOMED
+25380002,Pericarditis secondary to systemic lupus erythematosus,N/A,SNOMED
+40312006,Pericarditis secondary to tumor metastatic to pericardium,N/A,SNOMED
+40312006,Pericarditis secondary to tumour metastatic to pericardium,N/A,SNOMED
+80119007,Pericarditis secondary to uraemia,N/A,SNOMED
+80119007,Pericarditis secondary to uremia,N/A,SNOMED
+60357009,Pericarditis sicca,N/A,SNOMED
+460440005,Pericarditis with pericardial effusion caused by Mycobacterium tuberculosis complex,N/A,SNOMED
+460440005,Pericarditis with pericardial effusion due to Mycobacterium tuberculosis complex,N/A,SNOMED
+723088005,Periendocarditis due to infection,N/A,SNOMED
+709604005,Periodontitis associated with Ehlers-Danlos syndrome type 4,N/A,SNOMED
+50869007,Periodontitis associated with Ehlers-Danlos syndrome type VIII,N/A,SNOMED
+709604005,Periodontitis co-occurrent with Ehlers-Danlos syndrome type 4,N/A,SNOMED
+233885007,Post infarction pericarditis,N/A,SNOMED
+233885007,Post-infarction pericarditis,N/A,SNOMED
+33558009,Post-radiation pericarditis,N/A,SNOMED
+39097001,Post-traumatic pericarditis,N/A,SNOMED
+64420008,Postcardiac injury pericarditis,N/A,SNOMED
+66189004,Postmyocardial infarction pericarditis,N/A,SNOMED
+58600007,Postpericardiotomy pericarditis,N/A,SNOMED
+55043004,Procainamide-induced pericarditis,N/A,SNOMED
+233853009,Prosthetic valve endocarditis,N/A,SNOMED
+8916007,Protozoan myocarditis,N/A,SNOMED
+2439002,Purulent endocarditis,N/A,SNOMED
+233853009,PVE - Prosthetic valve endocarditis,N/A,SNOMED
+15016005,Pyogenic pericarditis,N/A,SNOMED
+95890006,Q fever endocarditis,N/A,SNOMED
+233867000,Q fever myocarditis,N/A,SNOMED
+233884006,Q fever pericarditis,N/A,SNOMED
+20005002,Recurrent rheumatic heart disease,N/A,SNOMED
+24132004,Resection of pericardium for chronic constrictive pericarditis,N/A,SNOMED
+56501009,Rheumatic adherent pericardium,N/A,SNOMED
+639461000000000,Rheumatic aortic disease NOS,N/A,SNOMED
+12023003,Rheumatic aortic disease NOS,N/A,SNOMED
+78031003,Rheumatic aortic incompetence,N/A,SNOMED
+78031003,Rheumatic aortic insufficiency,N/A,SNOMED
+78031003,Rheumatic aortic regurgitation,N/A,SNOMED
+72011007,Rheumatic aortic stenosis,N/A,SNOMED
+17759006,Rheumatic aortic stenosis with incompetence,N/A,SNOMED
+17759006,Rheumatic aortic stenosis with insufficiency,N/A,SNOMED
+17759006,Rheumatic aortic stenosis with regurgitation,N/A,SNOMED
+12023003,Rheumatic aortic valve disease,N/A,SNOMED
+639461000000000,Rheumatic aortic valve disease NOS,N/A,SNOMED
+12023003,Rheumatic aortic valve disease NOS,N/A,SNOMED
+72011007,Rheumatic aortic valve obstruction,N/A,SNOMED
+429347004,Rheumatic aortic valve sclerosis,N/A,SNOMED
+123803006,Rheumatic arteritis,N/A,SNOMED
+23685000,Rheumatic carditis,N/A,SNOMED
+46826000,Rheumatic chorea,N/A,SNOMED
+46826000,Rheumatic chorea NOS,N/A,SNOMED
+57803009,Rheumatic chorea with heart involvement,N/A,SNOMED
+46826000,Rheumatic chorea without mention of heart involvement,N/A,SNOMED
+194750008,Rheumatic degeneration of myocardium,N/A,SNOMED
+12023003,Rheumatic disease of aortic valve,N/A,SNOMED
+48872007,Rheumatic disease of endocardium,N/A,SNOMED
+16063004,Rheumatic disease of heart valve,N/A,SNOMED
+16440002,Rheumatic disease of mitral AND aortic valves,N/A,SNOMED
+83898004,Rheumatic disease of mitral valve,N/A,SNOMED
+18687009,Rheumatic disease of pulmonary valve,N/A,SNOMED
+49699002,Rheumatic disease of tricuspid valve,N/A,SNOMED
+48872007,Rheumatic endocarditis,N/A,SNOMED
+653341000000000,Rheumatic endocardium disease,N/A,SNOMED
+194708008,Rheumatic fever with heart involvement,N/A,SNOMED
+703119002,Rheumatic fever with heart involvement,N/A,SNOMED
+23685000,Rheumatic heart disease,N/A,SNOMED
+630501000000000,Rheumatic heart disease NOS,N/A,SNOMED
+654281000000000,Rheumatic heart disease NOS,N/A,SNOMED
+23685000,Rheumatic heart disease unspecified,N/A,SNOMED
+91529004,Rheumatic heart valve failure,N/A,SNOMED
+43121002,Rheumatic heart valve incompetence,N/A,SNOMED
+43121002,Rheumatic heart valve insufficiency,N/A,SNOMED
+43121002,Rheumatic heart valve regurgitation,N/A,SNOMED
+19036004,Rheumatic heart valve stenosis,N/A,SNOMED
+28284007,Rheumatic heart valve stenosis with incompetence,N/A,SNOMED
+28284007,Rheumatic heart valve stenosis with insufficiency,N/A,SNOMED
+34248003,Rheumatic inflammation,N/A,SNOMED
+43736008,Rheumatic left ventricular failure,N/A,SNOMED
+59464004,Rheumatic mitral AND aortic valve incompetence,N/A,SNOMED
+59464004,Rheumatic mitral AND aortic valve insufficiency,N/A,SNOMED
+370141003,Rheumatic mitral AND aortic valve obstruction,N/A,SNOMED
+59464004,Rheumatic mitral AND aortic valve regurgitation,N/A,SNOMED
+639451000000000,Rheumatic mitral disease NOS,N/A,SNOMED
+31085000,Rheumatic mitral incompetence,N/A,SNOMED
+31085000,Rheumatic mitral insufficiency,N/A,SNOMED
+31085000,Rheumatic mitral regurgitation,N/A,SNOMED
+86466006,Rheumatic mitral stenosis,N/A,SNOMED
+787001,Rheumatic mitral stenosis with incompetence,N/A,SNOMED
+787001,Rheumatic mitral stenosis with insufficiency,N/A,SNOMED
+787001,Rheumatic mitral stenosis with regurgitation,N/A,SNOMED
+44993000,Rheumatic mitral valve and aortic valve stenosis,N/A,SNOMED
+286011000000000,Rheumatic mitral valve annular calcification,N/A,SNOMED
+83898004,Rheumatic mitral valve changes,N/A,SNOMED
+83898004,Rheumatic mitral valve disease,N/A,SNOMED
+40023000,Rheumatic mitral valve failure,N/A,SNOMED
+81552002,Rheumatic mitral valve insufficiency AND aortic valve stenosis,N/A,SNOMED
+250999000,Rheumatic mitral valve leaflet changes,N/A,SNOMED
+86466006,Rheumatic mitral valve obstruction,N/A,SNOMED
+286031000000000,Rheumatic mitral valve prolapse,N/A,SNOMED
+71799002,Rheumatic mitral valve stenosis AND aortic valve insufficiency,N/A,SNOMED
+194750008,Rheumatic myocarditis,N/A,SNOMED
+23685000,Rheumatic pancarditis,N/A,SNOMED
+28381002,Rheumatic pericarditis,N/A,SNOMED
+7548000,Rheumatic pneumonia,N/A,SNOMED
+34126003,Rheumatic pulmonary insufficiency,N/A,SNOMED
+34126003,Rheumatic pulmonary regurgitation,N/A,SNOMED
+91442002,Rheumatic pulmonary stenosis,N/A,SNOMED
+85971001,Rheumatic pulmonary stenosis and insufficiency,N/A,SNOMED
+18687009,Rheumatic pulmonary valve disease,N/A,SNOMED
+18687009,Rheumatic pulmonary valve disease NOS,N/A,SNOMED
+52048004,Rheumatic pulmonary valve failure,N/A,SNOMED
+34126003,Rheumatic pulmonary valve incompetence,N/A,SNOMED
+34126003,Rheumatic pulmonary valve insufficiency,N/A,SNOMED
+91442002,Rheumatic pulmonary valve obstruction,N/A,SNOMED
+34126003,Rheumatic pulmonary valve regurgitation,N/A,SNOMED
+91442002,Rheumatic pulmonary valve stenosis,N/A,SNOMED
+85971001,Rheumatic pulmonary valve stenosis with incompetence,N/A,SNOMED
+85971001,Rheumatic pulmonary valve stenosis with insufficiency,N/A,SNOMED
+85971001,Rheumatic pulmonary valve stenosis with regurgitation,N/A,SNOMED
+67696008,Rheumatic tricuspid insufficiency,N/A,SNOMED
+67696008,Rheumatic tricuspid regurgitation,N/A,SNOMED
+88318005,Rheumatic tricuspid stenosis,N/A,SNOMED
+194741006,Rheumatic tricuspid stenosis and incompetence,N/A,SNOMED
+194741006,Rheumatic tricuspid stenosis and insufficiency,N/A,SNOMED
+194741006,Rheumatic tricuspid stenosis and regurgitation,N/A,SNOMED
+49699002,Rheumatic tricuspid valve disease,N/A,SNOMED
+49699002,Rheumatic tricuspid valve disease NOS,N/A,SNOMED
+612101000000000,Rheumatic tricuspid valve disease NOS,N/A,SNOMED
+16855001,Rheumatic tricuspid valve failure,N/A,SNOMED
+67696008,Rheumatic tricuspid valve incompetence,N/A,SNOMED
+67696008,Rheumatic tricuspid valve insufficiency,N/A,SNOMED
+88318005,Rheumatic tricuspid valve obstruction,N/A,SNOMED
+67696008,Rheumatic tricuspid valve regurgitation,N/A,SNOMED
+88318005,Rheumatic tricuspid valve stenosis,N/A,SNOMED
+194741006,Rheumatic tricuspid valve stenosis with regurgitation,N/A,SNOMED
+16063004,Rheumatic valvulitis,N/A,SNOMED
+87648004,"Rheumatic valvulitis, chronic NOS",N/A,SNOMED
+195136004,Rheumatoid myocarditis,N/A,SNOMED
+233851006,Rickettsial endocarditis,N/A,SNOMED
+460317007,Rickettsial myocarditis,N/A,SNOMED
+425177009,Right sided infective endocarditis,N/A,SNOMED
+426087004,Right-sided Staphylococcus aureus endocarditis,N/A,SNOMED
+301772008,Risk of subacute bacterial endocarditis,N/A,SNOMED
+64190005,Rubella myocarditis,N/A,SNOMED
+195033009,Sarcoid myocarditis,N/A,SNOMED
+73774007,SBE - Subacute bacterial endocarditis,N/A,SNOMED
+28386007,Secondary neoplastic pericarditis,N/A,SNOMED
+279001,Senile myocarditis,N/A,SNOMED
+44051003,Septic endocarditis,N/A,SNOMED
+64043005,Septic myocarditis,N/A,SNOMED
+194956009,Septic myocarditis - pneumococcal,N/A,SNOMED
+194957000,Septic myocarditis - staphylococcal,N/A,SNOMED
+194958005,Septic myocarditis - streptococcal,N/A,SNOMED
+22653005,Septic myocarditis NOS,N/A,SNOMED
+123599008,Serofibrinous pericarditis,N/A,SNOMED
+402972001,Skin involvement in bacterial endocarditis,N/A,SNOMED
+460352004,Spirochaetal myocarditis,N/A,SNOMED
+460352004,Spirochetal myocarditis,N/A,SNOMED
+73028002,Staphylococcal endocarditis,N/A,SNOMED
+73774007,Subacute bact. endocarditis,N/A,SNOMED
+266237004,Subacute bact. endocarditis,N/A,SNOMED
+73774007,Subacute bacterial endocarditis,N/A,SNOMED
+426931009,Subacute bacterial endocarditis prophylaxis,N/A,SNOMED
+14455008,Subacute constrictive pericarditis,N/A,SNOMED
+5836005,Subacute effusive constrictive pericarditis,N/A,SNOMED
+66893008,Subacute endocarditis,N/A,SNOMED
+420938005,Subacute endocarditis associated with acquired immunodeficiency syndrome,N/A,SNOMED
+420938005,Subacute endocarditis associated with AIDS,N/A,SNOMED
+194921005,Subacute endocarditis NOS,N/A,SNOMED
+48228003,Subacute endopericarditis,N/A,SNOMED
+723864009,Subacute infective endocarditis,N/A,SNOMED
+18484008,Subacute interstitial myocarditis,N/A,SNOMED
+421272004,Subacute myocarditis associated with acquired immunodeficiency syndrome,N/A,SNOMED
+421272004,Subacute myocarditis associated with AIDS,N/A,SNOMED
+69589006,Subacute myoendocarditis,N/A,SNOMED
+194921005,Subacute myoendocarditis NOS,N/A,SNOMED
+86504008,Subacute pericarditis,N/A,SNOMED
+48228003,Subacute periendocarditis,N/A,SNOMED
+194921005,Subacute periendocarditis NOS,N/A,SNOMED
+46826000,Sydenham's chorea,N/A,SNOMED
+58056005,Syphilis of mitral valve,N/A,SNOMED
+45058001,Syphilis of pulmonary valve,N/A,SNOMED
+42770003,Syphilis of tricuspid valve,N/A,SNOMED
+20735004,Syphilis-associated aortitis,N/A,SNOMED
+12232008,Syphilitic aneurysm of aorta,N/A,SNOMED
+12232008,Syphilitic aortic aneurysm,N/A,SNOMED
+61612001,Syphilitic aortic incompetence,N/A,SNOMED
+61612001,Syphilitic aortic regurgitation,N/A,SNOMED
+82355002,Syphilitic aortic stenosis,N/A,SNOMED
+20735004,Syphilitic aortitis,N/A,SNOMED
+12232008,Syphilitic dilatation of aorta,N/A,SNOMED
+67391006,Syphilitic endocarditis,N/A,SNOMED
+278480000,Syphilitic endocarditis of aortic valve,N/A,SNOMED
+67391006,Syphilitic endocarditis of heart valve NOS,N/A,SNOMED
+186875004,Syphilitic endocarditis of mitral valve,N/A,SNOMED
+186878002,Syphilitic endocarditis of pulmonary valve,N/A,SNOMED
+186877007,Syphilitic endocarditis of tricuspid valve,N/A,SNOMED
+67391006,Syphilitic endocarditis of unspecified valve,N/A,SNOMED
+4082005,Syphilitic myocarditis,N/A,SNOMED
+3589003,Syphilitic pericarditis,N/A,SNOMED
+233849007,Syphilitic valve disease,N/A,SNOMED
+94851000000000,Syphilitic valvular endocarditis,N/A,SNOMED
+309762007,Systemic lupus erythematosus with pericarditis,N/A,SNOMED
+194908003,TB - acute pericarditis,N/A,SNOMED
+400130008,Temporal giant cell arteritis,N/A,SNOMED
+31993003,Toxic myocarditis,N/A,SNOMED
+187195003,Toxoplasma myocarditis,N/A,SNOMED
+67696008,Tricuspid incompetence - rheumatic,N/A,SNOMED
+460464006,Tuberculous constrictive pericarditis,N/A,SNOMED
+67256000,Tuberculous pericarditis,N/A,SNOMED
+460440005,Tuberculous pericarditis with pericardial effusion,N/A,SNOMED
+44051003,Ulcerative endocarditis,N/A,SNOMED
+80119007,Uraemic pericarditis,N/A,SNOMED
+80119007,Uremic pericarditis,N/A,SNOMED
+89736004,Valvular endocarditis,N/A,SNOMED
+86100009,Vegetative endocarditis,N/A,SNOMED
+472807003,Ventricular septal defect due to and following infective endocarditis,N/A,SNOMED
+472807003,Ventricular septal defect due to endocarditis,N/A,SNOMED
+86100009,Verrucous endocarditis,N/A,SNOMED
+460450006,Viral constrictive pericarditis,N/A,SNOMED
+459057007,Viral endocarditis,N/A,SNOMED
+89141000,Viral myocarditis,N/A,SNOMED
+70189005,Viral pericarditis,N/A,SNOMED
+275513007,Viral pericarditis - virus unidentified,N/A,SNOMED
+460445000,Viral pericarditis with pericardial effusion,N/A,SNOMED
