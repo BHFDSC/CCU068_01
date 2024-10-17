@@ -1,4 +1,6 @@
-# The impact of COVID-19 vaccination on patients with congenital heart disease in England and Wales
+# The impact of COVID-19 vaccination on patients with congenital heart disease in England: a case-control study
+
+**Catriona Harrison, Simon Frain, Farideh Jalalinajafabadi, Simon G Williams, Bernard Keavney, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
@@ -13,7 +15,8 @@ In this sub-project, we aimed to:
 
 
 ## How to cite this work
-> Citation goes here
+
+Harrison C, Frain S, Jalalinajafabadi F, et alThe impact of COVID-19 vaccination on patients with congenital heart disease in England: a case-control studyHeart Published Online First: 11 October 2024. doi: https://doi.org/10.1136/heartjnl-2024-324470
 
 ## Contents
 
